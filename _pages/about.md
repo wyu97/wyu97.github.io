@@ -12,7 +12,7 @@ I am a first-year Ph.D. student in Computer Science and Engineering at the [Univ
 
 My research interest lies in graph-based machine learning and natural language processing. Specifically, I am working on Reasoning on Behaviorial Text Intention, Natural Text Generation, Question Answering.
 
-News
+What's New
 ======
 
 * \[**2019.01**\] One paper was accepted by [The WebConf 2019](https://www2019.thewebconf.org/).
