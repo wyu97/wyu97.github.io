@@ -14,12 +14,11 @@ My research interest lies in graph-based machine learning and natural language p
 
 News
 ======
-* \[**2019.01**\] One paper was accepted by [***The WebConf 2019***](www.meng-jiang.com).
 
-Education
-======
+* \[**2019.01**\] One paper was accepted by [The WebConf 2019](https://www2019.thewebconf.org/).
+
 
 Contact
 ======
-* Email: wyu1\[at\]nd.edu
+* Email: wyu1 \[at\] nd \[dot\] edu
 * Office: University of Notre Dame, Notre Dame, IN 46565
