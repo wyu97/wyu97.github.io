@@ -9,34 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-* Separate and Attend in Personal Email Search \[[PDF](https://arxiv.org/abs/1911.09732)\] \[[Google AI Page](https://ai.google/research/pubs/pub48688)\]
-**Yu Meng**, Maryam Karimzadehgan, Honglei Zhuang, Donald Metzler.
-ACM International Conference on Web Search and Data Mining (**WSDM**), 2020
+* \[W2\] ``Generating Helpful Responses for Intelligent Tech Support'', by **Wenhao Yu**, Lingfei Wu, Shu Tao, Yu Deng, Qingkai Zeng, Meng Jiang. Workshop on Reasoning for Complex QA (RCQA) in conjunction with AAAI Conference on Artificial Intelligence (**AAAI**), 2020. (To Appear)
 
-* Spherical Text Embedding \[[PDF](https://arxiv.org/abs/1911.01196)\] \[[Slides](/files/Spherical-Text-Embedding.pdf)\] \[[Poster](/files/Spherical-Text-Embedding-poster.pdf)\] \[[Code](https://github.com/yumeng5/Spherical-Text-Embedding)\]
-**Yu Meng**, Jiaxin Huang, Guangyuan Wang, Chao Zhang, Honglei Zhuang, Lance Kaplan, Jiawei Han.
-Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2019
+* \[W1\] ``Faceted Hierarchy: A New Graph Type to Organize Scientific Concepts and a Construction Method'', by Qingkai Zeng, Mengxia Yu, **Wenhao Yu**, Jinjun Xiong, Yiyu Shi, Meng Jiang. Workshop on Graph-Based Natural Language Processing (TextGraphs) at Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2019. \[PDF\](https://www.aclweb.org/anthology/D19-5317.pdf)
 
-* TextCube: Automated Construction and Multidimensional Exploration \[[PDF](https://www.dropbox.com/s/gbqd83zocy2szph/VLDB%2719%20tutorial.pdf?dl=1)\] \[[Abstract](http://www.vldb.org/pvldb/vol12/p1974-meng.pdf)\]
-**Yu Meng**, Jiaxin Huang, Jingbo Shang, Jiawei Han.
-International Conference on Very Large Data Bases (**VLDB**), 2019 _(Tutorial)_
-
-* TopicMine: User-Guided Topic Mining by Category-Oriented Embedding \[[PDF](https://www.kdd.org/kdd2019/docs/KDD2019_Showcase_2074.pdf)\]
-**Yu Meng**\*, Jiaxin Huang\*, Zihan Wang, Chenyu Fan, Guangyuan Wang, Chao Zhang, Jingbo Shang, Lance Kaplan, Jiawei Han.
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2019 _(Demo)_
-
-* HiGitClass: Keyword-Driven Hierarchical Classification of GitHub Repositories \[[PDF](https://arxiv.org/abs/1910.07115)\] \[[Code](https://github.com/yuzhimanhua/HiGitClass)\]
-Yu Zhang, Frank F. Xu, Sha Li, **Yu Meng**, Xuan Wang, Qi Li, Jiawei Han.
-IEEE International Conference on Data Mining (**ICDM**), 2019
-
-* Weakly-Supervised Hierarchical Text Classification \[[PDF](https://arxiv.org/abs/1812.11270)\] \[[Code](https://github.com/yumeng5/WeSHClass)\]
-**Yu Meng**, Jiaming Shen, Chao Zhang, Jiawei Han.
-AAAI Conference on Artificial Intelligence (**AAAI**), 2019
-
-* Weakly-Supervised Neural Text Classification \[[PDF](https://arxiv.org/abs/1809.01478)\] \[[Code](https://github.com/yumeng5/WeSTClass)\]
-**Yu Meng**, Jiaming Shen, Chao Zhang, Jiawei Han.
-ACM International Conference on Information and Knowledge Management (**CIKM**), 2018
-
-* Verifying nonlinear analog and mixed-signal circuits with inputs \[[PDF](https://arxiv.org/abs/1803.02975)\]
-Chuchu Fan, **Yu Meng**, Jürgen Maier, Ezio Bartocci, Sayan Mitra, Ulrich Schmid.
-IFAC Conference on Analysis and Design of Hybrid Systems (**ADHS**), 2018
+* \[C1\] ``Tablepedia: Automating PDF Table Reading in an Experimental Evidence Exploration and Analytic System'', by **Wenhao Yu**, Zongze Li, Qingkai Zeng, Meng Jiang. The Web Conference (**TheWebConf**), 2019. \[PDF\](https://dl.acm.org/citation.cfm?id=3314118)
