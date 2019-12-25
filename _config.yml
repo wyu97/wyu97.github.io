@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Wenhao Yu"
-  avatar           : "avatar.png"
+  avatar           : "profile.png"
   bio              : "Ph.D Student in Computer Science and Engineering"
   location         : "Notre Dame, IN"
   employer         :
   pubmed           : # ""
-  googlescholar    : "https://scholar.google.com/citations?user=mzRRX3QAAAAJ&hl=en"
-  email            : "yumeng5@illinois.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=fBu11ZoAAAAJ&hl=en&oi=ao"
+  email            : "wyu1@nd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yumeng5"
+  github           : "wyu97"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yu-meng-284455122"
+  linkedin         : "https://www.linkedin.com/in/wenhao-yu-242355153"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
