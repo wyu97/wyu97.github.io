@@ -20,8 +20,8 @@ Education
 
 Experience
 ======
-* Research Assistant in IBM China Lab,
-  * Beijing, 2019.1-2019.4
+* Research Assistant in IBM China Lab, Beijing
+  * 2019.1-2019.4
 
 Service
 ======
