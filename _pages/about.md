@@ -22,4 +22,5 @@ What's New
 Contact
 ======
 * Email: wyu1 \[at\] nd \[dot\] edu
-* Office: University of Notre Dame, Notre Dame, IN 46565
+* Office: 355 Fitzpatrick Hall of Engineering
+* Location: University of Notre Dame, Notre Dame, IN 46565
