@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please kindly find my [Curriculum Vitae](https://github.com/wyu97/wyu97.github.io/tree/master/files/Wenhao_CV.pdf).
+Please kindly find my [Curriculum Vitae](/files/Wenhao_CV.pdf).
 
 Education
 ======
