@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Please kindly find my [Curriculum Vitae]().
+Please kindly find my [Curriculum Vitae](https://github.com/wyu97/wyu97.github.io/tree/master/files/Wenhao_CV.pdf).
 
 Education
 ======
 * B.E. of Computer Science and Techonology, Sichuan Univerisity
-  * 2015-2019, GPA:3.83/4.0
+  * 2015-2019, GPA: 3.8/4.0
 * Ph.D。 of Computer Science and Engineering, University of Notre Dame
-  * 2019-Now, GPA:4.0/4.0
+  * 2019-Now, GPA: 4.0/4.0
 
 Experience
 ======
