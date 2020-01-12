@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-* \[C3\] **Wenhao Yu**, Mengxia Yu, Tong Zhao, Meng Jiang, Identifying Referential Intention with Heterogeneous Contexts, In Proceeding of the Web Conference (**TheWebConf**) (Known as **WWW**), 2020. (Oral) \[[PDF]()\]
+* \[C3\] **Wenhao Yu**, Mengxia Yu, Tong Zhao, Meng Jiang, Identifying Referential Intention with Heterogeneous Contexts, In Proceeding of International World Wide Web Conference (**WWW**), 2020. (Oral) \[[PDF]()\]
 
-* \[C2\] **Wenhao Yu**, Wei Peng, Yu Shu, Qingkai Zeng, Meng Jiang, Experimental Evidence Extraction System in Data Science with Hybrid Table Features and Ensemble Learning, In Proceeding of the Web Conference (**TheWebConf**) (Known as **WWW**), 2020. (Oral) \[[PDF]()\]
+* \[C2\] **Wenhao Yu**, Wei Peng, Yu Shu, Qingkai Zeng, Meng Jiang, Experimental Evidence Extraction System in Data Science with Hybrid Table Features and Ensemble Learning, In Proceeding of International World Wide Web Conference (**WWW**), 2020. (Oral) \[[PDF]()\]
 
 * \[W2\] **Wenhao Yu**, Lingfei Wu, Shu Tao, Yu Deng, Qingkai Zeng, Meng Jiang, Generating Helpful Responses for Intelligent Tech Support, In the Workshop on Reasoning for Complex QA (RCQA) in conjunction at AAAI Conference on Artificial Intelligence (**AAAI**), 2020.  \[[PDF](/papers/W2_RCQA_2020.pdf)\]
 
