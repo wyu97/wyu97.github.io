@@ -19,6 +19,13 @@ What's New
 * \[December 2019\] One paper was accepted by [RCQA 2020 Workshop](https://rcqa-ws.github.io/) in [AAAI 2020](https://aaai.org/Conferences/AAAI-20/).
 * \[January 2019\] One paper was accepted by [The WebConf 2019](https://www2019.thewebconf.org/).
 
+Recent Publications
+======
+
+* **Wenhao Yu**, Mengxia Yu, Tong Zhao, Meng Jiang, Identifying Referential Intention with Heterogeneous Contexts, In Proceeding of International World Wide Web Conference (**WWW**), 2020. (Oral) \[[PDF](/papers/C3_WWW_2020.pdf)\]\[[CODE](https://github.com/dmsquare/ReferInt)\]
+
+* **Wenhao Yu**, Wei Peng, Yu Shu, Qingkai Zeng, Meng Jiang, Experimental Evidence Extraction System in Data Science with Hybrid Table Features and Ensemble Learning, In Proceeding of International World Wide Web Conference (**WWW**), 2020. (Oral) \[[PDF](/papers/C2_WWW_2020.pdf)\]\[[CODE](https://github.com/dmsquare/Tablepedia)\]
+
 
 Contact
 ======
