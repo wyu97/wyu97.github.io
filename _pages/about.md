@@ -22,9 +22,9 @@ What's New
 Recent Publications
 ======
 
-* **Wenhao Yu**, Mengxia Yu, Tong Zhao, Meng Jiang, Identifying Referential Intention with Heterogeneous Contexts, In Proceeding of International World Wide Web Conference (**WWW**), 2020. (Oral) \[[PDF](/papers/C3_WWW_2020.pdf)\]\[[CODE](https://github.com/dmsquare/ReferInt)\]
+* **Wenhao Yu**, Mengxia Yu, Tong Zhao, Meng Jiang, Identifying Referential Intention with Heterogeneous Contexts, In Proceeding of International World Wide Web Conference (**WWW**), 2020. (oral presentation, to appear.) \[[Pdf](/papers/C3_WWW_2020.pdf)\]
 
-* **Wenhao Yu**, Wei Peng, Yu Shu, Qingkai Zeng, Meng Jiang, Experimental Evidence Extraction System in Data Science with Hybrid Table Features and Ensemble Learning, In Proceeding of International World Wide Web Conference (**WWW**), 2020. (Oral) \[[PDF](/papers/C2_WWW_2020.pdf)\]\[[CODE](https://github.com/dmsquare/Tablepedia)\]
+* **Wenhao Yu**, Wei Peng, Yu Shu, Qingkai Zeng, Meng Jiang, Experimental Evidence Extraction System in Data Science with Hybrid Table Features and Ensemble Learning, In Proceeding of International World Wide Web Conference (**WWW**), 2020. (oral presentation, to appear.) \[[Pdf](/papers/C2_WWW_2020.pdf)\]
 
 
 Contact
