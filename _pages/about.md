@@ -15,12 +15,19 @@ My research interest lies in graph-based machine learning and natural language p
 What's New
 ======
 
+* \[April 2020\] One paper was accepted by [The ACL 2020](https://acl2020.org/). Thanks to all my co-authors.
+
 * \[January 2020\] Two papers with oral presentation were accepted by [The WebConf 2020](https://www2020.thewebconf.org/). Thanks to all my co-authors.
 * \[December 2019\] One paper was accepted by [RCQA 2020 Workshop](https://rcqa-ws.github.io/) in [AAAI 2020](https://aaai.org/Conferences/AAAI-20/).
 * \[January 2019\] One paper was accepted by [The WebConf 2019](https://www2019.thewebconf.org/).
 
+* Our video ["Where we belong to"](https://www.youtube.com/watch?v=KRKoCkO3LDs) will be taken as the institutional spot for the 2018-2019 academic year for the [University of Notre Dame](https://www.nd.edu/).
+
+
 Recent Publications
 ======
+
+* **Wenhao Yu**, Lingfei Wu, Qingkai Zeng, Shu Tao, Yu Deng, Meng Jiang, Crossing Variational Autoencoders for Answer Retrieval, In Proceeding of Annual Conference of the Association for Computational Linguistics (**ACL**), 2020. (To Appear)
 
 * **Wenhao Yu**, Mengxia Yu, Tong Zhao, Meng Jiang, Identifying Referential Intention with Heterogeneous Contexts, In Proceeding of International World Wide Web Conference (**WWW**), 2020. (oral presentation, to appear.) \[[Pdf](/papers/C3_WWW_2020.pdf)\]
 

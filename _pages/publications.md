@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+* \[C4\] **Wenhao Yu**, Lingfei Wu, Qingkai Zeng, Shu Tao, Yu Deng, Meng Jiang, Crossing Variational Autoencoders for Answer Retrieval, In Proceeding of Annual Conference of the Association for Computational Linguistics (**ACL**), 2020. (To Appear)
+
 * \[C3\] **Wenhao Yu**, Mengxia Yu, Tong Zhao, Meng Jiang, Identifying Referential Intention with Heterogeneous Contexts, In Proceeding of International World Wide Web Conference (**WWW**), 2020. (Oral) \[[Pdf](/papers/C3_WWW_2020.pdf)\]
 
 * \[C2\] **Wenhao Yu**, Wei Peng, Yu Shu, Qingkai Zeng, Meng Jiang, Experimental Evidence Extraction System in Data Science with Hybrid Table Features and Ensemble Learning, In Proceeding of International World Wide Web Conference (**WWW**), 2020. (Oral) \[[Pdf](/papers/C2_WWW_2020.pdf)\]
