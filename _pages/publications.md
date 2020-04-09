@@ -17,6 +17,6 @@ redirect_from:
 
 * \[W2\] **Wenhao Yu**, Lingfei Wu, Shu Tao, Yu Deng, Qingkai Zeng, Meng Jiang, Generating Helpful Responses for Intelligent Tech Support, In the Workshop on Reasoning for Complex QA (RCQA) in conjunction at AAAI Conference on Artificial Intelligence (**AAAI**), 2020.  \[[Pdf](/papers/W2_RCQA_2020.pdf)\]
 
-* \[W1\] Qingkai Zeng, Mengxia Yu, **Wenhao Yu**, Jinjun Xiong, Yiyu Shi, Meng Jiang, Faceted Hierarchy: A New Graph Type to Organize Scientific Concepts and a Construction Method, In the Workshop on Graph-Based Natural Language Processing (TextGraphs) at Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2019. \[[Pdf](https://www.aclweb.org/anthology/D19-5317.pdf)\]
+* \[W1\] Qingkai Zeng, Mengxia Yu, **Wenhao Yu**, Jinjun Xiong, Yiyu Shi, Meng Jiang, Faceted Hierarchy: A New Graph Type to Organize Scientific Concepts and a Construction Method, In the Workshop on Graph-Based Natural Language Processing (TextGraphs) at Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2019. \[[Pdf](/papers/W1_TextGraph_2019.pdf)\]
 
 * \[C1\] **Wenhao Yu**, Zongze Li, Qingkai Zeng, Meng Jiang, Tablepedia: Automating PDF Table Reading in an Experimental Evidence Exploration and Analytic System, In Proceeding of International World Wide Web Conference (**WWW**), 2019. (Demo) \[[Pdf](/papers/C1_WWW_2019.pdf)\] \[[Demo](https://vimeo.com/310162310)\]
