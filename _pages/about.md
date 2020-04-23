@@ -15,9 +15,8 @@ My research interest lies in graph-based machine learning and natural language p
 What's New
 ======
 
-* \[April 2020\] One paper was accepted by [ACL 2020](https://acl2020.org/) on QA retrieval.
+* \[April 2020\] One paper was accepted by [ACL 2020](https://acl2020.org/) on question answer retrieval.
 * \[January 2020\] Two papers with oral presentation were accepted by [WWW 2020](https://www2020.thewebconf.org/).
-
 * \[December 2019\] One paper was accepted by [RCQA 2020 Workshop](https://rcqa-ws.github.io/) in [AAAI 2020](https://aaai.org/Conferences/AAAI-20/).
 * \[January 2019\] One paper was accepted by [WWW 2019](https://www2019.thewebconf.org/). Thanks to all my co-authors.
 
