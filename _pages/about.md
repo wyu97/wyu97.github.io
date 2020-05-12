@@ -15,6 +15,8 @@ My research interest lies in graph-based machine learning and natural language p
 What's New
 ======
 
+* \[May 2020\] Passed Ph.D qualification exam with average GPA 3.95/4.0 in all major courses.
+
 * \[April 2020\] One paper was accepted by [ACL 2020](https://acl2020.org/) on question answer retrieval.
 * \[January 2020\] Two papers with oral presentation were accepted by [WWW 2020](https://www2020.thewebconf.org/).
 * \[December 2019\] One paper was accepted by [RCQA 2020 Workshop](https://rcqa-ws.github.io/) in [AAAI 2020](https://aaai.org/Conferences/AAAI-20/).
@@ -25,7 +27,7 @@ What's New
 Recent Publications
 ======
 
-* **Wenhao Yu**, Lingfei Wu, Qingkai Zeng, Shu Tao, Yu Deng, Meng Jiang, Crossing Variational Autoencoders for Answer Retrieval, In Proceeding of Annual Conference of the Association for Computational Linguistics (**ACL**), 2020. (To Appear)
+* **Wenhao Yu**, Lingfei Wu, Qingkai Zeng, Shu Tao, Yu Deng, Meng Jiang, Crossing Variational Autoencoders for Answer Retrieval, In Proceeding of Annual Conference of the Association for Computational Linguistics (**ACL**), 2020.  \[[pdf](https://arxiv.org/pdf/2005.02557.pdf)\] \[[codes]()\]
 
 * **Wenhao Yu**, Mengxia Yu, Tong Zhao, Meng Jiang, Identifying Referential Intention with Heterogeneous Contexts, In Proceeding of International World Wide Web Conference (**WWW**), 2020. (oral) \[[pdf](/papers/C3_WWW_2020.pdf)\] \[[slides](/slides/C3_WWW_2020.pdf)\] \[[codes](https://github.com/dmsquare/ReferInt)\]
 

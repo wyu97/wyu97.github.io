@@ -9,11 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-* \[C4\] **Wenhao Yu**, Lingfei Wu, Qingkai Zeng, Shu Tao, Yu Deng, Meng Jiang, Crossing Variational Autoencoders for Answer Retrieval, In Proceeding of Annual Conference of the Association for Computational Linguistics (**ACL**), 2020. (To Appear)
+* \[C4\] **Wenhao Yu**, Lingfei Wu, Qingkai Zeng, Shu Tao, Yu Deng, Meng Jiang, Crossing Variational Autoencoders for Answer Retrieval, In Proceeding of Annual Conference of the Association for Computational Linguistics (**ACL**), 2020. \[[pdf](https://arxiv.org/pdf/2005.02557.pdf)\] \[[codes]()\]
 
-* \[C3\] **Wenhao Yu**, Mengxia Yu, Tong Zhao, Meng Jiang, Identifying Referential Intention with Heterogeneous Contexts, In Proceeding of International World Wide Web Conference (**WWW**), 2020. (oral) \[[pdf](/papers/C3_WWW_2020.pdf)\] \[[slides](/slides/C3_WWW_2020.pdf)\]\[[codes](https://github.com/dmsquare/ReferInt)\]
 
-* \[C2\] **Wenhao Yu**, Wei Peng, Yu Shu, Qingkai Zeng, Meng Jiang, Experimental Evidence Extraction System in Data Science with Hybrid Table Features and Ensemble Learning, In Proceeding of International World Wide Web Conference (**WWW**), 2020. (oral) \[[pdf](/papers/C2_WWW_2020.pdf)\] \[[slides](/slides/C2_WWW_2020_slides.pdf)\] \[[poster](/poster/C2_WWW_2020_poster.pdf)\] \[[resources](https://github.com/dmsquare/Tablepedia)\]
+* \[C3\] **Wenhao Yu**, Mengxia Yu, Tong Zhao, Meng Jiang, Identifying Referential Intention with Heterogeneous Contexts, In Proceeding of the Web Conference (**WWW**), 2020. (oral) \[[pdf](/papers/C3_WWW_2020.pdf)\] \[[slides](/slides/C3_WWW_2020.pdf)\]\[[codes](https://github.com/dmsquare/ReferInt)\]
+
+* \[C2\] **Wenhao Yu**, Wei Peng, Yu Shu, Qingkai Zeng, Meng Jiang, Experimental Evidence Extraction System in Data Science with Hybrid Table Features and Ensemble Learning, In Proceeding of the Web Conference (**WWW**), 2020. (oral) \[[pdf](/papers/C2_WWW_2020.pdf)\] \[[slides](/slides/C2_WWW_2020_slides.pdf)\] \[[poster](/poster/C2_WWW_2020_poster.pdf)\] \[[resources](https://github.com/dmsquare/Tablepedia)\]
 
 * \[W2\] **Wenhao Yu**, Lingfei Wu, Shu Tao, Yu Deng, Qingkai Zeng, Meng Jiang, Generating Helpful Responses for Intelligent Tech Support, In the Workshop on Reasoning for Complex QA (RCQA) in conjunction at AAAI Conference on Artificial Intelligence (**AAAI**), 2020.  \[[pdf](/papers/W2_RCQA_2020.pdf)\] \[[poster](/poster/W2_RCQA_2020_poster.pdf)\]
 

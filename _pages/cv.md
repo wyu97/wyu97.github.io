@@ -14,9 +14,9 @@ Please kindly find my [Curriculum Vitae](/files/Wenhao_CV.pdf).
 Education
 ======
 * B.E. of Computer Science and Techonology, Sichuan Univerisity
-  * 2015-2019, GPA: 3.8/4.0
+  * 2015-2019, GPA: 3.84/4.0
 * Ph.D。 of Computer Science and Engineering, University of Notre Dame
-  * 2019-Now, GPA: 4.0/4.0
+  * 2019-Now, GPA: 3.95/4.0
 
 Experience
 ======
