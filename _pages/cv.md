@@ -26,3 +26,4 @@ Experience
 Service
 ======
 * Invited Reviewer of Transactions on Knowledge Discovery from Data [TKDD](https://tkdd.acm.org/)
+* Invited Reviewer of International Journal of Intelligent Systems [IJIS](https://onlinelibrary.wiley.com/journal/1098111X)
