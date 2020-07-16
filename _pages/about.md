@@ -14,7 +14,7 @@ My research interest lies in graph-based machine learning and natural language p
 
 What's New
 ======
-* \[July 2020\] One workshop paper was accepted by [DLG 2020](https://deep-learning-graphs.bitbucket.io/dlg-kdd20/) in [KDD 2020](https://www.kdd.org/kdd2020/).
+* \[July 2020\] One paper was accepted by DLG workshop in [KDD 2020](https://www.kdd.org/kdd2020/).
 * \[May 2020\] Passed Ph.D qualification exam with avg.GPA 3.95/4.0 in all major courses.
 * \[April 2020\] One paper was accepted by [ACL 2020](https://acl2020.org/) on question answer retrieval.
 * \[January 2020\] Two papers with oral presentation were accepted by [WWW 2020](https://www2020.thewebconf.org/).

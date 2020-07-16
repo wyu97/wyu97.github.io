@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* \[W3\] Tong Zhao, Bo, Ni, **Wenhao Yu**, Meng Jiang, Early Fraud Detection with Augmented Graph Learning, In the Second International Workshop on Deep Learning on Graphs: Methods and Applications (DLG) in conjunction with ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2020.  \[[pdf]()\]
+* \[W3\] Tong Zhao, Bo, Ni, **Wenhao Yu**, Meng Jiang, Early Fraud Detection with Augmented Graph Learning, In the Workshop on Deep Learning on Graphs: Methods and Applications (DLG) in conjunction with International Conference on Knowledge Discovery and Data Mining (**KDD**), 2020.  \[[pdf]()\]
 
 * \[C4\] **Wenhao Yu**, Lingfei Wu, Qingkai Zeng, Shu Tao, Yu Deng, Meng Jiang, Crossing Variational Autoencoders for Answer Retrieval, In Proceeding of Annual Conference of the Association for Computational Linguistics (**ACL**), 2020. \[[pdf](https://arxiv.org/pdf/2005.02557.pdf)\]
 
