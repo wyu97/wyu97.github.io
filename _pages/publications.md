@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+* \[C5\] Zhichun Guo, **Wenhao Yu**, Chuxu Zhang, Meng Jiang, Nitesh Chawla, GraSeq: Graph and Sequence Fusion Learning for Molecular Property Prediction, In Proceedings of ACM International Conference on Information and Knowledge Management (**CIKM**), 2020. (acceptance rate 21% = 193/920) (To appear)
+
 * \[W3\] Tong Zhao, Bo, Ni, **Wenhao Yu**, Meng Jiang, Early Fraud Detection with Augmented Graph Learning, In the Workshop on Deep Learning on Graphs: Methods and Applications (DLG) in conjunction with International Conference on Knowledge Discovery and Data Mining (**KDD**), 2020.  \[[pdf]()\]
 
 * \[C4\] **Wenhao Yu**, Lingfei Wu, Qingkai Zeng, Shu Tao, Yu Deng, Meng Jiang, Crossing Variational Autoencoders for Answer Retrieval, In Proceeding of Annual Conference of the Association for Computational Linguistics (**ACL**), 2020. \[[pdf](https://arxiv.org/pdf/2005.02557.pdf)\]
