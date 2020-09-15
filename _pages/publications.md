@@ -9,9 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-* \[C5\] Zhichun Guo, **Wenhao Yu**, Chuxu Zhang, Meng Jiang, Nitesh Chawla, GraSeq: Graph and Sequence Fusion Learning for Molecular Property Prediction, In Proceedings of ACM International Conference on Information and Knowledge Management (**CIKM**), 2020. (acceptance rate 21% = 193/920) (To appear)
+* \[C7\] **Wenhao Yu**, Lingfei Wu, Yu Deng, Ruchi Mahindru, Qingkai Zeng, Sinem Guven, Meng Jiang, A Technical Question Answering System with Transfer Learning, In Proceedings of Empirical Methods on Natural Language Processing (**EMNLP**), 2020 (demo track, to appear)
 
-* \[W3\] Tong Zhao, Bo Ni, **Wenhao Yu**, Meng Jiang, Early Fraud Detection with Augmented Graph Learning, In the Workshop on Deep Learning on Graphs: Methods and Applications (DLG) in conjunction with International Conference on Knowledge Discovery and Data Mining (**KDD**), 2020.  \[[pdf]()\]
+* \[C6\] Qingkai Zeng, **Wenhao Yu**, Mengxia Yu, Tianwen Jiang, Tim Weninger, Meng Jiang, Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER, In Findings of Empirical Methods on Natural Language Processing (**EMNLP**), 2020 (to appear)
+
+* \[C5\] Zhichun Guo, **Wenhao Yu**, Chuxu Zhang, Meng Jiang, Nitesh Chawla, GraSeq: Graph and Sequence Fusion Learning for Molecular Property Prediction, In Proceedings of ACM International Conference on Information and Knowledge Management (**CIKM**), 2020. (acceptance rate 21% = 193/920) \[[pdf](http://www.meng-jiang.com/pubs/graseq-cikm20/graseq-cikm20-paper.pdf)\] (to appear)
+
+* \[W3\] Tong Zhao, Bo Ni, **Wenhao Yu**, Meng Jiang, Early Fraud Detection with Augmented Graph Learning, In the Workshop on Deep Learning on Graphs: Methods and Applications (DLG) in conjunction with International Conference on Knowledge Discovery and Data Mining (**KDD**), 2020.  \[[pdf](https://tzhao.io/files/papers/DLG20_EarlyFraud.pdf)\]
 
 * \[C4\] **Wenhao Yu**, Lingfei Wu, Qingkai Zeng, Shu Tao, Yu Deng, Meng Jiang, Crossing Variational Autoencoders for Answer Retrieval, In Annual Conference of the Association for Computational Linguistics (**ACL**), 2020. \[[pdf](https://arxiv.org/pdf/2005.02557.pdf)\]
 
