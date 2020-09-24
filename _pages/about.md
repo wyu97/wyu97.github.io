@@ -27,13 +27,17 @@ What's New
 
 Recent Publications
 ======
+\[[Full List](/_pages/publications.md)\] \[[Google Scholar](https://scholar.google.com/citations?user=fBu11ZoAAAAJ&hl=en&oi=ao)\]
 
-* **Wenhao Yu**, Lingfei Wu, Qingkai Zeng, Shu Tao, Yu Deng, Meng Jiang, Crossing Variational Autoencoders for Answer Retrieval, In Proceeding of Annual Conference of the Association for Computational Linguistics (**ACL**), 2020.  \[[pdf](https://arxiv.org/pdf/2005.02557.pdf)\]
+* [Identifying Referential Intention with Heterogeneous Contexts](/papers/C3_WWW_2020.pdf) <br>
+  <u>**W. Yu**</u>, M. Yu, T. Zhao, M. Jiang <br>
+  [WWW 2020] The Web Conference (formerly known as World Wide Web) <br>
+  \[[code](https://github.com/dmsquare/ReferInt)\] \[[slides](/slides/C3_WWW_2020.pdf)\]
 
-* **Wenhao Yu**, Mengxia Yu, Tong Zhao, Meng Jiang, Identifying Referential Intention with Heterogeneous Contexts, In Proceeding of International World Wide Web Conference (**WWW**), 2020. (oral) \[[pdf](/papers/C3_WWW_2020.pdf)\] \[[slides](/slides/C3_WWW_2020.pdf)\] \[[code](https://github.com/dmsquare/ReferInt)\]
-
-* **Wenhao Yu**, Wei Peng, Yu Shu, Qingkai Zeng, Meng Jiang, Experimental Evidence Extraction System in Data Science with Hybrid Table Features and Ensemble Learning, In Proceeding of International World Wide Web Conference (**WWW**), 2020. (oral) \[[pdf](/papers/C2_WWW_2020.pdf)\] \[[slides](/slides/C2_WWW_2020_slides.pdf)\] \[[poster](/poster/C2_WWW_2020_poster.pdf)\] \[[code](https://github.com/dmsquare/Tablepedia)\]
-
+* [Experimental Evidence Extraction System in Data Science with Hybrid Table Features and Ensemble Learning](/papers/C2_WWW_2020.pdf) <br>
+  <u>**W. Yu**</u>, W. Peng, Y. Shu, Q. Zeng, M. Jiang <br>
+  [WWW 2020] The Web Conference (formerly known as World Wide Web) <br>
+  \[[code](https://github.com/dmsquare/Tablepedia)\] \[[slides](/slides/C2_WWW_2020_slides.pdf)\] \[[poster](/poster/C2_WWW_2020_poster.pdf)\]
 
 Contact
 ======

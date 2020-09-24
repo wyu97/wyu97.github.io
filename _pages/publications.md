@@ -9,22 +9,57 @@ redirect_from:
 
 {% include base_path %}
 
-* \[C7\] **Wenhao Yu**, Lingfei Wu, Yu Deng, Ruchi Mahindru, Qingkai Zeng, Sinem Guven, Meng Jiang, A Technical Question Answering System with Transfer Learning, In Proceedings of Empirical Methods on Natural Language Processing (**EMNLP**), 2020 (demo track, to appear)
+**2020 Conference Paper**
 
-* \[C6\] Qingkai Zeng, **Wenhao Yu**, Mengxia Yu, Tianwen Jiang, Tim Weninger, Meng Jiang, Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER, In Findings of Empirical Methods on Natural Language Processing (**EMNLP**), 2020 (to appear)
+* [A Technical Question Answering System with Transfer Learning]() <br>
+  <u>**W. Yu**</u>, L. Wu, Y. Deng, R. Mahindru, Q. Zeng, S. Guven, M. Jiang <br>
+  [EMNLP 2020] Conference on Empirical Methods on Natural Language Processing  (Demo) <br>
+  \[[code]()\] \[[video]()\]
 
-* \[C5\] Zhichun Guo, **Wenhao Yu**, Chuxu Zhang, Meng Jiang, Nitesh Chawla, GraSeq: Graph and Sequence Fusion Learning for Molecular Property Prediction, In Proceedings of ACM International Conference on Information and Knowledge Management (**CIKM**), 2020. (acceptance rate 21% = 193/920) \[[pdf](http://www.meng-jiang.com/pubs/graseq-cikm20/graseq-cikm20-paper.pdf)\] (to appear)
+* [Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER]() <br>
+  Q. Zeng, <u>**W. Yu**</u>, M. Yu, T. Jiang, T. Weninger, M. Jiang <br>
+  [EMNLP 2020] Findings of Empirical Methods on Natural Language Processing
 
-* \[W3\] Tong Zhao, Bo Ni, **Wenhao Yu**, Meng Jiang, Early Fraud Detection with Augmented Graph Learning, In the Workshop on Deep Learning on Graphs: Methods and Applications (DLG) in conjunction with International Conference on Knowledge Discovery and Data Mining (**KDD**), 2020.  \[[pdf](https://tzhao.io/files/papers/DLG20_EarlyFraud.pdf)\]
+* [GraSeq: Graph and Sequence Fusion Learning for Molecular Property Prediction](http://www.meng-jiang.com/pubs/graseq-cikm20/graseq-cikm20-paper.pdf) <br>
+  Z. Guo, <u>**W. Yu**</u>, C. Zhang, M. Jiang, N. Chawla <br>
+  [CIKM 2020] ACM International Conference on Information and Knowledge Management <br>
+  \[[code](https://github.com/zhichunguo/GraSeq)\]
 
-* \[C4\] **Wenhao Yu**, Lingfei Wu, Qingkai Zeng, Shu Tao, Yu Deng, Meng Jiang, Crossing Variational Autoencoders for Answer Retrieval, In Annual Conference of the Association for Computational Linguistics (**ACL**), 2020. \[[pdf](https://arxiv.org/pdf/2005.02557.pdf)\]
+* [Crossing Variational Autoencoders for Answer Retrieval](https://arxiv.org/pdf/2005.02557.pdf) <br>
+  <u>**W. Yu**</u>, L. Wu, Q. Zeng, S. Tao, Y. Deng, M. Jiang <br>
+  [ACL 2020] Annual Meeting of the Association for Computational Linguistics
 
-* \[C3\] **Wenhao Yu**, Mengxia Yu, Tong Zhao, Meng Jiang, Identifying Referential Intention with Heterogeneous Contexts, In Proceeding of the Web Conference (**WWW**), 2020. (Oral Presentation) \[[pdf](/papers/C3_WWW_2020.pdf)\] \[[slides](/slides/C3_WWW_2020.pdf)\]\[[code](https://github.com/dmsquare/ReferInt)\]
+* [Identifying Referential Intention with Heterogeneous Contexts](/papers/C3_WWW_2020.pdf) <br>
+  <u>**W. Yu**</u>, M. Yu, T. Zhao, M. Jiang <br>
+  [WWW 2020] The Web Conference (formerly known as World Wide Web) <br>
+  \[[code](https://github.com/dmsquare/ReferInt)\] \[[slides](/slides/C3_WWW_2020.pdf)\]
 
-* \[C2\] **Wenhao Yu**, Wei Peng, Yu Shu, Qingkai Zeng, Meng Jiang, Experimental Evidence Extraction System in Data Science with Hybrid Table Features and Ensemble Learning, In Proceeding of the Web Conference (**WWW**), 2020. (Oral Presentation) \[[pdf](/papers/C2_WWW_2020.pdf)\] \[[slides](/slides/C2_WWW_2020_slides.pdf)\] \[[poster](/poster/C2_WWW_2020_poster.pdf)\] \[[code](https://github.com/dmsquare/Tablepedia)\]
+* [Experimental Evidence Extraction System in Data Science with Hybrid Table Features and Ensemble Learning](/papers/C2_WWW_2020.pdf) <br>
+  <u>**W. Yu**</u>, W. Peng, Y. Shu, Q. Zeng, M. Jiang <br>
+  [WWW 2020] The Web Conference (formerly known as World Wide Web) <br>
+  \[[code](https://github.com/dmsquare/Tablepedia)\] \[[slides](/slides/C2_WWW_2020_slides.pdf)\] \[[poster](/poster/C2_WWW_2020_poster.pdf)\]
 
-* \[W2\] **Wenhao Yu**, Lingfei Wu, Shu Tao, Yu Deng, Qingkai Zeng, Meng Jiang, Generating Helpful Responses for Intelligent Tech Support, In the Workshop on Reasoning for Complex QA (RCQA) in conjunction at AAAI Conference on Artificial Intelligence (**AAAI**), 2020.  \[[pdf](/papers/W2_RCQA_2020.pdf)\] \[[poster](/poster/W2_RCQA_2020_poster.pdf)\]
+**2019 Conference Paper**
 
-* \[W1\] Qingkai Zeng, Mengxia Yu, **Wenhao Yu**, Jinjun Xiong, Yiyu Shi, Meng Jiang, Faceted Hierarchy: A New Graph Type to Organize Scientific Concepts and a Construction Method, In the Workshop on Graph-Based Natural Language Processing (TextGraphs) at Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2019. \[[pdf](/papers/W1_TextGraph_2019.pdf)\] \[[code](https://github.com/QingkaiZeng/HiGrowth)\]
+* [Tablepedia: Automating PDF Table Reading in an Experimental Evidence Exploration and Analytic System](/papers/C1_WWW_2019.pdf) <br>
+  <u>**W. Yu**</u>, Z. Li, Q. Zeng, M. Jiang <br>
+  [WWW 2019] World Wide Web Conference (Demo) <br>
+  \[[video](https://vimeo.com/310162310)\]
 
-* \[C1\] **Wenhao Yu**, Zongze Li, Qingkai Zeng, Meng Jiang, Tablepedia: Automating PDF Table Reading in an Experimental Evidence Exploration and Analytic System, In Proceeding of International World Wide Web Conference (**WWW**), 2019. (Demostration Track) \[[pdf](/papers/C1_WWW_2019.pdf)\] \[[video](https://vimeo.com/310162310)\]
+**2019- Workshop Papers**
+
+* [Early Fraud Detection with Augmented Graph Learning](https://tzhao.io/files/papers/DLG20_EarlyFraud.pdf) <br>
+  T. Zhao, B. Ni, <u>**W. Yu**</u>, M. Jiang <br>
+  [KDD-DLG 2020] Workshop on Deep Learning on Graphs: Methods and
+
+* [Generating Helpful Responses for Intelligent Tech Support](/papers/W2_RCQA_2020.pdf) <br>
+  <u>**W. Yu**</u>, L. Wu, S. Tao, Y. Deng, Q. Zeng, M. Jiang <br>
+  [AAAI-RCQA 2020] Workshop on Reasoning for Complex Question Answering <br>
+  \[[poster](/poster/W2_RCQA_2020_poster.pdf)\]
+
+* [Faceted Hierarchy: A New Graph Type to Organize Scientific Concepts and a Construction Method]() <br>
+  Q. Zeng, M. Yu, <u>**W. Yu**</u>, J. Xiong, Y. Shi, M. Jiang <br>
+  [EMNLP-TextGraphs 2019] Workshop on Graph-Based Natural Language Processing <br>
+  \[[code](https://github.com/QingkaiZeng/HiGrowth)\]
+
+
