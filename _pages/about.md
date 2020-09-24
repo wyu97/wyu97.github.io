@@ -30,12 +30,12 @@ Recent Publications
 \[[Full List](/_pages/publications.md)\] \[[Google Scholar](https://scholar.google.com/citations?user=fBu11ZoAAAAJ&hl=en&oi=ao)\]
 
 * [Identifying Referential Intention with Heterogeneous Contexts](/papers/C3_WWW_2020.pdf) <br>
-  <u>**W. Yu**</u>, M. Yu, T. Zhao, M. Jiang <br>
+  **<u>W. Yu</u>**, M. Yu, T. Zhao, M. Jiang <br>
   [WWW 2020] The Web Conference (formerly known as World Wide Web) <br>
   \[[code](https://github.com/dmsquare/ReferInt)\] \[[slides](/slides/C3_WWW_2020.pdf)\]
 
 * [Experimental Evidence Extraction System in Data Science with Hybrid Table Features and Ensemble Learning](/papers/C2_WWW_2020.pdf) <br>
-  <u>**W. Yu**</u>, W. Peng, Y. Shu, Q. Zeng, M. Jiang <br>
+  **<u>W. Yu</u>**, W. Peng, Y. Shu, Q. Zeng, M. Jiang <br>
   [WWW 2020] The Web Conference (formerly known as World Wide Web) <br>
   \[[code](https://github.com/dmsquare/Tablepedia)\] \[[slides](/slides/C2_WWW_2020_slides.pdf)\] \[[poster](/poster/C2_WWW_2020_poster.pdf)\]
 
