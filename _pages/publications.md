@@ -11,7 +11,7 @@ redirect_from:
 
 **2020 Conference Paper**
 
-* <font color="#000066">[A Technical Question Answering System with Transfer Learning]()</font> <br>
+* [A Technical Question Answering System with Transfer Learning]() <br>
   **<u>W. Yu</u>**, L. Wu, Y. Deng, R. Mahindru, Q. Zeng, S. Guven, M. Jiang <br>
   [EMNLP 2020] Conference on Empirical Methods on Natural Language Processing  (Demo) <br>
   \[[code]()\] \[[video]()\]
