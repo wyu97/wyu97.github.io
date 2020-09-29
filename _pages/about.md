@@ -30,7 +30,7 @@ Recent Publications
 \[[Full List](/_pages/publications.md)\] \[[Google Scholar](https://scholar.google.com/citations?user=fBu11ZoAAAAJ&hl=en&oi=ao)\]
 
 * Injecting Entity Types into Entity-Guided Text Generation <br>
-  X. Dong*, **<u>W. Yu\*</u>** (equal contribution), C. Zhu, M. Jiang <br>
+  X. Dong*, **<u>W. Yu*</u>** (equal contribution), C. Zhu, M. Jiang <br>
   arXiv:2009.13401 \[[pdf](https://arxiv.org/abs/2009.13401)\] \[[code](https://github.com/wyu97/InjType)\]
 
 * Identifying Referential Intention with Heterogeneous Contexts <br>
