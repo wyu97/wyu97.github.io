@@ -12,7 +12,7 @@ redirect_from:
 **Preprint Papers**
 
 * Injecting Entity Types into Entity-Guided Text Generation <br>
-  X. Dong*, **<u>W. Yu\*</u>** (equal contribution), C. Zhu, M. Jiang <br>
+  X. Dong*, **<u>W. Yu*</u>** (equal contribution), C. Zhu, M. Jiang <br>
   arXiv:2009.13401 \[[pdf](https://arxiv.org/abs/2009.13401)\] \[[code](https://github.com/wyu97/InjType)\]
 
 
