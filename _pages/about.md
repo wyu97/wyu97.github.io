@@ -14,7 +14,7 @@ My research interest lies in natural language processing (NLP). Specifically, I 
 
 What's New
 ======
-
+* \[October 2020\] We released a survey on **knowledge-enhanced text generation**. Check our [paper](https://arxiv.org/abs/2010.04389) and [reading list](https://github.com/wyu97/KENLG-Reading/blob/master/README.md) with code/data collections.
 * \[September 2020\] Two papers are accepted to [EMNLP 2020](https://2020.emnlp.org/).
 * \[July 2020\] One full research track paper was accepted [CIKM 2020](https://www.cikm2020.org/).
 * \[July 2020\] One paper was accepted by DLG workshop in [KDD 2020](https://www.kdd.org/kdd2020/).
@@ -29,14 +29,15 @@ Recent Publications
 ======
 \[[Full List](/_pages/publications.md)\] \[[Google Scholar](https://scholar.google.com/citations?user=fBu11ZoAAAAJ&hl=en&oi=ao)\]
 
+* A Survey of Knowledge-Enhanced Text Generation <br>
+  **<u>W. Yu</u>**, C. Zhu, Z. Li, Z. Hu, Q. Wang, H. Ji, M. Jiang <br>
+  arXiv:2010.04389 \[[pdf](https://arxiv.org/abs/2010.04389)\] \[[reading-list/code](https://github.com/wyu97/KENLG-Reading/blob/master/README.md)\]
+
 * Injecting Entity Types into Entity-Guided Text Generation <br>
   X. Dong*, **<u>W. Yu*</u>** (equal contribution), C. Zhu, M. Jiang <br>
   arXiv:2009.13401 \[[pdf](https://arxiv.org/abs/2009.13401)\] \[[code](https://github.com/wyu97/InjType)\]
 
-* Identifying Referential Intention with Heterogeneous Contexts <br>
-  **<u>W. Yu</u>**, M. Yu, T. Zhao, M. Jiang <br>
-  [WWW 2020] The Web Conference (formerly known as World Wide Web) <br>
-  \[[pdf](/papers/C3_WWW_2020.pdf)\] \[[code](https://github.com/dmsquare/ReferInt)\] \[[slides](/slides/C3_WWW_2020.pdf)\]
+
 
 Contact
 ======
