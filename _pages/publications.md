@@ -66,7 +66,7 @@ redirect_from:
   **<u>W. Yu</u>**, Z. Li, Q. Zeng, M. Jiang <br>
   [WWW 2019] World Wide Web Conference (Demo) <br>
   \[[pdf](/papers/C1_WWW_2019.pdf)\] \[[video](https://vimeo.com/310162310)\]
-
+<!--
 **2019- Workshop Papers**
 
 * Early Fraud Detection with Augmented Graph Learning <br>
@@ -84,4 +84,4 @@ redirect_from:
   [EMNLP-TextGraphs 2019] Workshop on Graph-Based Natural Language Processing <br>
   \[[pdf](https://www.aclweb.org/anthology/D19-5317.pdf)\] \[[code](https://github.com/QingkaiZeng/HiGrowth)\]
 
-
+ -->
