@@ -14,7 +14,7 @@ My research interest lies in natural language processing (NLP). Specifically, I 
 
 What's New
 ======
-* \[October 2020\] We released a survey on **knowledge-enhanced text generation**. Check our [paper](https://arxiv.org/abs/2010.04389) and [reading list](https://github.com/wyu97/KENLG-Reading/blob/master/README.md) with code/data collections.
+* \[October 2020\] We released a survey on **knowledge-enhanced text generation**. Check our [paper](https://arxiv.org/abs/2010.04389) and [reading list](https://github.com/wyu97/KENLG-Reading/blob/master/README.md) with code/data collections here.
 * \[September 2020\] Two papers are accepted to [EMNLP 2020](https://2020.emnlp.org/).
 * \[July 2020\] One full research track paper was accepted [CIKM 2020](https://www.cikm2020.org/).
 * \[July 2020\] One paper was accepted by DLG workshop in [KDD 2020](https://www.kdd.org/kdd2020/).
@@ -25,7 +25,7 @@ What's New
 <!-- * \[January 2019\] One paper was accepted by [WWW 2019](https://www2019.thewebconf.org/). Thanks to all my co-authors. -->
 <!-- * Our video ["Where we belong to"](https://www.youtube.com/watch?v=KRKoCkO3LDs) will be taken as the institutional spot for the 2018-2019 academic year for the [University of Notre Dame](https://www.nd.edu/). (Viewed 20,000+ times on Youtube) -->
 
-Recent Publications
+Recent Papers
 ======
 \[[Full List](/_pages/publications.md)\] \[[Google Scholar](https://scholar.google.com/citations?user=fBu11ZoAAAAJ&hl=en&oi=ao)\]
 
