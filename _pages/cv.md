@@ -26,5 +26,4 @@ Experience
 Service
 ======
 * Conference PC/Reviewer: EMNLP 2020 / WSDM 2021 / AAAI 2021 / IJCAI 2021
-
 * Journal Reviewer: TKDD / International Journal of Intelligent Systems (IJIS)
