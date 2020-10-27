@@ -14,10 +14,9 @@ My research interest lies in natural language processing (NLP). Specifically, I 
 
 What's New
 ======
-* \[October 2020\] We released a survey on **knowledge-enhanced text generation**. Check our [paper](https://arxiv.org/abs/2010.04389) and [reading list](https://github.com/wyu97/KENLG-Reading/blob/master/README.md) with code/data collections here.
+* \[October 2020\] We released a survey **knowledge-enhanced text generation** on arXiv. Here is the [paper](https://arxiv.org/abs/2010.04389) and [reading list](https://github.com/wyu97/KENLG-Reading/blob/master/README.md) with code and data collections (100+ stars on Github).
 * \[September 2020\] Two papers are accepted to [EMNLP 2020](https://2020.emnlp.org/).
 * \[July 2020\] One full research track paper was accepted [CIKM 2020](https://www.cikm2020.org/).
-* \[July 2020\] One paper was accepted by DLG workshop in [KDD 2020](https://www.kdd.org/kdd2020/).
 * \[May 2020\] Passed Ph.D qualification exam with avg.GPA 3.95/4.0 in all major courses.
 * \[April 2020\] One paper was accepted by [ACL 2020](https://acl2020.org/) on question answer retrieval.
 * \[January 2020\] Two papers with oral presentation were accepted by [WWW 2020](https://www2020.thewebconf.org/).
