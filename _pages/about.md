@@ -26,7 +26,7 @@ What's New
 
 Recent Papers
 ======
-\[[Full List](/_pages/publications)\] \[[Google Scholar](https://scholar.google.com/citations?user=fBu11ZoAAAAJ&hl=en&oi=ao)\]
+\[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?user=fBu11ZoAAAAJ&hl=en&oi=ao)\]
 
 * <img src="../images/new.png" width="25" align=center> A Survey of Knowledge-Enhanced Text Generation <br>
   **<u>W. Yu</u>**, C. Zhu, Z. Li, Z. Hu, Q. Wang, H. Ji, M. Jiang <br>
