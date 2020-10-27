@@ -30,7 +30,7 @@ Recent Papers
 
 * A Survey of Knowledge-Enhanced Text Generation <br>
   **<u>W. Yu</u>**, C. Zhu, Z. Li, Z. Hu, Q. Wang, H. Ji, M. Jiang <br>
-  arXiv:2010.04389 \[[pdf](https://arxiv.org/abs/2010.04389)\] \[[reading-list/code](https://github.com/wyu97/KENLG-Reading/blob/master/README.md)\]
+  arXiv:2010.04389 \[[pdf](https://arxiv.org/abs/2010.04389)\] \[[reading list](https://github.com/wyu97/KENLG-Reading/blob/master/README.md)\]
 
 * Injecting Entity Types into Entity-Guided Text Generation <br>
   X. Dong*, **<u>W. Yu*</u>** (equal contribution), C. Zhu, M. Jiang <br>
