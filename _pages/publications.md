@@ -33,7 +33,7 @@ redirect_from:
 * A Technical Question Answering System with Transfer Learning <br>
   **<u>W. Yu</u>**, L. Wu, Y. Deng, R. Mahindru, Q. Zeng, S. Guven, M. Jiang <br>
   [EMNLP 2020] Conference on Empirical Methods on Natural Language Processing  (Demo) <br>
-  \[[pdf](https://github.com/wyu97/TTQA/blob/master/paper/TransTQA.pdf)\] \[[code](https://github.com/wyu97/TTQA)\] \[[video](https://vimeo.com/431118548)\]
+  \[[pdf](https://www.aclweb.org/anthology/2020.emnlp-demos.13.pdf)\] \[[code](https://github.com/wyu97/TTQA)\] \[[video](https://vimeo.com/431118548)\]
 
 * Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER <br>
   Q. Zeng, **<u>W. Yu</u>**, M. Yu, T. Jiang, T. Weninger, M. Jiang <br>
