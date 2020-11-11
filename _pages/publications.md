@@ -58,7 +58,7 @@ redirect_from:
 * Experimental Evidence Extraction System in Data Science with Hybrid Table Features and Ensemble Learning <br>
   **<u>W. Yu</u>**, W. Peng, Y. Shu, Q. Zeng, M. Jiang <br>
   [WWW 2020] The Web Conference (formerly known as World Wide Web) <br>
-  \[[pdf](/papers/C2_WWW_2020.pdf)\] \[[code](https://github.com/dmsquare/Tablepedia)\] \[[slides](/slides/C2_WWW_2020_slides.pdf)\] \[[poster](/poster/C2_WWW_2020_poster.pdf)\]
+  \[[pdf](/papers/C2_WWW_2020.pdf)\] \[[code](https://github.com/wyu97/Tablepedia)\] \[[slides](/slides/C2_WWW_2020_slides.pdf)\] \[[poster](/poster/C2_WWW_2020_poster.pdf)\]
 
 **2019 Conference Paper**
 
