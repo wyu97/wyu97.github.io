@@ -28,6 +28,14 @@ redirect_from:
   arXiv:2009.13401 \[[pdf](https://arxiv.org/abs/2009.13401)\] \[[code](https://github.com/wyu97/InjType)\]
 
 
+**Tutorials**
+
+* Knowledge-Enriched Text Generation <br>
+  **<u>W. Yu</u>**, M. Jiang, Z. Hu, Q. Wang, H. Ji, N. Rajani <br>
+  [EMNLP 2021] Conference on Empirical Methods on Natural Language Processing <br>
+  \[[description]()\] \[[slides]()\] stay tuned!
+
+
 **2020 Conference Paper**
 
 * A Technical Question Answering System with Transfer Learning <br>
