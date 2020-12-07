@@ -30,7 +30,7 @@ redirect_from:
 
 **Tutorials**
 
-* Knowledge-Enriched Text Generation <br>
+* Knowledge-Enriched Natural Language Generation <br>
   **<u>W. Yu</u>**, M. Jiang, Z. Hu, Q. Wang, H. Ji, N. Rajani <br>
   [EMNLP 2021] Conference on Empirical Methods on Natural Language Processing <br>
   \[[description]()\] \[[slides]()\] stay tuned!
