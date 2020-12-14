@@ -20,8 +20,8 @@ Education
 
 Experience
 ======
-* Research Assistant in IBM China Lab, Beijing
-  * Jan. 2019 - Apr. 2019
+* IBM Greater China Group Lab, Beijing, China
+  * Data Scientist Intern from Jan. 2019 to Apr. 2019
 
 Service
 ======
