@@ -14,13 +14,13 @@ My research interest lies in natural language processing (NLP). Specifically, I 
 
 What's New
 ======
-* \[December 2020\] I will join [Microsoft Research](https://www.microsoft.com/en-us/research/) as an Research Intern in summer 2021. 
-* \[October 2020\] We released a survey **knowledge-enhanced text generation** on arXiv. Here is the [paper](https://arxiv.org/abs/2010.04389) and [reading list](https://github.com/wyu97/KENLG-Reading/blob/master/README.md) with code and data collections (**220+** stars on Github).
-* \[September 2020\] Two papers were accepted to [EMNLP 2020](https://2020.emnlp.org/).
-* \[July 2020\] One full research track paper was accepted [CIKM 2020](https://www.cikm2020.org/).
-* \[May 2020\] I passed Ph.D qualification exam with avg.GPA 3.95/4.0 in all major courses.
-* \[April 2020\] One paper was accepted by [ACL 2020](https://acl2020.org/) on question answer retrieval.
-* \[January 2020\] Two papers with oral presentation were accepted by [WWW 2020](https://www2020.thewebconf.org/).
+* \[2020.12\] I will join [Microsoft Research](https://www.microsoft.com/en-us/research/) as an Research Intern in summer 2021. 
+* \[2020.10\] We released a survey **knowledge-enhanced text generation** on arXiv. Here is the [paper](https://arxiv.org/abs/2010.04389) and [reading list](https://github.com/wyu97/KENLG-Reading/blob/master/README.md) with code and data collections (**220+** stars on Github).
+* \[2020.09\] Two papers were accepted to [EMNLP 2020](https://2020.emnlp.org/).
+* \[2020.07\] One full research track paper was accepted [CIKM 2020](https://www.cikm2020.org/).
+* \[2020.05\] I passed Ph.D qualification exam with avg.GPA 3.95/4.0 in all major courses.
+* \[2020.04\] One paper was accepted by [ACL 2020](https://acl2020.org/) on question answer retrieval.
+* \[2020.01\] Two papers with oral presentation were accepted by [WWW 2020](https://www2020.thewebconf.org/).
 <!-- * \[December 2019\] One paper was accepted by [RCQA 2020 Workshop](https://rcqa-ws.github.io/) in [AAAI 2020](https://aaai.org/Conferences/AAAI-20/). -->
 <!-- * \[January 2019\] One paper was accepted by [WWW 2019](https://www2019.thewebconf.org/). Thanks to all my co-authors. -->
 <!-- * Our video ["Where we belong to"](https://www.youtube.com/watch?v=KRKoCkO3LDs) will be taken as the institutional spot for the 2018-2019 academic year for the [University of Notre Dame](https://www.nd.edu/). (Viewed 20,000+ times on Youtube) -->
