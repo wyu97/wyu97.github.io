@@ -14,8 +14,10 @@ My research interest lies in natural language processing (NLP). Specifically, I 
 
 What's New
 ======
+* \[2021.01\] One paper was accepted by [WWW 2021](https://www2021.thewebconf.org/). Congratulations to [Zhichun](https://scholar.google.com/citations?user=BOFfWR0AAAAJ&hl=en&oi=sra)!
 * \[2020.12\] I will join [Microsoft Research](https://www.microsoft.com/en-us/research/) as an Research Intern in summer 2021. 
-* \[2020.10\] We released a survey **knowledge-enhanced text generation** on arXiv. Here is the [paper](https://arxiv.org/abs/2010.04389) and [reading list](https://github.com/wyu97/KENLG-Reading/blob/master/README.md) with code and data collections (**220+** stars on Github).
+* \[2020.11\] Our tutorial entitled **Knowledge-enriched natural language generation** is accepted to [EMNLP 2021](https://2021.emnlp.org/). See you in Dominican Republic in November 2021!
+* \[2020.10\] We released a survey **Knowledge-enhanced text generation** on arXiv. Here is the [paper](https://arxiv.org/abs/2010.04389) and [reading list](https://github.com/wyu97/KENLG-Reading/blob/master/README.md) with code and data collections (**230+** stars on Github).
 * \[2020.09\] Two papers were accepted to [EMNLP 2020](https://2020.emnlp.org/).
 * \[2020.07\] One full research track paper was accepted [CIKM 2020](https://www.cikm2020.org/).
 * \[2020.05\] I passed Ph.D qualification exam with avg.GPA 3.95/4.0 in all major courses.

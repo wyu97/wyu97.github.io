@@ -36,6 +36,13 @@ redirect_from:
   \[[description]()\] \[[slides]()\] stay tuned!
 
 
+**2021 Conference Paper**
+
+* Few-shot Molecular Property Prediction <br>
+  Z. Guo, C. Zhang, **<u>W. Yu</u>**, J. Herr, O. Wiest, M. Jiang, N. Chawla <br>
+  [WWW 2021] The Web Conference (formerly known as World Wide Web) <br>
+  \[[pdf]()\] \[[code]()\] paper and code is coming soon!
+
 **2020 Conference Paper**
 
 * A Technical Question Answering System with Transfer Learning <br>
