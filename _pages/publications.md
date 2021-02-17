@@ -41,7 +41,7 @@ redirect_from:
 * Few-shot Graph Learning for Molecular Property Prediction <br>
   Z. Guo, C. Zhang, **<u>W. Yu</u>**, J. Herr, O. Wiest, M. Jiang, N. Chawla <br>
   [WWW 2021] The Web Conference (formerly known as World Wide Web) <br>
-  \[[pdf]()\] \[[code]()\] paper and code is coming soon!
+  \[[pdf](https://arxiv.org/abs/2102.07916)\] \[[code](https://github.com/zhichunguo/Meta-MGNN)\] 
 
 **2020 Conference Paper**
 
