@@ -53,7 +53,7 @@ redirect_from:
 * Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER <br>
   Q. Zeng, **<u>W. Yu</u>**, M. Yu, T. Jiang, T. Weninger, M. Jiang <br>
   [EMNLP 2020] Findings of Empirical Methods on Natural Language Processing <br>
-  \[[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.429.pdf)\] \[[code]()\]
+  \[[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.429.pdf)\] \[[code](https://github.com/QingkaiZeng/TriTrain)\]
 
 * GraSeq: Graph and Sequence Fusion Learning for Molecular Property Prediction <br>
   Z. Guo, **<u>W. Yu</u>**, C. Zhang, M. Jiang, N. Chawla <br>
