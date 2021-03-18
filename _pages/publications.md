@@ -9,15 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+**Tutorials**
+
+* Knowledge-Enriched Natural Language Generation <br>
+  **<u>W. Yu</u>**, M. Jiang, Z. Hu, Q. Wang, H. Ji, N. Rajani <br>
+  [EMNLP 2021] Conference on Empirical Methods on Natural Language Processing <br>
+  \[[description]()\] \[[slides]()\] stay tuned!
+
 **Preprint Papers**
 
 * A Survey of Knowledge-Enhanced Text Generation <br>
   **<u>W. Yu</u>**, C. Zhu, Z. Li, Z. Hu, Q. Wang, H. Ji, M. Jiang <br>
   arXiv:2010.04389 \[[pdf](https://arxiv.org/abs/2010.04389)\] \[[reading list](https://github.com/wyu97/KENLG-Reading/blob/master/README.md)\]
-
-* Technical Question Answering across Tasks and Domains <br>
-  **<u>W. Yu</u>**, L. Wu, Y. Deng, Q. Zeng, R. Mahindru, S. Guven, M. Jiang <br>
-  arXiv:2010.09780 \[[pdf](https://arxiv.org/abs/2010.09780)\]
 
 * Early Anomaly Detection by Learning and Forecasting Behavior <br>
   T. Zhao, B. Ni, **<u>W. Yu</u>**, M. Jiang <br>
@@ -27,16 +30,12 @@ redirect_from:
   X. Dong*, **<u>W. Yu*</u>** (equal contribution), C. Zhu, M. Jiang <br>
   arXiv:2009.13401 \[[pdf](https://arxiv.org/abs/2009.13401)\] \[[code](https://github.com/wyu97/InjType)\]
 
-
-**Tutorials**
-
-* Knowledge-Enriched Natural Language Generation <br>
-  **<u>W. Yu</u>**, M. Jiang, Z. Hu, Q. Wang, H. Ji, N. Rajani <br>
-  [EMNLP 2021] Conference on Empirical Methods on Natural Language Processing <br>
-  \[[description]()\] \[[slides]()\] stay tuned!
-
-
 **2021 Conference Paper**
+
+* Technical Question Answering across Tasks and Domains <br>
+  **<u>W. Yu</u>**, L. Wu, Y. Deng, Q. Zeng, R. Mahindru, S. Guven, M. Jiang <br>
+  [NAACL 2021] Annual Conference of the North American Chapter of the Association for Computational Linguistics
+  \[[pdf](https://arxiv.org/abs/2010.09780)\] \[[code]()\](comming soon!)
 
 * Few-shot Graph Learning for Molecular Property Prediction <br>
   Z. Guo, C. Zhang, **<u>W. Yu</u>**, J. Herr, O. Wiest, M. Jiang, N. Chawla <br>
@@ -44,11 +43,6 @@ redirect_from:
   \[[pdf](https://arxiv.org/abs/2102.07916)\] \[[code](https://github.com/zhichunguo/Meta-MGNN)\] 
 
 **2020 Conference Paper**
-
-* A Technical Question Answering System with Transfer Learning <br>
-  **<u>W. Yu</u>**, L. Wu, Y. Deng, R. Mahindru, Q. Zeng, S. Guven, M. Jiang <br>
-  [EMNLP 2020] Conference on Empirical Methods on Natural Language Processing  (Demo) <br>
-  \[[pdf](https://www.aclweb.org/anthology/2020.emnlp-demos.13.pdf)\] \[[code](https://github.com/wyu97/TTQA)\] \[[video](https://vimeo.com/431118548)\]
 
 * Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER <br>
   Q. Zeng, **<u>W. Yu</u>**, M. Yu, T. Jiang, T. Weninger, M. Jiang <br>
@@ -75,11 +69,16 @@ redirect_from:
   [WWW 2020] The Web Conference (formerly known as World Wide Web) <br>
   \[[pdf](/papers/C2_WWW_2020.pdf)\] \[[code](https://github.com/wyu97/Tablepedia)\] \[[slides](/slides/C2_WWW_2020_slides.pdf)\] \[[poster](/poster/C2_WWW_2020_poster.pdf)\]
 
-**2019 Conference Paper**
+**System Demonstrations**
+
+* A Technical Question Answering System with Transfer Learning <br>
+  **<u>W. Yu</u>**, L. Wu, Y. Deng, R. Mahindru, Q. Zeng, S. Guven, M. Jiang <br>
+  [EMNLP 2020] Conference on Empirical Methods on Natural Language Processing <br>
+  \[[pdf](https://www.aclweb.org/anthology/2020.emnlp-demos.13.pdf)\] \[[code](https://github.com/wyu97/TTQA)\] \[[video](https://vimeo.com/431118548)\]
 
 * Tablepedia: Automating PDF Table Reading in an Experimental Evidence Exploration and Analytic System <br>
   **<u>W. Yu</u>**, Z. Li, Q. Zeng, M. Jiang <br>
-  [WWW 2019] World Wide Web Conference (Demo) <br>
+  [WWW 2019] World Wide Web Conference <br>
   \[[pdf](/papers/C1_WWW_2019.pdf)\] \[[video](https://vimeo.com/310162310)\]
 
 
