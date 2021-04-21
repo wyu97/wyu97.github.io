@@ -18,6 +18,10 @@ redirect_from:
 
 **Preprint Papers**
 
+* Sentence-Permuted Paragraph Generation <br>
+  **<u>W. Yu*</u>**, C. Zhu, T. Zhao, Z. Guo, M. Jiang <br>
+  arXiv:2104.07228 \[[pdf](https://arxiv.org/abs/2104.07228)\] \[[code](https://github.com/wyu97/permgen)\]
+
 * A Survey of Knowledge-Enhanced Text Generation <br>
   **<u>W. Yu</u>**, C. Zhu, Z. Li, Z. Hu, Q. Wang, H. Ji, M. Jiang <br>
   arXiv:2010.04389 \[[pdf](https://arxiv.org/abs/2010.04389)\] \[[reading list](https://github.com/wyu97/KENLG-Reading/blob/master/README.md)\]
