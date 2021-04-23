@@ -37,7 +37,7 @@ Recent Papers
 
 * Sentence-Permuted Paragraph Generation <br>
   **<u>W. Yu*</u>**, C. Zhu, T. Zhao, Z. Guo, M. Jiang <br>
-  arXiv:2104.07228 \[[pdf](/papers/P1_Permgen_2021.pdf)\] \[[code](https://github.com/wyu97/permgen)\]
+  arXiv:2104.07228 \[[pdf](/papers/P1_Permgen_2021-1.pdf)\] \[[code](https://github.com/wyu97/permgen)\]
 
 
 
