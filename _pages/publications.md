@@ -38,12 +38,12 @@ redirect_from:
 
 * Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations <br>
   Q. Zeng, J, Lin, **<u>W. Yu</u>**, J. Huang, M. Jiang <br>
-  [KDD 2021] International Conference on Knowledge Discovery and Data Mining
+  [KDD 2021] International Conference on Knowledge Discovery and Data Mining <br>
   \[[pdf]()\] \[[code]()\] (coming soon!)
 
 * Technical Question Answering across Tasks and Domains <br>
   **<u>W. Yu</u>**, L. Wu, Y. Deng, Q. Zeng, R. Mahindru, S. Guven, M. Jiang <br>
-  [NAACL 2021] Annual Conference of the North American Chapter of the Association for Computational Linguistics
+  [NAACL 2021] Annual Conference of the North American Chapter of the Association for Computational Linguistics <br>
   \[[pdf](https://arxiv.org/abs/2010.09780)\] \[[code]()\](comming soon!)
 
 * Few-shot Graph Learning for Molecular Property Prediction <br>
