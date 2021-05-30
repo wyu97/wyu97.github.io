@@ -39,7 +39,7 @@ redirect_from:
 * Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations <br>
   Q. Zeng, J, Lin, **<u>W. Yu</u>**, J. Huang, M. Jiang <br>
   [KDD 2021] International Conference on Knowledge Discovery and Data Mining <br>
-  \[[pdf]()\] \[[code]()\] (coming soon!)
+  \[[pdf](/papers/C4_KDD_2021.pdf)\] \[[code](https://github.com/QingkaiZeng/GenTaxo)\]
 
 * Technical Question Answering across Tasks and Domains <br>
   **<u>W. Yu</u>**, L. Wu, Y. Deng, Q. Zeng, R. Mahindru, S. Guven, M. Jiang <br>
