@@ -20,8 +20,14 @@ Education
 
 Experience
 ======
+* Microsoft Research, Redmond, Washington, USA
+  * Research Intern from Jun. 2021 to Sep. 2021
+  * Host: Chenguang Zhu, Yuwei Fang
+
 * IBM Greater China Group Lab, Beijing, China
   * Data Scientist Intern from Jan. 2019 to Apr. 2019
+  * Tabular data extraction and representation learning
+  * Host: Minquan Gao
 
 Service
 ======
