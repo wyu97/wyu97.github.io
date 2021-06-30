@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Tutorials**
+**Conference Tutorials**
 
 * Knowledge-Enriched Natural Language Generation <br>
   **<u>W. Yu</u>**, M. Jiang, Z. Hu, Q. Wang, H. Ji, N. Rajani <br>
@@ -39,12 +39,12 @@ redirect_from:
 * Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations <br>
   Q. Zeng, J, Lin, **<u>W. Yu</u>**, J. Huang, M. Jiang <br>
   [KDD 2021] International Conference on Knowledge Discovery and Data Mining <br>
-  \[[pdf](/papers/C4_KDD_2021.pdf)\] \[[code](https://github.com/QingkaiZeng/GenTaxo)\]
+  \[[pdf](https://arxiv.org/abs/2106.02974)\] \[[code](https://github.com/QingkaiZeng/GenTaxo)\]
 
 * Technical Question Answering across Tasks and Domains <br>
   **<u>W. Yu</u>**, L. Wu, Y. Deng, Q. Zeng, R. Mahindru, S. Guven, M. Jiang <br>
   [NAACL 2021] Annual Conference of the North American Chapter of the Association for Computational Linguistics <br>
-  \[[pdf](https://arxiv.org/abs/2010.09780)\] \[[code](https://github.com/wyu97/TransTD)\]
+  \[[pdf](https://arxiv.org/abs/2010.09780)\] \[[code](https://github.com/wyu97/TransTD)\] \[[poster](poster/NAACL-TransTD-poster.pdf)\]
 
 * Few-shot Graph Learning for Molecular Property Prediction <br>
   Z. Guo, C. Zhang, **<u>W. Yu</u>**, J. Herr, O. Wiest, M. Jiang, N. Chawla <br>
@@ -66,7 +66,7 @@ redirect_from:
 * Crossing Variational Autoencoders for Answer Retrieval <br>
   **<u>W. Yu</u>**, L. Wu, Q. Zeng, S. Tao, Y. Deng, M. Jiang <br>
   [ACL 2020] Annual Meeting of the Association for Computational Linguistics <br>
-  \[[pdf](https://arxiv.org/pdf/2005.02557.pdf)\]
+  \[[pdf](https://arxiv.org/pdf/2005.02557.pdf)\] \[code is currently unavailable\]
 
 * Identifying Referential Intention with Heterogeneous Contexts <br>
   **<u>W. Yu</u>**, M. Yu, T. Zhao, M. Jiang <br>

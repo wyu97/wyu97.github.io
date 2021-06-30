@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year (2019-Now) Ph.D. student in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). Before that, I received my bachelor degree of Computer Science and Technology at [Sichuan University](http://www.scu.edu.cn/).
+I am a rising thrid-year ~~second-year~~ (2019-Now) Ph.D. student in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). Before that, I received my bachelor degree of Computer Science and Technology at [Sichuan University](http://www.scu.edu.cn/).
 
 My research interest lies in natural language processing (NLP). Specifically, I am working on natural lanuage generation (NLG) and complex question answering (QA) system.
 
 What's New
 ======
 
-* \[2021.03\] One paper was accepted by [KDD 2021](https://www.kdd.org/kdd2021/) on taxonomy completion via concept generation. Congratulations to [Qingkai](https://qingkaizeng.github.io/)!
+* \[2021.05\] One paper was accepted by [KDD 2021](https://www.kdd.org/kdd2021/) on taxonomy completion via concept generation. Congratulations to [Qingkai](https://qingkaizeng.github.io/)!
 * \[2021.03\] One first-author paper was accepted by [NAACL 2021](https://2021.naacl.org/) on question answering with transfer learning.
 * \[2021.01\] One paper was accepted by [WWW 2021](https://www2021.thewebconf.org/). Congratulations to [Zhichun](https://scholar.google.com/citations?user=BOFfWR0AAAAJ&hl=en&oi=sra)!
 * \[2020.12\] I will join [Microsoft Research](https://www.microsoft.com/en-us/research/) as a Research Intern in summer 2021. 
