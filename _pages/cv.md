@@ -40,5 +40,5 @@ Industry Experience
 
 Service
 ======
-* Conference PC/Reviewer: EMNLP 2020 / WSDM 2021 / AAAI 2021 / IJCAI 2021 / ACL-IJCNLP 2021 / EMNLP 2021
-* Journal Reviewer: TKDD / IJIS / Big Data / TNNLS 
+* Conference PC/Reviewer: EMNLP 2020 / WSDM 2021 / AAAI 2021 / IJCAI 2021 / ACL-IJCNLP 2021 / EMNLP 2021 / IJCAI 2022
+* Journal Reviewer: TKDD / IJIS / Big Data / TNNLS / WWWJ
