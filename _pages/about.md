@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising thrid-year ~~second-year~~ (2019-Now) Ph.D. student in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). Before that, I received my bachelor degree of Computer Science and Technology at [Sichuan University](http://www.scu.edu.cn/).
+I am a rising third-year ~~second-year~~ (2019-Now) Ph.D. student in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). Before that, I received my bachelor degree of Computer Science and Technology at [Sichuan University](http://www.scu.edu.cn/).
 
 My research interest lies in natural language processing (NLP). Specifically, I am working on natural lanuage generation (NLG) and complex question answering (QA) system.
 
@@ -37,7 +37,7 @@ Recent Papers
   arXiv:2010.04389 \[[pdf](https://arxiv.org/abs/2010.04389)\] \[[reading list](https://github.com/wyu97/KENLG-Reading/blob/master/README.md)\]
 
 * Sentence-Permuted Paragraph Generation <br>
-  **<u>W. Yu*</u>**, C. Zhu, T. Zhao, Z. Guo, M. Jiang <br>
+  **<u>W. Yu</u>**, C. Zhu, T. Zhao, Z. Guo, M. Jiang <br>
   arXiv:2104.07228 \[[pdf](/papers/P1_Permgen_2021-1.pdf)\] \[[code](https://github.com/wyu97/permgen)\]
 
 
