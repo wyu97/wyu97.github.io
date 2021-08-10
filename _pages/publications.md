@@ -32,10 +32,10 @@ redirect_from:
 
 **2021 Conference Paper**
 
-* Early Anomaly Detection by Learning and Forecasting Behavior <br>
-  T. Zhao, B. Ni, **<u>W. Yu</u>**, M. Jiang <br>
+* Action Sequence Augmentation for Early Graph-based Anomaly Detection <br>
+  T. Zhao, B. Ni, **<u>W. Yu</u>**, Z. Guo, N. Shah, M. Jiang <br>
   [CIKM 2021] ACM International Conference on Information and Knowledge Management <br>
-  \[[pdf](https://arxiv.org/abs/2010.10016)\] \[[code]()\]
+  \[[arxiv](https://arxiv.org/abs/2010.10016)\] \[[code]()\]
 
 * Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations <br>
   Q. Zeng, J, Lin, **<u>W. Yu</u>**, J. Huang, M. Jiang <br>
