@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising third-year ~~second-year~~ (2019-Now) Ph.D. student in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). Before that, I received my bachelor degree of Computer Science and Technology at [Sichuan University](http://www.scu.edu.cn/).
+I am a third-year (2019-Now) Ph.D. student in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). Before that, I received my bachelor degree of Computer Science and Technology at [Sichuan University](http://www.scu.edu.cn/).
 
 My research interest lies in natural language processing (NLP). Specifically, I am working on natural lanuage generation (NLG) and complex question answering (QA) system.
 

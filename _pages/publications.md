@@ -45,7 +45,7 @@ redirect_from:
 * Technical Question Answering across Tasks and Domains <br>
   **<u>W. Yu</u>**, L. Wu, Y. Deng, Q. Zeng, R. Mahindru, S. Guven, M. Jiang <br>
   [NAACL 2021] Annual Conference of the North American Chapter of the Association for Computational Linguistics <br>
-  \[[pdf](https://arxiv.org/abs/2010.09780)\] \[[code](https://github.com/wyu97/TransTD)\] \[[poster](poster/NAACL-TransTD-poster.pdf)\]
+  \[[pdf](https://arxiv.org/abs/2010.09780)\] \[[code](https://github.com/wyu97/TransTD)\] \[[poster](/poster/NAACL-TransTD-poster.pdf)\]
 
 * Few-shot Graph Learning for Molecular Property Prediction <br>
   Z. Guo, C. Zhang, **<u>W. Yu</u>**, J. Herr, O. Wiest, M. Jiang, N. Chawla <br>
