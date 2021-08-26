@@ -15,7 +15,7 @@ My research interest lies in natural language processing (NLP). Specifically, I 
 What's New
 ======
 
-* \[2021.08\] Two (co)first-author papers were accepted by [EMNLP 2021](https://2021.emnlp.org) on natural language generation.
+* \[2021.08\] Two first-author papers were accepted by [EMNLP 2021](https://2021.emnlp.org) on text generation.
 <!-- * \[2021.08\] One paper was accepted by [CIKM 2021](https://www.cikm2021.org/) on anomaly detection. -->
 * \[2021.05\] One paper was accepted by [KDD 2021](https://www.kdd.org/kdd2021/) on taxonomy completion.
 <!-- * via concept generation. Congratulations to [Qingkai](https://qingkaizeng.github.io/)! -->
