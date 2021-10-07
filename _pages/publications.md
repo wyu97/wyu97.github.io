@@ -14,7 +14,7 @@ redirect_from:
 * Knowledge-Enriched Natural Language Generation <br>
   **<u>W. Yu</u>**, M. Jiang, Z. Hu, Q. Wang, H. Ji, N. Rajani <br>
   [EMNLP 2021] Conference on Empirical Methods on Natural Language Processing <br>
-  \[[description]()\] \[[slides]()\] stay tuned!
+  \[[description](https://kenlg-tutorial.github.io/)\] \[[slides]()\] 
 
 **Preprint Papers**
 
