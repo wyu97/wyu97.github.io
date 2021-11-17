@@ -15,8 +15,8 @@ My research interest lies in natural language processing (NLP). Specifically, I 
 What's New
 ======
 
-* \[2021.11\] We have presented a tutorial on [Knowledge-enriched Natural Language Generation](https://kenlg-tutorial.github.io/) [EMNLP 2021](https://2021.emnlp.org/). There were more than 95 online and 25 in-person participants. Congratulations to all tutors! Material is all available online. \[[Abstract](https://aclanthology.org/2021.emnlp-tutorials.3/)\] \[[Video](https://underline.io/events/192/sessions?eventSessionId=7843)\] \[[Website](https://kenlg-tutorial.github.io/)\] \[[Survey](https://arxiv.org/abs/2010.04389)\] \[[GitRepo](https://github.com/wyu97/KENLG-Reading)\]. Thanks very much to my collaborators (Prof. Heng Ji from UIUC, Prof. Zhiting Hu from UCSD, Dr. Nazneen Rajani from Saleforce research)!
-* \[2021.11\] Two pre-print paper were on ArXiv. (1) Dict-BERT: Enhancing Language Model Pre-training with Dictionary \[[paper](https://arxiv.org/abs/2110.06490)\]; (2) KG-FiD: Infusing Knowledge Graph in Fusion-in-Decoder for Open-Domain Question Answering \[[paper](https://arxiv.org/abs/2110.04330)\].
+* \[2021.11\] We have presented a tutorial on **Knowledge-enriched Natural Language Generation** at [EMNLP 2021](https://2021.emnlp.org/). There were more than 95 online and 25 in-person participants. The tutorial materials are all available online. \[[Abstract](https://aclanthology.org/2021.emnlp-tutorials.3/)\] \[[Video](https://underline.io/events/192/sessions?eventSessionId=7843)\] \[[Website](https://kenlg-tutorial.github.io/)\] \[[Survey](https://arxiv.org/abs/2010.04389)\] \[[GitRepo](https://github.com/wyu97/KENLG-Reading)\]. Thanks very much to my collaborators (Prof. Heng Ji from UIUC, Prof. Zhiting Hu from UCSD, Dr. Nazneen Rajani from Saleforce research)!
+* \[2021.10\] Two pre-print paper were on ArXiv. (1) Dict-BERT: Enhancing Language Model Pre-training with Dictionary \[[paper](https://arxiv.org/abs/2110.06490)\]; (2) KG-FiD: Infusing Knowledge Graph in Fusion-in-Decoder for Open-Domain Question Answering \[[paper](https://arxiv.org/abs/2110.04330)\].
 * \[2021.08\] Two first-author papers were accepted by [EMNLP 2021](https://2021.emnlp.org) on text generation.
 <!-- * \[2021.08\] One paper was accepted by [CIKM 2021](https://www.cikm2021.org/) on anomaly detection. -->
 <!-- * \[2021.05\] One paper was accepted by [KDD 2021](https://www.kdd.org/kdd2021/) on taxonomy completion. -->
@@ -34,8 +34,8 @@ What's New
 <!-- * \[January 2019\] One paper was accepted by [WWW 2019](https://www2019.thewebconf.org/). Thanks to all my co-authors. -->
 <!-- * Our video ["Where we belong to"](https://www.youtube.com/watch?v=KRKoCkO3LDs) will be taken as the institutional spot for the 2018-2019 academic year for the [University of Notre Dame](https://www.nd.edu/). (Viewed 20,000+ times on Youtube) -->
 
-Recent Talks
-<!-- ======
+<!-- 
+======
 \[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?user=fBu11ZoAAAAJ&hl=en&oi=ao)\]
 
 * <img src="../images/new.png" width="25" align=center> A Survey of Knowledge-Enhanced Text Generation <br>
@@ -45,12 +45,14 @@ Recent Talks
 * Sentence-Permuted Paragraph Generation <br>
   **<u>W. Yu</u>**, C. Zhu, T. Zhao, Z. Guo, M. Jiang <br>
   EMNLP 2021 (long) \[[pdf](/papers/P1_Permgen_2021-1.pdf)\] \[[code](https://github.com/wyu97/permgen)\] -->
+
+Recent Talks
 ======
-Harbin Institute of Technology, Improving language diversity in paragraph generation, Nov. 2021
-Google Research, Knoweldge-enriched natural language generation, Nov. 2021
-EMNLP Tutorial, Knoweldge-enriched natural language generation, Nov. 2021
-Microsoft Research, Improving language model pre-training with dictionary, Sept. 2021
-University of Notre Dame, Improving language model pre-training with dictionary, Sept. 2021
+* Harbin Institute of Technology, Improving language diversity in paragraph generation, Nov. 2021
+* Google Research, Knoweldge-enriched natural language generation, Nov. 2021
+* EMNLP Tutorial, Knoweldge-enriched natural language generation, Nov. 2021
+* Microsoft Research, Improving language model pre-training with dictionary, Sept. 2021
+* University of Notre Dame, Improving language model pre-training with dictionary, Sept. 2021
 
 
 Contact
