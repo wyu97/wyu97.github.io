@@ -11,10 +11,15 @@ redirect_from:
 
 **Conference Tutorials**
 
+* Knowledge-Augmented Methods for Natural Language Processing <br>
+  C. Zhu, Y. Xu, X. Ren, Y. Lin, M. Jiang, **<u>W. Yu</u>** <br>
+  [ACL 2022] Annual Meeting of the Association for Computational Linguistics <br>
+  \[[description]()\] \[[website]()\] (To appear)
+
 * Knowledge-Enriched Natural Language Generation <br>
   **<u>W. Yu</u>**, M. Jiang, Z. Hu, Q. Wang, H. Ji, N. Rajani <br>
   [EMNLP 2021] Conference on Empirical Methods on Natural Language Processing <br>
-  \[[description](https://kenlg-tutorial.github.io/)\] \[[slides]()\] 
+  \[[description](https://aclanthology.org/2021.emnlp-tutorials.3/)\] \[[website](https://kenlg-tutorial.github.io/)\] 
 
 **Preprint Papers**
 
