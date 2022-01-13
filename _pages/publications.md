@@ -35,11 +35,13 @@ redirect_from:
   T. Zhao, G. Liu, D. Wang, **<u>W. Yu</u>**, M. Jiang <br>
   arXiv:2106.02172 \[[pdf](https://arxiv.org/abs/2106.02172 )\] 
 
+**2022 Papers**
+
 * A Survey of Knowledge-Enhanced Text Generation <br>
   **<u>W. Yu</u>**, C. Zhu, Z. Li, Z. Hu, Q. Wang, H. Ji, M. Jiang <br>
-  arXiv:2010.04389 \[[pdf](https://arxiv.org/abs/2010.04389)\] \[[reading list](https://github.com/wyu97/KENLG-Reading)\]
+  ACM Computing Surveys (IF: 10.28) \[[pdf](https://arxiv.org/abs/2010.04389)\] \[[reading list](https://github.com/wyu97/KENLG-Reading)\]
 
-**2021 Conference Paper**
+**2021 Papers**
 
 * Sentence-Permuted Paragraph Generation <br>
   **<u>W. Yu</u>**, C. Zhu, T. Zhao, Z. Guo, M. Jiang <br>
@@ -71,7 +73,7 @@ redirect_from:
   [WWW 2021] The Web Conference (formerly known as World Wide Web) <br>
   \[[pdf](https://arxiv.org/abs/2102.07916)\] \[[code](https://github.com/zhichunguo/Meta-MGNN)\] 
 
-**2020 Conference Paper**
+**2020 Papers**
 
 * Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER <br>
   Q. Zeng, **<u>W. Yu</u>**, M. Yu, T. Jiang, T. Weninger, M. Jiang <br>
