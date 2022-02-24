@@ -36,12 +36,12 @@ redirect_from:
 
 * Dict-BERT: Enhancing Language Model Pre-training with Dictionary <br>
   **<u>W. Yu</u>**, C. Zhu, Y. Fang, D. Yu, S. Wang, Y. Xu, M. Zeng, M. Jiang <br>
-  [ACL 2022] Findings of Annual Meeting of the Association for Computational Linguistics <br>
+  [ACL 2022] Annual Meeting of the Association for Computational Linguistics <br>
   \[[pdf](https://arxiv.org/abs/2110.06490)\] code comming soon!
 
 * Diverse Generative Reasoning on Commonsense Knowledge Graphs <br>
   **<u>W. Yu</u>**, C. Zhu, L. Qin, Z. Zhang, T. Zhao, M. Jiang <br>
-  [ACL 2022] Findings of Annual Meeting of the Association for Computational Linguistics <br>
+  [ACL 2022] Annual Meeting of the Association for Computational Linguistics <br>
   paper and code comming soon!
 
 * A Survey of Knowledge-Enhanced Text Generation <br>
