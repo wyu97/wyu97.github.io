@@ -23,19 +23,26 @@ redirect_from:
 
 **Preprint Papers**
 
-* KG-FiD: Infusing Knowledge Graph in Fusion-in-Decoder for Open-Domain Question Answering<br>
-  D. Yu, C. Zhu, Y. Fang, **<u>W. Yu</u>**, S. Wang, Y. Xu, X. Ren, Y. Yang, M. Zeng <br>
-  arXiv:2110.04330 \[[pdf](https://arxiv.org/abs/2110.04330)\] 
-
-* Dict-BERT: Enhancing Language Model Pre-training with Dictionary <br>
-  **<u>W. Yu</u>**, C. Zhu, Y. Fang, D. Yu, S. Wang, Y. Xu, M. Zeng, M. Jiang <br>
-  arXiv:2110.06490 \[[pdf](https://arxiv.org/abs/2110.06490)\] 
-
 * Counterfactual Graph Learning for Link Prediction <br>
   T. Zhao, G. Liu, D. Wang, **<u>W. Yu</u>**, M. Jiang <br>
   arXiv:2106.02172 \[[pdf](https://arxiv.org/abs/2106.02172 )\] 
 
 **2022 Papers**
+
+* KG-FiD: Infusing Knowledge Graph in Fusion-in-Decoder for Open-Domain Question Answering<br>
+  D. Yu, C. Zhu, Y. Fang, **<u>W. Yu</u>**, S. Wang, Y. Xu, X. Ren, Y. Yang, M. Zeng <br>
+  [ACL 2022] Annual Meeting of the Association for Computational Linguistics <br>
+  \[[pdf](https://arxiv.org/abs/2110.04330)\] code comming soon!
+
+* Dict-BERT: Enhancing Language Model Pre-training with Dictionary <br>
+  **<u>W. Yu</u>**, C. Zhu, Y. Fang, D. Yu, S. Wang, Y. Xu, M. Zeng, M. Jiang <br>
+  [ACL 2022] Findings of Annual Meeting of the Association for Computational Linguistics <br>
+  \[[pdf](https://arxiv.org/abs/2110.06490)\] code comming soon!
+
+* Diverse Generative Reasoning on Commonsense Knowledge Graphs <br>
+  **<u>W. Yu</u>**, C. Zhu, L. Qin, Z. Zhang, T. Zhao, M. Jiang <br>
+  [ACL 2022] Findings of Annual Meeting of the Association for Computational Linguistics <br>
+  paper and code comming soon!
 
 * A Survey of Knowledge-Enhanced Text Generation <br>
   **<u>W. Yu</u>**, C. Zhu, Z. Li, Z. Hu, Q. Wang, H. Ji, M. Jiang <br>
