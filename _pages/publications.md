@@ -106,6 +106,8 @@ redirect_from:
   **<u>W. Yu</u>**, W. Peng, Y. Shu, Q. Zeng, M. Jiang <br>
   [WWW 2020] The Web Conference (formerly known as World Wide Web) <br>
   \[[pdf](/papers/C2_WWW_2020.pdf)\] \[[code](https://github.com/wyu97/Tablepedia)\] \[[slides](/slides/C2_WWW_2020_slides.pdf)\] \[[poster](/poster/C2_WWW_2020_poster.pdf)\]
+
+
 <!-- 
 **System Demonstrations**
 
@@ -118,6 +120,3 @@ redirect_from:
   **<u>W. Yu</u>**, Z. Li, Q. Zeng, M. Jiang <br>
   [WWW 2019] World Wide Web Conference <br>
   \[[pdf](/papers/C1_WWW_2019.pdf)\] \[[video](https://vimeo.com/310162310)\]
-
-
- -->
