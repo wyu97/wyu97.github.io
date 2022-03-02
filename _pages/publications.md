@@ -106,7 +106,7 @@ redirect_from:
   **<u>W. Yu</u>**, W. Peng, Y. Shu, Q. Zeng, M. Jiang <br>
   [WWW 2020] The Web Conference (formerly known as World Wide Web) <br>
   \[[pdf](/papers/C2_WWW_2020.pdf)\] \[[code](https://github.com/wyu97/Tablepedia)\] \[[slides](/slides/C2_WWW_2020_slides.pdf)\] \[[poster](/poster/C2_WWW_2020_poster.pdf)\]
-
+<!-- 
 **System Demonstrations**
 
 * A Technical Question Answering System with Transfer Learning <br>
@@ -120,4 +120,4 @@ redirect_from:
   \[[pdf](/papers/C1_WWW_2019.pdf)\] \[[video](https://vimeo.com/310162310)\]
 
 
-
+ -->
