@@ -29,6 +29,11 @@ redirect_from:
 
 **2022 Papers**
 
+* Deep Multimodal Complementarity Learning<br>
+  D. Wang, T. Zhao, **<u>W. Yu</u>**, N. Chawla, M. Jiang <br>
+  [TNNLS 2022] IEEE Transactions on Neural Networks and Learning Systems  (IF: 10.45) <br>
+  paper and code comming soon!
+
 * KG-FiD: Infusing Knowledge Graph in Fusion-in-Decoder for Open-Domain Question Answering<br>
   D. Yu, C. Zhu, Y. Fang, **<u>W. Yu</u>**, S. Wang, Y. Xu, X. Ren, Y. Yang, M. Zeng <br>
   [ACL 2022] Annual Meeting of the Association for Computational Linguistics <br>
@@ -36,17 +41,18 @@ redirect_from:
 
 * Dict-BERT: Enhancing Language Model Pre-training with Dictionary <br>
   **<u>W. Yu</u>**, C. Zhu, Y. Fang, D. Yu, S. Wang, Y. Xu, M. Zeng, M. Jiang <br>
-  [ACL 2022] Annual Meeting of the Association for Computational Linguistics <br>
+  [ACL 2022] Findings of Association for Computational Linguistics <br>
   \[[pdf](https://arxiv.org/abs/2110.06490)\] code comming soon!
 
 * Diverse Generative Reasoning on Commonsense Knowledge Graphs <br>
   **<u>W. Yu</u>**, C. Zhu, L. Qin, Z. Zhang, T. Zhao, M. Jiang <br>
-  [ACL 2022] Annual Meeting of the Association for Computational Linguistics <br>
-  paper and code comming soon!
+  [ACL 2022] Findings of Association for Computational Linguistics <br>
+  \[[pdf](https://arxiv.org/abs/2110.06490)\] \[[code](https://github.com/DM2-ND/MoKGE)\]
 
 * A Survey of Knowledge-Enhanced Text Generation <br>
   **<u>W. Yu</u>**, C. Zhu, Z. Li, Z. Hu, Q. Wang, H. Ji, M. Jiang <br>
-  ACM Computing Surveys (IF: 10.28) \[[pdf](https://arxiv.org/abs/2010.04389)\] \[[reading list](https://github.com/wyu97/KENLG-Reading)\]
+  [CSUR 2022] ACM Computing Surveys (IF: 10.28) <br>
+  \[[pdf](https://arxiv.org/abs/2010.04389)\] \[[reading list](https://github.com/wyu97/KENLG-Reading)\]
 
 **2021 Papers**
 
