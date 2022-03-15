@@ -44,7 +44,7 @@ redirect_from:
   [ACL 2022] Findings of Association for Computational Linguistics <br>
   \[[pdf](https://arxiv.org/abs/2110.06490)\] code comming soon!
 
-* Diverse Generative Reasoning on Commonsense Knowledge Graphs <br>
+* Diversifying Content Generation for Commonsense Reasoning with Mixture of Knowledge Graph Experts <br>
   **<u>W. Yu</u>**, C. Zhu, L. Qin, Z. Zhang, T. Zhao, M. Jiang <br>
   [ACL 2022] Findings of Association for Computational Linguistics <br>
   \[[pdf](https://arxiv.org/abs/2110.06490)\] \[[code](https://github.com/DM2-ND/MoKGE)\]
