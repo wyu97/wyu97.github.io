@@ -21,18 +21,18 @@ redirect_from:
   [EMNLP 2021] Conference on Empirical Methods on Natural Language Processing <br>
   \[[description](https://aclanthology.org/2021.emnlp-tutorials.3/)\] \[[website](https://kenlg-tutorial.github.io/)\] 
 
-**Preprint Papers**
+<!-- **Preprint Papers**
 
 * Counterfactual Graph Learning for Link Prediction <br>
   T. Zhao, G. Liu, D. Wang, **<u>W. Yu</u>**, M. Jiang <br>
-  arXiv:2106.02172 \[[pdf](https://arxiv.org/abs/2106.02172 )\] 
+  arXiv:2106.02172 \[[pdf](https://arxiv.org/abs/2106.02172 )\]  -->
 
 **2022 Papers**
 
 * Deep Multimodal Complementarity Learning<br>
   D. Wang, T. Zhao, **<u>W. Yu</u>**, N. Chawla, M. Jiang <br>
   [TNNLS 2022] IEEE Transactions on Neural Networks and Learning Systems  (IF: 10.45) <br>
-  paper and code comming soon!
+  \[[pdf](/papers/TNNLS_2022.pdf)\] \[[doi](https://ieeexplore.ieee.org/document/9758834)\] 
 
 * KG-FiD: Infusing Knowledge Graph in Fusion-in-Decoder for Open-Domain Question Answering<br>
   D. Yu, C. Zhu, Y. Fang, **<u>W. Yu</u>**, S. Wang, Y. Xu, X. Ren, Y. Yang, M. Zeng <br>
@@ -47,7 +47,7 @@ redirect_from:
 * Diversifying Content Generation for Commonsense Reasoning with Mixture of Knowledge Graph Experts <br>
   **<u>W. Yu</u>**, C. Zhu, L. Qin, Z. Zhang, T. Zhao, M. Jiang <br>
   [ACL 2022] Findings of Association for Computational Linguistics <br>
-  \[[pdf](https://arxiv.org/abs/2110.06490)\] \[[code](https://github.com/DM2-ND/MoKGE)\]
+  \[[pdf](https://arxiv.org/abs/2203.07285)\] \[[code](https://github.com/DM2-ND/MoKGE)\]
 
 * A Survey of Knowledge-Enhanced Text Generation <br>
   **<u>W. Yu</u>**, C. Zhu, Z. Li, Z. Hu, Q. Wang, H. Ji, M. Jiang <br>
