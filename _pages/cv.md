@@ -45,3 +45,8 @@ Service
 ======
 * Conference PC/Reviewer: EMNLP 2020 / WSDM 2021 / AAAI 2021 / IJCAI 2021 / ACL-IJCNLP 2021 / EMNLP 2021 / IJCAI 2022 / WSDM 2022 / ACL 2022 / NAACL 2022 / ARR (start from Oct 2021) / KDD 2022 
 * Journal Reviewer: TKDD / IJIS / Big Data / TNNLS / WWWJ / KBS 
+
+
+Thesis
+======
+* Proposal at 05/13/2022 \[[slides](/thesis/Wenhao_ThesisProposal.pdf)\] \[[p1](/thesis/P1.pdf)\] \[[p2](/thesis/P2.pdf)\] \[[p3](/thesis/P3.pdf)\]
