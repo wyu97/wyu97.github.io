@@ -47,6 +47,6 @@ Service
 * Journal Reviewer: TKDD / IJIS / Big Data / TNNLS / WWWJ / KBS 
 
 
-Thesis
+<!-- Thesis
 ======
-* Proposal at 05/13/2022 \[[slides](/thesis/Wenhao_ThesisProposal.pdf)\] \[[p1](/thesis/P1.pdf)\] \[[p2](/thesis/P2.pdf)\] \[[p3](/thesis/P3.pdf)\]
+* Proposal at 05/13/2022 \[[slides](/thesis/Wenhao_ThesisProposal.pdf)\] \[[p1](/thesis/P1.pdf)\] \[[p2](/thesis/P2.pdf)\] \[[p3](/thesis/P3.pdf)\] -->

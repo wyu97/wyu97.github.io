@@ -21,13 +21,12 @@ redirect_from:
   [EMNLP 2021] Conference on Empirical Methods on Natural Language Processing <br>
   \[[description](https://aclanthology.org/2021.emnlp-tutorials.3/)\] \[[website](https://kenlg-tutorial.github.io/)\] 
 
-<!-- **Preprint Papers**
-
-* Counterfactual Graph Learning for Link Prediction <br>
-  T. Zhao, G. Liu, D. Wang, **<u>W. Yu</u>**, M. Jiang <br>
-  arXiv:2106.02172 \[[pdf](https://arxiv.org/abs/2106.02172 )\]  -->
-
 **2022 Papers**
+
+* Learning from Counterfactual Graph for Link Prediction <br>
+  T. Zhao, G. Liu, D. Wang, **<u>W. Yu</u>**, M. Jiang <br>
+  [ICML 2022] International Conference on Machine Learning <br>
+  \[[pdf](https://arxiv.org/abs/2106.02172 )\] \[[code](https://github.com/DM2-ND/CFLP)\]
 
 * Deep Multimodal Complementarity Learning<br>
   D. Wang, T. Zhao, **<u>W. Yu</u>**, N. Chawla, M. Jiang <br>

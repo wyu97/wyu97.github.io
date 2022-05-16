@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year (2019-Now) Ph.D. student in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). Before that, I received my bachelor degree of Computer Science and Technology at [Sichuan University](http://www.scu.edu.cn/).
+I am a third-year (2019-Now) Ph.D. candidate in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). Before that, I received my bachelor degree of Computer Science and Technology at [Sichuan University](http://www.scu.edu.cn/).
 
 My research interest lies in natural language processing (NLP). Specifically, I am working on knowledge-enhanced language representation learning for knowledge-intensive NLP/NLG taks. Besides, I am also interested in using knowledge to enhance language model pre-training and make better domain adaptation.
 
 What's New
 ======
 
+* \[2022.04\] One paper was accepted at [ICML 2022](https://icml.cc/Conferences/2022/CallForPapers). Congratulations to [Tong Zhao](https://tzhao.io/)! 
 * \[2022.04\] I will join [Microsoft Research](https://www.microsoft.com/en-us/research/) as a Research Intern in summer 2022, and [Allen Institute for AI (AI2)](https://allenai.org/) as a Research Intern in fall 2022.
 * \[2022.02\] Three papers were accepted by [ACL 2022](https://www.2022.aclweb.org/) and its findings on knowledge-augmented methods for language model pre-training, open-domain question answering, and commonsense reasoning. Congratulations to all of my coauthors!
 * \[2022.01\] We released a survey on the topic of **Knowledge-enhanced text generation**. It was accepted to ACM Computing Surveys (IF: 10.28). Here is the [paper](https://arxiv.org/abs/2010.04389) and [reading list](https://github.com/wyu97/KENLG-Reading) with code and data collections (**300+** stars on Github).
