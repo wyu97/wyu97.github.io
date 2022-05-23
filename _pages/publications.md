@@ -14,7 +14,7 @@ redirect_from:
 * Knowledge-Augmented Methods for Natural Language Processing <br>
   C. Zhu, Y. Xu, X. Ren, Y. Lin, M. Jiang, **<u>W. Yu</u>** <br>
   [ACL 2022] Annual Meeting of the Association for Computational Linguistics <br>
-  \[[description]()\] \[[website]()\] (To appear)
+  \[[description](https://aclanthology.org/2022.acl-tutorials.3/)\] \[[website](https://github.com/zcgzcgzcg1/ACL2022_KnowledgeNLP_Tutorial)\]
 
 * Knowledge-Enriched Natural Language Generation <br>
   **<u>W. Yu</u>**, M. Jiang, Z. Hu, Q. Wang, H. Ji, N. Rajani <br>
