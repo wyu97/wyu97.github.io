@@ -23,6 +23,11 @@ redirect_from:
 
 **2022 Papers**
 
+* Retrieval-augmented Generation across Heterogeneous Knowledge <br>
+  **<u>W. Yu</u>** <br>
+  [NAACL 2022] Annual Conference of the North American Chapter of the Association for Computational Linguistics <br>
+  \[[pdf]()\] \[[code]()\]
+
 * Learning from Counterfactual Graph for Link Prediction <br>
   T. Zhao, G. Liu, D. Wang, **<u>W. Yu</u>**, M. Jiang <br>
   [ICML 2022] International Conference on Machine Learning <br>
