@@ -12,7 +12,7 @@ I am a third-year (2019-Now) Ph.D. candidate in Computer Science and Engineering
 
 My research interest lies in natural language processing (NLP). Specifically, I am working on using structured (e.g., knowledge graph) and unstructured (e.g., retrieved rext) knowledge to enhance language representation learning for question answering, commonsense reasoning and language generation tasks. Besides, I am also interested in using knowledge to enhance language model pre-training and make better domain adaptation and few-shot learning. 
 
-My research is generously supported by Bloomberg Data Science Ph.D. Fellowship, Notre Dame Select Fellowship (4 students per year), Microsoft Research and National Science Foundation. 
+My research is generously supported by Bloomberg Ph.D. Fellowship, Notre Dame Select Fellowship (4 students per year), Microsoft Research and National Science Foundation. 
 
 What's New
 ======
