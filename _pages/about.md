@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year (2019-Now) Ph.D. candidate in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). I also work closely with [Dr. Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/) from Microsoft Research. Before that, I received my bachelor degree of Computer Science and Technology at [Sichuan University](http://www.scu.edu.cn/).
+I am a third-year (2019-Now) Ph.D. candidate in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), and had the fortune to be advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). I also work closely with [Dr. Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/) from Microsoft Research. Before that, I received my bachelor degree of Computer Science and Technology at [Sichuan University](http://www.scu.edu.cn/).
 
 My research interest lies in natural language processing (NLP). Specifically, I am working on using structured (e.g., knowledge graph) and unstructured (e.g., retrieved rext) knowledge to enhance language representation learning for question answering, commonsense reasoning and language generation tasks. Besides, I am also interested in using knowledge to enhance language model pre-training and make better domain adaptation and few-shot learning. 
 
