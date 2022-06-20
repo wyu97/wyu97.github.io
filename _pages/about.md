@@ -17,9 +17,9 @@ My research is generously supported by Bloomberg Ph.D. Fellowship, Notre Dame Se
 What's New
 ======
 
-* \[2021.06\] I am thrilled to receive [Bloomberg Ph.D. Fellowship](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/)! Thanks Bloomberg!
-* \[2021.06\] I am thrilled to receive NAACL 2022 student travel award! Thank you NAACL!
-* \[2021.05\] We have presented a tutorial on **Knowledge-augmented Methods for Natural Language Processing** at [ACL 2022](https://www.2022.aclweb.org/). There were more than 200 participants. The tutorial materials are all available online. \[[Materials](https://github.com/zcgzcgzcg1/ACL2022_KnowledgeNLP_Tutorial)\]. Thanks very much to all collaborators!
+* \[2022.06\] I am thrilled to receive NAACL 2022 student travel award! Thank you NAACL!
+* \[2021.05\] I am thrilled to receive [Bloomberg Ph.D. Fellowship](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/)! Thanks Bloomberg!
+* \[2022.05\] We have presented a tutorial on **Knowledge-augmented Methods for Natural Language Processing** at [ACL 2022](https://www.2022.aclweb.org/). There were more than 200 participants. The tutorial materials are all available online. \[[Materials](https://github.com/zcgzcgzcg1/ACL2022_KnowledgeNLP_Tutorial)\]. Thanks very much to all collaborators!
 * \[2022.04\] One paper was accepted at [ICML 2022](https://icml.cc/Conferences/2022/CallForPapers). Congratulations to [Tong Zhao](https://tzhao.io/)! 
 * \[2022.04\] I will join [Microsoft Research](https://www.microsoft.com/en-us/research/) as a Research Intern in summer 2022, and [Allen Institute for AI (AI2)](https://allenai.org/) as a Research Intern in fall 2022.
 * \[2022.02\] Three papers were accepted by [ACL 2022](https://www.2022.aclweb.org/) and its findings on knowledge-augmented methods for language model pre-training, open-domain question answering, and commonsense reasoning. Congratulations to all of my coauthors!
