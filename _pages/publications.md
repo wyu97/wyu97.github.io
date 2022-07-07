@@ -21,7 +21,19 @@ redirect_from:
   [EMNLP 2021] Conference on Empirical Methods on Natural Language Processing <br>
   \[[description](https://aclanthology.org/2021.emnlp-tutorials.3/)\] \[[website](https://kenlg-tutorial.github.io/)\] 
 
-**2022 Papers**
+**Journal Papers**
+
+* Deep Multimodal Complementarity Learning<br>
+  D. Wang, T. Zhao, **<u>W. Yu</u>**, N. Chawla, M. Jiang <br>
+  [TNNLS 2022] IEEE Transactions on Neural Networks and Learning Systems  (IF: 10.45) <br>
+  \[[pdf](/papers/TNNLS_2022.pdf)\] \[[doi](https://ieeexplore.ieee.org/document/9758834)\] 
+
+* A Survey of Knowledge-Enhanced Text Generation <br>
+  **<u>W. Yu</u>**, C. Zhu, Z. Li, Z. Hu, Q. Wang, H. Ji, M. Jiang <br>
+  [CSUR 2022] ACM Computing Surveys (IF: 10.28) <br>
+  \[[pdf](https://arxiv.org/abs/2010.04389)\] \[[reading list](https://github.com/wyu97/KENLG-Reading)\]
+  
+**Conference Papers (2022)**
 
 * Retrieval-augmented Generation across Heterogeneous Knowledge <br>
   **<u>W. Yu</u>** <br>
@@ -32,11 +44,6 @@ redirect_from:
   T. Zhao, G. Liu, D. Wang, **<u>W. Yu</u>**, M. Jiang <br>
   [ICML 2022] International Conference on Machine Learning <br>
   \[[pdf](https://arxiv.org/abs/2106.02172 )\] \[[code](https://github.com/DM2-ND/CFLP)\]
-
-* Deep Multimodal Complementarity Learning<br>
-  D. Wang, T. Zhao, **<u>W. Yu</u>**, N. Chawla, M. Jiang <br>
-  [TNNLS 2022] IEEE Transactions on Neural Networks and Learning Systems  (IF: 10.45) <br>
-  \[[pdf](/papers/TNNLS_2022.pdf)\] \[[doi](https://ieeexplore.ieee.org/document/9758834)\] 
 
 * KG-FiD: Infusing Knowledge Graph in Fusion-in-Decoder for Open-Domain Question Answering<br>
   D. Yu, C. Zhu, Y. Fang, **<u>W. Yu</u>**, S. Wang, Y. Xu, X. Ren, Y. Yang, M. Zeng <br>
@@ -53,12 +60,7 @@ redirect_from:
   [ACL 2022] Findings of Association for Computational Linguistics <br>
   \[[pdf](https://arxiv.org/abs/2203.07285)\] \[[code](https://github.com/DM2-ND/MoKGE)\]
 
-* A Survey of Knowledge-Enhanced Text Generation <br>
-  **<u>W. Yu</u>**, C. Zhu, Z. Li, Z. Hu, Q. Wang, H. Ji, M. Jiang <br>
-  [CSUR 2022] ACM Computing Surveys (IF: 10.28) <br>
-  \[[pdf](https://arxiv.org/abs/2010.04389)\] \[[reading list](https://github.com/wyu97/KENLG-Reading)\]
-
-**2021 Papers**
+**Conference Papers (2021)**
 
 * Sentence-Permuted Paragraph Generation <br>
   **<u>W. Yu</u>**, C. Zhu, T. Zhao, Z. Guo, M. Jiang <br>
@@ -90,7 +92,7 @@ redirect_from:
   [WWW 2021] The Web Conference (formerly known as World Wide Web) <br>
   \[[pdf](https://arxiv.org/abs/2102.07916)\] \[[code](https://github.com/zhichunguo/Meta-MGNN)\] 
 
-**2020 Papers**
+**Conference Papers (2020)**
 
 * Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER <br>
   Q. Zeng, **<u>W. Yu</u>**, M. Yu, T. Jiang, T. Weninger, M. Jiang <br>
