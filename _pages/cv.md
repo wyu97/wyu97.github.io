@@ -25,7 +25,7 @@ Industry Experience
 ======
 * Microsoft Research, Redmond, Washington, USA
   * Research Intern from Jun. 2021 to Sep. 2021
-  * Host: Chenguang Zhu, Yuwei Fang
+  * Host: Chenguang Zhu
 
 * IBM Greater China Group Lab, Beijing, China
   * Data Scientist Intern from Jan. 2019 to Apr. 2019
@@ -43,7 +43,7 @@ Industry Experience
 
 Service
 ======
-* Conference PC/Reviewer: EMNLP 2020 / WSDM 2021 / AAAI 2021 / IJCAI 2021 / ACL-IJCNLP 2021 / EMNLP 2021 / IJCAI 2022 / WSDM 2022 / ACL 2022 / NAACL 2022 / ARR (start from Oct 2021) / KDD 2022 
+* Conference PC/Reviewer: ACL 2020-2022 / EMNLP 2020-2022 / NAACL 2021-2022 / AAAI 2021-2022 / IJCAI 2020-2022 / ICML 2022 / Neurips 2022 / KDD 2022 / ARR (start from Oct 2021)
 * Journal Reviewer: TKDD / IJIS / Big Data / TNNLS / WWWJ / KBS 
 
 
