@@ -37,7 +37,7 @@ redirect_from:
 
 * Retrieval-augmented Generation across Heterogeneous Knowledge <br>
   **<u>W. Yu</u>** <br>
-  [NAACL 2022] Annual Conference of the North American Chapter of the Association for Computational Linguistics <br>
+  [NAACL 2022 SRW] Annual Conference of the North American Chapter of the Association for Computational Linguistics <br>
   \[[pdf]()\] \[[code]()\]
 
 * Learning from Counterfactual Graph for Link Prediction <br>
@@ -72,11 +72,6 @@ redirect_from:
   [EMNLP 2021] Conference on Empirical Methods on Natural Language Processing <br>
   \[[arXiv](https://arxiv.org/abs/2009.13401)\] \[[code](https://github.com/wyu97/InjType)\]
 
-* Action Sequence Augmentation for Early Graph-based Anomaly Detection <br>
-  T. Zhao, B. Ni, **<u>W. Yu</u>**, Z. Guo, N. Shah, M. Jiang <br>
-  [CIKM 2021] ACM International Conference on Information and Knowledge Management <br>
-  \[[arxiv](https://arxiv.org/abs/2010.10016)\] \[[code]()\]
-
 * Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations <br>
   Q. Zeng, J, Lin, **<u>W. Yu</u>**, J. Huang, M. Jiang <br>
   [KDD 2021] International Conference on Knowledge Discovery and Data Mining <br>
@@ -87,22 +82,12 @@ redirect_from:
   [NAACL 2021] Annual Conference of the North American Chapter of the Association for Computational Linguistics <br>
   \[[pdf](https://arxiv.org/abs/2010.09780)\] \[[code](https://github.com/wyu97/TransTD)\] \[[poster](/poster/NAACL-TransTD-poster.pdf)\]
 
-* Few-shot Graph Learning for Molecular Property Prediction <br>
-  Z. Guo, C. Zhang, **<u>W. Yu</u>**, J. Herr, O. Wiest, M. Jiang, N. Chawla <br>
-  [WWW 2021] The Web Conference (formerly known as World Wide Web) <br>
-  \[[pdf](https://arxiv.org/abs/2102.07916)\] \[[code](https://github.com/zhichunguo/Meta-MGNN)\] 
-
 **Conference Papers (2020)**
 
 * Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER <br>
   Q. Zeng, **<u>W. Yu</u>**, M. Yu, T. Jiang, T. Weninger, M. Jiang <br>
   [EMNLP 2020] Findings of Empirical Methods on Natural Language Processing <br>
   \[[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.429.pdf)\] \[[code](https://github.com/QingkaiZeng/TriTrain)\]
-
-* GraSeq: Graph and Sequence Fusion Learning for Molecular Property Prediction <br>
-  Z. Guo, **<u>W. Yu</u>**, C. Zhang, M. Jiang, N. Chawla <br>
-  [CIKM 2020] ACM International Conference on Information and Knowledge Management <br>
-  \[[pdf](http://www.meng-jiang.com/pubs/graseq-cikm20/graseq-cikm20-paper.pdf)\]  \[[code](https://github.com/zhichunguo/GraSeq)\]
 
 * Crossing Variational Autoencoders for Answer Retrieval <br>
   **<u>W. Yu</u>**, L. Wu, Q. Zeng, S. Tao, Y. Deng, M. Jiang <br>
@@ -119,3 +104,19 @@ redirect_from:
   [WWW 2020] The Web Conference (formerly known as World Wide Web) <br>
   \[[pdf](/papers/C2_WWW_2020.pdf)\] \[[code](https://github.com/wyu97/Tablepedia)\] \[[slides](/slides/C2_WWW_2020_slides.pdf)\] \[[poster](/poster/C2_WWW_2020_poster.pdf)\]
 
+**Co-authored papers in other areas (2019-)**
+
+* Action Sequence Augmentation for Early Graph-based Anomaly Detection <br>
+  T. Zhao, B. Ni, **<u>W. Yu</u>**, Z. Guo, N. Shah, M. Jiang <br>
+  [CIKM 2021] ACM International Conference on Information and Knowledge Management <br>
+  \[[arxiv](https://arxiv.org/abs/2010.10016)\] \[[code]()\]
+
+* Few-shot Graph Learning for Molecular Property Prediction <br>
+  Z. Guo, C. Zhang, **<u>W. Yu</u>**, J. Herr, O. Wiest, M. Jiang, N. Chawla <br>
+  [WWW 2021] The Web Conference (formerly known as World Wide Web) <br>
+  \[[pdf](https://arxiv.org/abs/2102.07916)\] \[[code](https://github.com/zhichunguo/Meta-MGNN)\] 
+
+* GraSeq: Graph and Sequence Fusion Learning for Molecular Property Prediction <br>
+  Z. Guo, **<u>W. Yu</u>**, C. Zhang, M. Jiang, N. Chawla <br>
+  [CIKM 2020] ACM International Conference on Information and Knowledge Management <br>
+  \[[pdf](http://www.meng-jiang.com/pubs/graseq-cikm20/graseq-cikm20-paper.pdf)\]  \[[code](https://github.com/zhichunguo/GraSeq)\]
