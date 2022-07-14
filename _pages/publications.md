@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
@@ -98,12 +98,8 @@ redirect_from:
   [WWW 2020] The Web Conference (formerly known as World Wide Web) <br>
   \[[pdf](/papers/C3_WWW_2020.pdf)\] \[[code](https://github.com/dmsquare/ReferInt)\] \[[slides](/slides/C3_WWW_2020.pdf)\]
 
-* Experimental Evidence Extraction System in Data Science with Hybrid Table Features and Ensemble Learning <br>
-  **<u>W. Yu</u>**, W. Peng, Y. Shu, Q. Zeng, M. Jiang <br>
-  [WWW 2020] The Web Conference (formerly known as World Wide Web) <br>
-  \[[pdf](/papers/C2_WWW_2020.pdf)\] \[[code](https://github.com/wyu97/Tablepedia)\] \[[slides](/slides/C2_WWW_2020_slides.pdf)\] \[[poster](/poster/C2_WWW_2020_poster.pdf)\]
-
-**Co-authored papers in other areas (2019-)**
+<!-- 
+**Conference papers in other areas (2019-)**
 
 * Action Sequence Augmentation for Early Graph-based Anomaly Detection <br>
   T. Zhao, B. Ni, **<u>W. Yu</u>**, Z. Guo, N. Shah, M. Jiang <br>
@@ -119,3 +115,8 @@ redirect_from:
   Z. Guo, **<u>W. Yu</u>**, C. Zhang, M. Jiang, N. Chawla <br>
   [CIKM 2020] ACM International Conference on Information and Knowledge Management <br>
   \[[pdf](http://www.meng-jiang.com/pubs/graseq-cikm20/graseq-cikm20-paper.pdf)\]  \[[code](https://github.com/zhichunguo/GraSeq)\]
+
+* Experimental Evidence Extraction System in Data Science with Hybrid Table Features and Ensemble Learning <br>
+  **<u>W. Yu</u>**, W. Peng, Y. Shu, Q. Zeng, M. Jiang <br>
+  [WWW 2020] The Web Conference (formerly known as World Wide Web) <br>
+  \[[pdf](/papers/C2_WWW_2020.pdf)\] \[[code](https://github.com/wyu97/Tablepedia)\] \[[slides](/slides/C2_WWW_2020_slides.pdf)\] \[[poster](/poster/C2_WWW_2020_poster.pdf)\] -->

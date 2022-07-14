@@ -55,14 +55,14 @@ What's New
   **<u>W. Yu</u>**, C. Zhu, T. Zhao, Z. Guo, M. Jiang <br>
   EMNLP 2021 (long) \[[pdf](/papers/P1_Permgen_2021-1.pdf)\] \[[code](https://github.com/wyu97/permgen)\] -->
 
-Recent Talks
+<!-- Recent Talks
 ======
 * HIT, Improving language diversity in paragraph generation, Nov. 2021
 * Google Research, Knoweldge-enriched natural language generation, Nov. 2021
 * EMNLP Tutorial, Knoweldge-enriched natural language generation, Nov. 2021
 * Microsoft Research, Improving language model pre-training with dictionary, Sept. 2021
 * Notre Dame, Improving language model pre-training with dictionary, Sept. 2021
-
+ -->
 
 Contact
 ======
