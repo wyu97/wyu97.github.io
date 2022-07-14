@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year (2019-now) Ph.D. candidate in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), and have the fortune to be advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). I also work closely with [Dr. Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/) from Microsoft Research. Before that, I received my bachelor degree of Computer Science and Technology at [Sichuan University](http://www.scu.edu.cn/) in 2015.
+I am a third-year (2019-now) Ph.D. candidate in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), and have the fortune to be advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). I also work closely with [Dr. Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/) from Microsoft Research. Before that, I received my bachelor degree of Computer Science and Technology at [Sichuan University](http://www.scu.edu.cn/) in 2019.
 
 My primary research interest lies in natural language processing and machine learning. Specifically, I am working on using structured (e.g., knowledge graph) and unstructured (e.g., retrieved rext) knowledge to enhance language representation learning for open-domain question answering, commonsense reasoning and natural language generation tasks. I am also interested in using knowledge for better domain adaptation and few-shot learning. 
 
-My research is generously supported by Bloomberg Ph.D. Fellowship, Notre Dame Select Fellowship (four students per year), Microsoft Research and National Science Foundation. 
+My research is generously supported by Bloomberg Ph.D. Fellowship, Notre Dame Grad School Select Fellowship, Microsoft Research and National Science Foundation. 
 
 What's New
 ======
