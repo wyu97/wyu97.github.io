@@ -15,7 +15,7 @@ My primary research interest lies in natural language processing and machine lea
 My research is generously supported by Bloomberg Ph.D. Fellowship, Notre Dame Grad School Select Fellowship, Microsoft Research and National Science Foundation. 
 
 
-p.s. If you are a Notre Dame undergraduate student and are interested in working with me for at least one semester/summer, please send your resume and research interests to my email. 
+P.S. If you are a Notre Dame undergraduate student and are interested in working with me for at least one semester/summer, please send your resume and research interests to my email. 
 
 
 What's New
