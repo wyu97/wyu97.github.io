@@ -15,7 +15,7 @@ My primary research interest lies in natural language processing and machine lea
 My research is generously supported by Bloomberg Ph.D. Fellowship, Notre Dame Grad School Select Fellowship, Microsoft Research and National Science Foundation. 
 
 
-P.S. If you are a Notre Dame undergraduate student and are interested in working with me for at least one semester/summer, please send your resume and research interests to my email. 
+p.s. If you are a Notre Dame undergraduate student and are interested in working with me for at least one semester/summer, please send your resume and research interests to my email. 
 
 
 What's New
@@ -68,9 +68,9 @@ What's New
 * Notre Dame, Improving language model pre-training with dictionary, Sept. 2021
  -->
 
-<!-- Contact
+Contact
 ======
 * Email: wyu1 \[at\] nd \[dot\] edu
 * Office: 355 Fitzpatrick Hall of Engineering
-* Location: University of Notre Dame, Notre Dame, IN 46565 -->
+* Location: University of Notre Dame, Notre Dame, IN 46565
 
