@@ -47,12 +47,12 @@ redirect_from:
 * KG-FiD: Infusing Knowledge Graph in Fusion-in-Decoder for Open-Domain Question Answering<br>
   D. Yu, C. Zhu, Y. Fang, **<u>W. Yu</u>**, S. Wang, Y. Xu, X. Ren, Y. Yang, M. Zeng <br>
   [ACL 2022] Annual Meeting of the Association for Computational Linguistics <br>
-  \[[pdf](https://arxiv.org/abs/2110.04330)\] code comming soon!
+  \[[pdf](https://arxiv.org/abs/2110.04330)\] 
 
 * Dict-BERT: Enhancing Language Model Pre-training with Dictionary <br>
   **<u>W. Yu</u>**, C. Zhu, Y. Fang, D. Yu, S. Wang, Y. Xu, M. Zeng, M. Jiang <br>
   [ACL 2022] Findings of Association for Computational Linguistics <br>
-  \[[pdf](https://arxiv.org/abs/2110.06490)\] code comming soon!
+  \[[pdf](https://arxiv.org/abs/2110.06490)\] \[[code](https://github.com/wyu97/DictBERT)\] \[[checkpoint](https://huggingface.co/wyu1/DictBERT)\]
 
 * Diversifying Content Generation for Commonsense Reasoning with Mixture of Knowledge Graph Experts <br>
   **<u>W. Yu</u>**, C. Zhu, L. Qin, Z. Zhang, T. Zhao, M. Jiang <br>
