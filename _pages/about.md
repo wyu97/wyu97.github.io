@@ -21,7 +21,7 @@ P.S. If you are a Notre Dame undergraduate student and are interested in working
 What's New
 ======
 
-* \[2022.08\] I moved to Seattle and joined [Allen Institute for AI (AI2)](https://allenai.org/) as a research intern!
+* \[2022.08\] I joined [Allen Institute for AI (AI2)](https://allenai.org/) as a research intern!
 * \[2022.06\] I am thrilled to receive NAACL 2022 student travel award! Thank you NAACL!
 * \[2021.05\] I am thrilled to receive [Bloomberg Ph.D. Fellowship](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/)! Thanks Bloomberg!
 * \[2022.05\] We have presented a tutorial on **Knowledge-augmented Methods for Natural Language Processing** at [ACL 2022](https://www.2022.aclweb.org/). There were more than 200 participants. The tutorial materials are all available online. \[[Materials](https://github.com/zcgzcgzcg1/ACL2022_KnowledgeNLP_Tutorial)\]. Thanks very much to all collaborators!
