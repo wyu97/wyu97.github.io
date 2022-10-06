@@ -18,7 +18,7 @@ My research is generously supported by Bloomberg Ph.D. Fellowship, Notre Dame Gr
 P.S. If you are a Notre Dame undergraduate student and are interested in working with me for at least one semester/summer, please send your resume and research interests to my email. 
 
 
-What's New
+What's New!
 ======
 
 
