@@ -35,9 +35,29 @@ redirect_from:
   
 **Conference Papers (2022)**
 
-* Retrieval-augmented Generation across Heterogeneous Knowledge <br>
+* A Unified Encoder-Decoder Framework with Entity Memory<br>
+  Z. Zhang, **<u>W. Yu</u>**, C. Zhu, and M. Jiang
+  [EMNLP 2022] Conference on Empirical Methods on Natural Language Processing <br>
+
+* Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering<br>
+  Z. Hu, Y. Xu, **<u>W. Yu</u>**, S. Wang, Z. Yang, C. Zhu, K. Chang and Y. Sun
+  [EMNLP 2022] Conference on Empirical Methods on Natural Language Processing <br>
+
+* Retrieval Augmentation for Commonsense Reasoning: A Unified Approach<br>
+  **<u>W. Yu</u>**, C. Zhu, Z. Zhang, S. Wang, Z. Zhang, Y. Fang and M. Jiang
+  [EMNLP 2022] Conference on Empirical Methods on Natural Language Processing <br>
+
+* Task Compass: Scaling Multi-task Pre-training with Task Prefix<br>
+  Z. Zhang, S. Wang, Y. Xu, Y. Fang, **<u>W. Yu</u>**, Y. Liu, H. Zhao, C. Zhu and M. Zeng
+  [EMNLP 2022] Findings of Empirical Methods on Natural Language Processing <br>
+  
+* Knowledge Graph Enhanced Passage Reader for Open-domain Question Answering<br>
+  M. Ju, **<u>W. Yu</u>** (equal contribution), T. Zhao, C. Zhang and Y. Ye
+  [EMNLP 2022] Findings of Empirical Methods on Natural Language Processing <br>
+
+<!-- * Retrieval-augmented Generation across Heterogeneous Knowledge <br>
   **<u>W. Yu</u>** <br>
-  [NAACL 2022 SRW] Annual Conference of the North American Chapter of the Association for Computational Linguistics \[[pdf]()\] \[[code]()\]
+  [NAACL 2022 SRW] Annual Conference of the North American Chapter of the Association for Computational Linguistics \[[pdf]()\] \[[code]()\] -->
 
 * Learning from Counterfactual Graph for Link Prediction <br>
   T. Zhao, G. Liu, D. Wang, **<u>W. Yu</u>**, M. Jiang <br>
@@ -67,7 +87,7 @@ redirect_from:
   \[[arXiv](https://arxiv.org/abs/2104.07228)\] \[[code](https://github.com/wyu97/permgen)\]
 
 * Injecting Entity Types into Entity-Guided Text Generation <br>
-  X. Dong*, **<u>W. Yu*</u>** (equal contribution), C. Zhu, M. Jiang <br>
+  X. Dong*, **<u>W. Yu*</u>**, C. Zhu, M. Jiang <br>
   [EMNLP 2021] Conference on Empirical Methods on Natural Language Processing <br>
   \[[arXiv](https://arxiv.org/abs/2009.13401)\] \[[code](https://github.com/wyu97/InjType)\]
 
