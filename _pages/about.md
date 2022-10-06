@@ -23,7 +23,7 @@ What's New!
 
 
 * <img src="../images/new.png" width="25" align=center> \[2022.10\] Five papers were accepted by [EMNLP 2022](https://2022.emnlp.org/), on question answering, commonsense reasoning and multi-task learning!
-* <img src="../images/new.png" width="25" align=center> \[2022.10\] Two pre-print papers were on arXiv. (1) Generate rather than Retrieve: Large Language Models are Strong Context Generators \[[paper](https://arxiv.org/abs/2209.10063)\]; (2)Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization \[[paper](https://arxiv.org/abs/2210.02016)\].
+* <img src="../images/new.png" width="25" align=center> \[2022.10\] Two pre-print papers were on arXiv. (1) Generate rather than Retrieve: Large Language Models are Strong Context Generators \[[paper](https://arxiv.org/abs/2209.10063)\]; (2) Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization \[[paper](https://arxiv.org/abs/2210.02016)\].
 * <img src="../images/new.png" width="25" align=center> \[2022.09\] [KnowledgeNLP-AAAI](https://knowledge-nlp.github.io/aaai2023) Workshop at AAAI 2023 is calling for papers: Knowledge Augmented Methods for NLP! Deadline: November 4, 2022.
 * \[2022.09\] I joined [Allen Institute for AI (AI2)](https://allenai.org/) as a research intern!
 * \[2022.06\] I am thrilled to receive NAACL 2022 student travel award! Thank you NAACL!
