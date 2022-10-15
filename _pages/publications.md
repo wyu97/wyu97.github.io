@@ -38,6 +38,7 @@ redirect_from:
 * A Unified Encoder-Decoder Framework with Entity Memory<br>
   Z. Zhang, **<u>W. Yu</u>**, C. Zhu, and M. Jiang <br>
   [EMNLP 2022] Conference on Empirical Methods on Natural Language Processing <br>
+  \[[pdf](https://arxiv.org/abs/2210.03273)\] \[[code](https://github.com/DM2-ND/EDMem)\]
 
 * Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering<br>
   Z. Hu, Y. Xu, **<u>W. Yu</u>**, S. Wang, Z. Yang, C. Zhu, K. Chang and Y. Sun <br>
@@ -50,10 +51,12 @@ redirect_from:
 * Task Compass: Scaling Multi-task Pre-training with Task Prefix<br>
   Z. Zhang, S. Wang, Y. Xu, Y. Fang, **<u>W. Yu</u>**, Y. Liu, H. Zhao, C. Zhu and M. Zeng <br>
   [EMNLP 2022] Findings of Empirical Methods on Natural Language Processing <br>
-  
+  \[[pdf](https://arxiv.org/abs/2210.06277)\] \[[code](https://github.com/cooelf/compassmtl)\]
+
 * Knowledge Graph Enhanced Passage Reader for Open-domain Question Answering<br>
-  M. Ju, **<u>W. Yu</u>** (equal contribution), T. Zhao, C. Zhang and Y. Ye <br>
+  M. Ju*, **<u>W. Yu*</u>** (equal contribution), T. Zhao, C. Zhang and Y. Ye <br>
   [EMNLP 2022] Findings of Empirical Methods on Natural Language Processing <br>
+  \[[pdf](https://arxiv.org/abs/2210.02933)\] \[[code](https://github.com/jumxglhf/GRAPE)\]
 
 <!-- * Retrieval-augmented Generation across Heterogeneous Knowledge <br>
   **<u>W. Yu</u>** <br>
@@ -87,7 +90,7 @@ redirect_from:
   \[[arXiv](https://arxiv.org/abs/2104.07228)\] \[[code](https://github.com/wyu97/permgen)\]
 
 * Injecting Entity Types into Entity-Guided Text Generation <br>
-  X. Dong*, **<u>W. Yu*</u>**, C. Zhu, M. Jiang <br>
+  X. Dong, **<u>W. Yu</u>**, C. Zhu, M. Jiang <br>
   [EMNLP 2021] Conference on Empirical Methods on Natural Language Processing <br>
   \[[arXiv](https://arxiv.org/abs/2009.13401)\] \[[code](https://github.com/wyu97/InjType)\]
 
