@@ -11,49 +11,49 @@ redirect_from:
 
 **Conference Tutorials**
 
-* Knowledge-Augmented Methods for Natural Language Processing <br>
+* (2) Knowledge-Augmented Methods for Natural Language Processing <br>
   C. Zhu, Y. Xu, X. Ren, Y. Lin, M. Jiang, **<u>W. Yu</u>** <br>
   [ACL 2022] Annual Meeting of the Association for Computational Linguistics <br>
   \[[description](https://aclanthology.org/2022.acl-tutorials.3/)\] \[[website](https://github.com/zcgzcgzcg1/ACL2022_KnowledgeNLP_Tutorial)\]
 
-* Knowledge-Enriched Natural Language Generation <br>
+* (1) Knowledge-Enriched Natural Language Generation <br>
   **<u>W. Yu</u>**, M. Jiang, Z. Hu, Q. Wang, H. Ji, N. Rajani <br>
   [EMNLP 2021] Conference on Empirical Methods on Natural Language Processing <br>
   \[[description](https://aclanthology.org/2021.emnlp-tutorials.3/)\] \[[website](https://kenlg-tutorial.github.io/)\] 
 
 **Journal Papers**
 
-* Deep Multimodal Complementarity Learning<br>
+* (2) Deep Multimodal Complementarity Learning<br>
   D. Wang, T. Zhao, **<u>W. Yu</u>**, N. Chawla, M. Jiang <br>
   [TNNLS 2022] IEEE Transactions on Neural Networks and Learning Systems  (IF: 10.45) <br>
   \[[pdf](/papers/TNNLS_2022.pdf)\] \[[doi](https://ieeexplore.ieee.org/document/9758834)\] 
 
-* A Survey of Knowledge-Enhanced Text Generation <br>
+* (1) A Survey of Knowledge-Enhanced Text Generation <br>
   **<u>W. Yu</u>**, C. Zhu, Z. Li, Z. Hu, Q. Wang, H. Ji, M. Jiang <br>
   [CSUR 2022] ACM Computing Surveys (IF: 10.28) <br>
   \[[pdf](https://arxiv.org/abs/2010.04389)\] \[[reading list](https://github.com/wyu97/KENLG-Reading)\]
   
 **Conference Papers (2022)**
 
-* A Unified Encoder-Decoder Framework with Entity Memory<br>
+* (9) A Unified Encoder-Decoder Framework with Entity Memory<br>
   Z. Zhang, **<u>W. Yu</u>**, C. Zhu, and M. Jiang <br>
   [EMNLP 2022] Conference on Empirical Methods on Natural Language Processing <br>
   \[[pdf](https://arxiv.org/abs/2210.03273)\] \[[code](https://github.com/DM2-ND/EDMem)\]
 
-* Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering<br>
+* (8) Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering<br>
   Z. Hu, Y. Xu, **<u>W. Yu</u>**, S. Wang, Z. Yang, C. Zhu, K. Chang and Y. Sun <br>
   [EMNLP 2022] Conference on Empirical Methods on Natural Language Processing <br>
 
-* Retrieval Augmentation for Commonsense Reasoning: A Unified Approach<br>
+* (7) Retrieval Augmentation for Commonsense Reasoning: A Unified Approach<br>
   **<u>W. Yu</u>**, C. Zhu, Z. Zhang, S. Wang, Z. Zhang, Y. Fang and M. Jiang <br>
   [EMNLP 2022] Conference on Empirical Methods on Natural Language Processing <br>
 
-* Task Compass: Scaling Multi-task Pre-training with Task Prefix<br>
+* (6) Task Compass: Scaling Multi-task Pre-training with Task Prefix<br>
   Z. Zhang, S. Wang, Y. Xu, Y. Fang, **<u>W. Yu</u>**, Y. Liu, H. Zhao, C. Zhu and M. Zeng <br>
   [EMNLP 2022] Findings of Empirical Methods on Natural Language Processing <br>
   \[[pdf](https://arxiv.org/abs/2210.06277)\] \[[code](https://github.com/cooelf/compassmtl)\]
 
-* Knowledge Graph Enhanced Passage Reader for Open-domain Question Answering<br>
+* (5) Knowledge Graph Enhanced Passage Reader for Open-domain Question Answering<br>
   M. Ju*, **<u>W. Yu*</u>** (equal contribution), T. Zhao, C. Zhang and Y. Ye <br>
   [EMNLP 2022] Findings of Empirical Methods on Natural Language Processing <br>
   \[[pdf](https://arxiv.org/abs/2210.02933)\] \[[code](https://github.com/jumxglhf/GRAPE)\]
@@ -62,61 +62,61 @@ redirect_from:
   **<u>W. Yu</u>** <br>
   [NAACL 2022 SRW] Annual Conference of the North American Chapter of the Association for Computational Linguistics \[[pdf]()\] \[[code]()\] -->
 
-* Learning from Counterfactual Graph for Link Prediction <br>
+* (4) Learning from Counterfactual Graph for Link Prediction <br>
   T. Zhao, G. Liu, D. Wang, **<u>W. Yu</u>**, M. Jiang <br>
   [ICML 2022] International Conference on Machine Learning <br>
   \[[pdf](https://arxiv.org/abs/2106.02172 )\] \[[code](https://github.com/DM2-ND/CFLP)\]
 
-* KG-FiD: Infusing Knowledge Graph in Fusion-in-Decoder for Open-Domain Question Answering<br>
+* (3) KG-FiD: Infusing Knowledge Graph in Fusion-in-Decoder for Open-Domain Question Answering<br>
   D. Yu, C. Zhu, Y. Fang, **<u>W. Yu</u>**, S. Wang, Y. Xu, X. Ren, Y. Yang, M. Zeng <br>
   [ACL 2022] Annual Meeting of the Association for Computational Linguistics <br>
   \[[pdf](https://arxiv.org/abs/2110.04330)\] 
 
-* Dict-BERT: Enhancing Language Model Pre-training with Dictionary <br>
+* (2) Dict-BERT: Enhancing Language Model Pre-training with Dictionary <br>
   **<u>W. Yu</u>**, C. Zhu, Y. Fang, D. Yu, S. Wang, Y. Xu, M. Zeng, M. Jiang <br>
   [ACL 2022] Findings of Association for Computational Linguistics <br>
   \[[pdf](https://arxiv.org/abs/2110.06490)\] \[[code](https://github.com/wyu97/DictBERT)\] \[[checkpoint](https://huggingface.co/wyu1/DictBERT)\]
 
-* Diversifying Content Generation for Commonsense Reasoning with Mixture of Knowledge Graph Experts <br>
+* (1) Diversifying Content Generation for Commonsense Reasoning with Mixture of Knowledge Graph Experts <br>
   **<u>W. Yu</u>**, C. Zhu, L. Qin, Z. Zhang, T. Zhao, M. Jiang <br>
   [ACL 2022] Findings of Association for Computational Linguistics <br>
   \[[pdf](https://arxiv.org/abs/2203.07285)\] \[[code](https://github.com/DM2-ND/MoKGE)\]
 
 **Conference Papers (2021)**
 
-* Sentence-Permuted Paragraph Generation <br>
+* (4) Sentence-Permuted Paragraph Generation <br>
   **<u>W. Yu</u>**, C. Zhu, T. Zhao, Z. Guo, M. Jiang <br>
   [EMNLP 2021] Conference on Empirical Methods on Natural Language Processing <br>
   \[[arXiv](https://arxiv.org/abs/2104.07228)\] \[[code](https://github.com/wyu97/permgen)\]
 
-* Injecting Entity Types into Entity-Guided Text Generation <br>
+* (3) Injecting Entity Types into Entity-Guided Text Generation <br>
   X. Dong, **<u>W. Yu</u>**, C. Zhu, M. Jiang <br>
   [EMNLP 2021] Conference on Empirical Methods on Natural Language Processing <br>
   \[[arXiv](https://arxiv.org/abs/2009.13401)\] \[[code](https://github.com/wyu97/InjType)\]
 
-* Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations <br>
+* (2) Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations <br>
   Q. Zeng, J, Lin, **<u>W. Yu</u>**, J. Huang, M. Jiang <br>
   [KDD 2021] International Conference on Knowledge Discovery and Data Mining <br>
   \[[pdf](https://arxiv.org/abs/2106.02974)\] \[[code](https://github.com/QingkaiZeng/GenTaxo)\]
 
-* Technical Question Answering across Tasks and Domains <br>
+* (1) Technical Question Answering across Tasks and Domains <br>
   **<u>W. Yu</u>**, L. Wu, Y. Deng, Q. Zeng, R. Mahindru, S. Guven, M. Jiang <br>
   [NAACL 2021] Annual Conference of the North American Chapter of the Association for Computational Linguistics <br>
   \[[pdf](https://arxiv.org/abs/2010.09780)\] \[[code](https://github.com/wyu97/TransTD)\] \[[poster](/poster/NAACL-TransTD-poster.pdf)\]
 
 **Conference Papers (2020)**
 
-* Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER <br>
+* (3) Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER <br>
   Q. Zeng, **<u>W. Yu</u>**, M. Yu, T. Jiang, T. Weninger, M. Jiang <br>
   [EMNLP 2020] Findings of Empirical Methods on Natural Language Processing <br>
   \[[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.429.pdf)\] \[[code](https://github.com/QingkaiZeng/TriTrain)\]
 
-* Crossing Variational Autoencoders for Answer Retrieval <br>
+* (2) Crossing Variational Autoencoders for Answer Retrieval <br>
   **<u>W. Yu</u>**, L. Wu, Q. Zeng, S. Tao, Y. Deng, M. Jiang <br>
   [ACL 2020] Annual Meeting of the Association for Computational Linguistics <br>
   \[[pdf](https://arxiv.org/pdf/2005.02557.pdf)\] \[code is currently unavailable\]
 
-* Identifying Referential Intention with Heterogeneous Contexts <br>
+* (1) Identifying Referential Intention with Heterogeneous Contexts <br>
   **<u>W. Yu</u>**, M. Yu, T. Zhao, M. Jiang <br>
   [WWW 2020] The Web Conference (formerly known as World Wide Web) <br>
   \[[pdf](/papers/C3_WWW_2020.pdf)\] \[[code](https://github.com/dmsquare/ReferInt)\] \[[slides](/slides/C3_WWW_2020.pdf)\]
