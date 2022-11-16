@@ -15,23 +15,23 @@ My primary research interest lies in natural language processing and machine lea
 My research is generously supported by Bloomberg Ph.D. Fellowship, Notre Dame Grad School Select Fellowship, Microsoft Research and National Science Foundation. 
 
 
-P.S. If you are a Notre Dame undergraduate student and are interested in working with me for at least one semester/summer, please send your resume and research interests to my email. 
+<img src="../images/smile.png" width="25" align=center> Check my latest post on [Twitter](https://twitter.com/wyu_nd)!
 
 
 What's New!
 ======
 
-
-* <img src="../images/new.png" width="25" align=center> \[2022.10\] Five papers were accepted by [EMNLP 2022](https://2022.emnlp.org/), on question answering, commonsense reasoning and multi-task learning!
-* <img src="../images/new.png" width="25" align=center> \[2022.10\] Two pre-print papers were on arXiv. (1) Generate rather than Retrieve: Large Language Models are Strong Context Generators \[[paper](https://arxiv.org/abs/2209.10063)\]; (2) Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization \[[paper](https://arxiv.org/abs/2210.02016)\].
-* <img src="../images/new.png" width="25" align=center> \[2022.09\] [KnowledgeNLP-AAAI](https://knowledge-nlp.github.io/aaai2023) Workshop at AAAI 2023 is calling for papers: Knowledge Augmented Methods for NLP! Deadline: November 4, 2022.
+* <img src="../images/new.png" width="25" align=center> \[2022.11\] Tutorial on **Knowledge-augmented Methods for Natural Language Processing** is accepted by [WSDM 2023](https://www.wsdm-conference.org/2023/). Looking forward to seeing you in Singapore!
+* <img src="../images/new.png" width="25" align=center> \[2022.10\] Five papers are accepted by [EMNLP 2022](https://2022.emnlp.org/), on question answering, commonsense reasoning and multi-task learning!
+* <img src="../images/new.png" width="25" align=center> \[2022.10\] Two pre-print papers are on arXiv. (1) Generate rather than Retrieve: Large Language Models are Strong Context Generators \[[paper](https://arxiv.org/abs/2209.10063)\]; (2) Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization \[[paper](https://arxiv.org/abs/2210.02016)\].
+* \[2022.09\] [KnowledgeNLP-AAAI](https://knowledge-nlp.github.io/aaai2023) Workshop at AAAI 2023 is calling for papers: Knowledge Augmented Methods for NLP! ~~Deadline: November 4, 2022~~.
 * \[2022.09\] I joined [Allen Institute for AI (AI2)](https://allenai.org/) as a research intern!
 * \[2022.06\] I am thrilled to receive NAACL 2022 student travel award! Thank you NAACL!
 * \[2021.05\] I am thrilled to receive [Bloomberg Ph.D. Fellowship](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/)! Thanks Bloomberg!
 * \[2022.05\] We have presented a tutorial on **Knowledge-augmented Methods for Natural Language Processing** at [ACL 2022](https://www.2022.aclweb.org/). There were more than 200 participants. The tutorial materials are all available online. \[[Materials](https://github.com/zcgzcgzcg1/ACL2022_KnowledgeNLP_Tutorial)\]. Thanks very much to all collaborators!
-* \[2022.04\] One paper was accepted at [ICML 2022](https://icml.cc/Conferences/2022/CallForPapers). Congratulations to [Tong Zhao](https://tzhao.io/)! 
+* \[2022.04\] One paper is accepted at [ICML 2022](https://icml.cc/Conferences/2022/CallForPapers). Congratulations to [Tong Zhao](https://tzhao.io/)! 
 <!-- * \[2022.04\] I will join [Microsoft Research](https://www.microsoft.com/en-us/research/) as a Research Intern in summer 2022, and [Allen Institute for AI (AI2)](https://allenai.org/) as a Research Intern in fall 2022. -->
-* \[2022.02\] Three papers were accepted by [ACL 2022](https://www.2022.aclweb.org/)!
+<!-- * \[2022.02\] Three papers were accepted by [ACL 2022](https://www.2022.aclweb.org/)! -->
 <!-- and its findings on knowledge-augmented methods for language model pre-training, open-domain question answering, and commonsense reasoning. Congratulations to all of my coauthors! -->
 <!-- * \[2022.01\] We released a survey on the topic of **Knowledge-enhanced text generation**. It was accepted to ACM Computing Surveys (IF: 10.28). Here is the [paper](https://arxiv.org/abs/2010.04389) and [reading list](https://github.com/wyu97/KENLG-Reading) with code and data collections (**300+** stars on Github). -->
 <!-- * \[2021.12\] Our tutorial entitled **Knowledge-Augmented Methods for Natural Language Processing** is accepted to [ACL 2022](https://www.2022.aclweb.org/). Tutors include Dr. Chenguang Zhu, Dr. Yichong Xu from Microsoft Research, and Prof. Xiang Ren, Yuchen Lin from USC. See you in Dublin! -->
