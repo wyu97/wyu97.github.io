@@ -21,9 +21,10 @@ My research is generously supported by Bloomberg Ph.D. Fellowship, Notre Dame Gr
 What's New!
 ======
 
+* <img src="../images/trophy.png" width="25" align=center> \[2022.11\] Our paper "Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering" [(link)](https://arxiv.org/abs/2211.08380) won the <span style="color:red">**best paper award**</span> at [SoCal NLP 2022](https://socalnlp.github.io/symp22/index.html). Congratulations to [Ziniu Hu](https://acbull.github.io/)! 
 * <img src="../images/new.png" width="25" align=center> \[2022.11\] Tutorial on **Knowledge-augmented Methods for Natural Language Processing** is accepted by [WSDM 2023](https://www.wsdm-conference.org/2023/) in Singapore!
 * <img src="../images/new.png" width="25" align=center> \[2022.10\] Five papers are accepted by [EMNLP 2022](https://2022.emnlp.org/), on question answering, commonsense reasoning and multi-task learning!
-* <img src="../images/new.png" width="25" align=center> \[2022.10\] Two pre-print papers are on arXiv. (1) Generate rather than Retrieve: Large Language Models are Strong Context Generators \[[paper](https://arxiv.org/abs/2209.10063)\]; (2) Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization \[[paper](https://arxiv.org/abs/2210.02016)\].
+* \[2022.10\] Two pre-print papers are on arXiv. (1) Generate rather than Retrieve: Large Language Models are Strong Context Generators \[[paper](https://arxiv.org/abs/2209.10063)\]; (2) Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization \[[paper](https://arxiv.org/abs/2210.02016)\].
 * \[2022.09\] [KnowledgeNLP-AAAI](https://knowledge-nlp.github.io/aaai2023) Workshop at AAAI 2023 is calling for papers: Knowledge Augmented Methods for NLP! ~~Deadline: November 4, 2022~~.
 * \[2022.09\] I joined [Allen Institute for AI (AI2)](https://allenai.org/) as a research intern!
 * \[2022.06\] I am thrilled to receive NAACL 2022 student travel award! Thank you NAACL!
