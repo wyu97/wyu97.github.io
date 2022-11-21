@@ -15,7 +15,7 @@ My primary research interest lies in natural language processing and machine lea
 My research is generously supported by Bloomberg Ph.D. Fellowship, Notre Dame Grad School Select Fellowship, Microsoft Research and National Science Foundation. 
 
 
-<img src="../images/smile.png" width="25" align=center> Check my latest post on [Twitter](https://twitter.com/wyu_nd)!
+<img src="../images/twitter.png" width="25" align=center> Check my latest post on [Twitter](https://twitter.com/wyu_nd)!
 
 
 What's New!
