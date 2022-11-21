@@ -43,8 +43,8 @@ redirect_from:
 * (8) Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering<br>
   Z. Hu, Y. Xu, **<u>W. Yu</u>**, S. Wang, Z. Yang, C. Zhu, K. Chang and Y. Sun <br>
   [EMNLP 2022] Conference on Empirical Methods on Natural Language Processing <br>
-  \[[pdf](https://arxiv.org/abs/2211.08380)\] \[[code]()\] <br>
-  <img src="../images/trophy.png" width="25" align=center> Best Paper Award at SoCal NLP 2022
+  \[[pdf](https://arxiv.org/abs/2211.08380)\] \[[code]()\]
+  <img src="../images/trophy.png" width="25" align=center> <span style="color:red">Best Paper Award at SoCal NLP 2022</span>
 
 * (7) Retrieval Augmentation for Commonsense Reasoning: A Unified Approach<br>
   **<u>W. Yu</u>**, C. Zhu, Z. Zhang, S. Wang, Z. Zhang, Y. Fang and M. Jiang <br>
