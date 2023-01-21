@@ -35,15 +35,20 @@ redirect_from:
 
 **Conference Papers (2023)**
 
+* (3) A Survey of Multi-task Learning in Natural Language Processing <br>
+  Z. Zhang, **<u>W. Yu</u>**, M. Yu, Z. Guo, M. Jiang <br>
+  [EACL 2023] Conference of the European Chapter of the Association for Computational Linguistics <br>
+  \[[pdf](https://arxiv.org/abs/2204.03508)\] 
+
 * (2) Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization <br>
   M. Ju, T. Zhao, Q. Wen, **<u>W. Yu</u>**, N. Shah, Y. Ye, C. Zhang <br>
   [ICLR 2023] International Conference on Learning Representations <br>
-  \[[pdf](https://arxiv.org/abs/2210.02016)\] \[[code]()\]
-
+  \[[pdf](https://arxiv.org/abs/2210.02016)\] \[[code]()\] \[[openreview](https://openreview.net/forum?id=1tHAZRqftM)\] 
+  
 * (1) Generate rather than Retrieve: Large Language Models are Strong Context Generators <br>
   **<u>W. Yu</u>**, D. Iter, S. Wang, Y. Xu, M. Ju, S. Sanyal, C. Zhu, M. Zeng, M. Jiang <br>
   [ICLR 2023] International Conference on Learning Representations <br>
-  \[[pdf](https://arxiv.org/abs/2209.10063)\] \[[code](https://github.com/wyu97/GenRead)\]
+  \[[pdf](https://arxiv.org/abs/2209.10063)\] \[[code](https://github.com/wyu97/GenRead)\] \[[openreview](https://openreview.net/forum?id=fB0hRu9GZUS)\] 
   
 **Conference Papers (2022)**
 
