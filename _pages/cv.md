@@ -23,6 +23,15 @@ Education History
 
 Industry Experience
 ======
+
+* Bloomberg CTO Office, New York, USA
+  * Research Intern from Sep. 2022 to Jan. 2023
+  * Host: Mark Dredze, David Rosenberg, Gideon Mann 
+
+* Microsoft Research, Redmond, Washington, USA
+  * Research Intern from Jun. 2022 to Sep. 2022
+  * Host: Dan Iter, Chenguang Zhu
+
 * Microsoft Research, Redmond, Washington, USA
   * Research Intern from Jun. 2021 to Sep. 2021
   * Host: Chenguang Zhu
@@ -43,8 +52,8 @@ Industry Experience
 
 Service
 ======
-* Conference PC/Reviewer: ACL 2020-2022 / EMNLP 2020-2022 / NAACL 2021-2022 / AAAI 2021-2022 / IJCAI 2020-2022 / ICML 2022 / Neurips 2022 / KDD 2022 / ARR (start from Oct 2021)
-* Journal Reviewer: TKDD / IJIS / Big Data / TNNLS / WWWJ / KBS 
+* Conference PC/Reviewer: ACL 2020-2023 / EMNLP 2020-2022 / NAACL 2021-2022 / AAAI 2021-2023 / IJCAI 2020-2023 / ICML 2022 / Neurips 2022 / ARR (start from Oct 2021)
+* Journal Reviewer: TKDD / IJIS / Big Data / TNNLS / WWWJ / KBS / TKDE
 
 
 <!-- Thesis
