@@ -25,7 +25,7 @@ Industry Experience
 ======
 
 * Bloomberg CTO Office, New York, USA
-  * Research Intern from Sep. 2022 to Jan. 2023
+  * Research Intern, will start from Jun. 2023
   * Host: Mark Dredze, David Rosenberg, Gideon Mann 
 
 * Allen Institute for AI, Seattle, Washington, USA
