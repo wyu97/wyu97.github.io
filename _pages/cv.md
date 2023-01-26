@@ -28,6 +28,10 @@ Industry Experience
   * Research Intern from Sep. 2022 to Jan. 2023
   * Host: Mark Dredze, David Rosenberg, Gideon Mann 
 
+* Allen Institute for AI, Seattle, Washington, USA
+  * Research Intern from Sep. 2022 to Jan. 2023
+  * Host: Peter Clark, Ashish Sabharwal
+
 * Microsoft Research, Redmond, Washington, USA
   * Research Intern from Jun. 2022 to Sep. 2022
   * Host: Dan Iter, Chenguang Zhu
