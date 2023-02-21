@@ -20,8 +20,8 @@ My research is generously supported by Bloomberg Ph.D. Fellowship, Notre Dame Gr
 What's New!
 ======
 
-* <img src="../images/new.png" width="25" align=center>\[2023.01\] One survey paper is accepted at [EACL 2023](https://2023.eacl.org/) multi-task learning in NLP.
-* <img src="../images/new.png" width="25" align=center>\[2023.01\] Two papers are accepted at [ICLR 2023](https://iclr.cc/), on large language model for open-domain QA and multi-task pre-training.
+* <img src="../images/new.png" width="25" align=center> \[2023.01\] One survey paper is accepted at [EACL 2023](https://2023.eacl.org/) multi-task learning in NLP.
+* <img src="../images/new.png" width="25" align=center> \[2023.01\] Two papers are accepted at [ICLR 2023](https://iclr.cc/), on large language model for open-domain QA and multi-task pre-training.
 * <img src="../images/trophy.png" width="25" align=center> \[2022.11\] Our paper "Empowering Language Models with Knowledge Graph Reasoning for Question Answering" [\[link\]](https://arxiv.org/abs/2211.08380) won the <span style="color:red">**best paper award**</span> at [SoCal NLP Symposium 2022](https://socalnlp.github.io/symp22/index.html#award)! The paper is also accepted to EMNLP 2022!
 * \[2022.11\] Tutorial on **Knowledge-augmented Methods for Natural Language Processing** is accepted by [WSDM 2023](https://www.wsdm-conference.org/2023/) in Singapore!
 * \[2022.10\] Five papers are accepted by [EMNLP 2022](https://2022.emnlp.org/), on question answering, commonsense reasoning and multi-task learning!
