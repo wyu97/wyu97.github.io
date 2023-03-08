@@ -16,6 +16,7 @@ My research is generously supported by Bloomberg Ph.D. Fellowship, Notre Dame Gr
 
 <img src="../images/twitter.png" width="25" align=center> Check my latest post on [Twitter](https://twitter.com/wyu_nd)!
 
+**I am on the job market for NLP postdoc and research scientist positions, with an anticipated graduation date of end of 2023 (anytime in 2024 also works for me).**
 
 What's New!
 ======
