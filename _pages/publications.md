@@ -35,6 +35,20 @@ redirect_from:
 
 **Conference Papers (2023)**
 
+* (6) Large Language Models are Built-in Autoregressive Search Engines <br>
+  N. Ziems, **<u>W. Yu</u>**, Z. Zhang and M. Jiang <br>
+  [ACL 2023] Findings of Association for Computational Linguistics <br>
+
+* (5) A Survey of Deep Learning for Mathematical Reasoning<br>
+  P. Lu, L. Qiu, **<u>W. Yu</u>**, S. Welleck, K. Chang
+  [ACL 2023] Annual Meeting of the Association for Computational Linguistics <br>
+  \[[pdf](https://arxiv.org/abs/2212.10535)\] 
+
+* (4) APOLLO: A Simple Approach for Adaptive Pretraining of Language Models for Logical Reasoning <br>
+  S. Sanyal, Y. Xu, S. Wang, Z. Yang, R. Pryzant, **<u>W. Yu</u>**, C. Zhu, X. Ren <br>
+  [ACL 2023] Annual Meeting of the Association for Computational Linguistics <br>
+  \[[pdf](https://arxiv.org/abs/2212.09282)\] \[[code]()\]
+
 * (3) A Survey of Multi-task Learning in Natural Language Processing <br>
   Z. Zhang, **<u>W. Yu</u>**, M. Yu, Z. Guo, M. Jiang <br>
   [EACL 2023] Conference of the European Chapter of the Association for Computational Linguistics <br>
