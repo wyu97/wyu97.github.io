@@ -39,8 +39,8 @@ redirect_from:
   N. Ziems, **<u>W. Yu</u>**, Z. Zhang and M. Jiang <br>
   [ACL 2023] Findings of Association for Computational Linguistics <br>
 
-* (5) A Survey of Deep Learning for Mathematical Reasoning<br>
-  P. Lu, L. Qiu, **<u>W. Yu</u>**, S. Welleck, K. Chang
+* (5) A Survey of Deep Learning for Mathematical Reasoning <br>
+  P. Lu, L. Qiu, **<u>W. Yu</u>**, S. Welleck, K. Chang <br>
   [ACL 2023] Annual Meeting of the Association for Computational Linguistics <br>
   \[[pdf](https://arxiv.org/abs/2212.10535)\] 
 
