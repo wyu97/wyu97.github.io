@@ -21,7 +21,8 @@ My research is generously supported by Bloomberg Ph.D. Fellowship, Notre Dame Gr
 What's New!
 ======
 
-* <img src="../images/new.png" width="25" align=center> \[2023.05\] Three papers (two main conference and one findings) are accepted at [ACL 2023](https://2023.acl.org/).
+* <img src="../images/new.png" width="25" align=center> \[2023.05\] Three papers (two main and one findings) are accepted at [ACL 2023](https://2023.acl.org/).
+* <img src="../images/new.png" width="25" align=center> \[2023.05\] One paper on open-domain QA is accepted at [TACL 2023](https://transacl.org/index.php/tacl).
 * <img src="../images/new.png" width="25" align=center> \[2023.01\] Two papers are accepted at [ICLR 2023](https://iclr.cc/), on large language model for open-domain QA and multi-task pre-training.
 * \[2023.01\] One survey paper is accepted at [EACL 2023](https://2023.eacl.org/) on multi-task learning in NLP.
 * <img src="../images/trophy.png" width="25" align=center> \[2022.11\] Our paper "Empowering Language Models with Knowledge Graph Reasoning for Question Answering" [\[link\]](https://arxiv.org/abs/2211.08380) won the <span style="color:red">**best paper award**</span> at [SoCal NLP Symposium 2022](https://socalnlp.github.io/symp22/index.html#award)! The paper is also accepted to EMNLP 2022!

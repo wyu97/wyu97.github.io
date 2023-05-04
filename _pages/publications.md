@@ -23,6 +23,11 @@ redirect_from:
 
 **Journal Papers**
 
+* (3) Exploring Contrast Consistency of Open-Domain Question Answering Systems on Minimally Edited Questions<br>
+  Z. Zhang, **<u>W. Yu</u>**, Z. Ning, M. Ju, M. Jiang <br>
+  [TACL 2023] Transactions of the Association for Computational Linguistics (IF: 9.19) <br>
+  <!-- \[[pdf](/papers/TNNLS_2022.pdf)\] \[[doi](https://ieeexplore.ieee.org/document/9758834)\]  -->
+
 * (2) Deep Multimodal Complementarity Learning<br>
   D. Wang, T. Zhao, **<u>W. Yu</u>**, N. Chawla, M. Jiang <br>
   [TNNLS 2022] IEEE Transactions on Neural Networks and Learning Systems  (IF: 10.45) <br>
