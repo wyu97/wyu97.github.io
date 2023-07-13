@@ -18,14 +18,14 @@ Education History
   * Aug. 2015 - Jun. 2019, GPA: 3.84/4.0
 
 * Ph.D. of Computer Science and Engineering, University of Notre Dame
-  * Aug. 2019 - present, GPA: 3.95/4.0
+  * Aug. 2019 - Jun. 2023, GPA: 3.95/4.0
 
 
 Industry Experience
 ======
 
 * Bloomberg CTO Office, New York, USA
-  * Research Intern, will start from Jun. 2023
+  * Research Intern, from May 2023 to Jul. 2023
   * Host: Mark Dredze, David Rosenberg, Gideon Mann 
 
 * Allen Institute for AI, Seattle, Washington, USA
@@ -56,8 +56,8 @@ Industry Experience
 
 Service
 ======
-* Conference PC/Reviewer: ACL 2020-2023 / EMNLP 2020-2022 / NAACL 2021-2022 / AAAI 2021-2023 / IJCAI 2020-2023 / ICML 2022 / Neurips 2022 / ARR (start from Oct 2021)
-* Journal Reviewer: TKDD / IJIS / Big Data / TNNLS / WWWJ / KBS / TKDE
+* Conference PC / Reviewer: ACL 2020-2023 / EMNLP 2020-2023 / NAACL 2021-2022 / AAAI 2021-2023 / IJCAI 2020-2023 / ICML 2022-2023 / Neurips 2022-2023 / ARR (start from Oct 2021)
+* Journal Reviewer: TKDD / IJIS / Big Data / TNNLS / WWWJ / KBS / TKDE / CSUR
 
 
 <!-- Thesis
