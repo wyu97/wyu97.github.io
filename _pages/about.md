@@ -12,7 +12,7 @@ I am a Senior Research Scientist in Tencent AI Seattle Lab. My primary research 
 
 I earned my Ph.D. in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2023, advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). My research during Ph.D was generously supported by Bloomberg Fellowship. Prior to my Ph.D., I received my Bachelor's degree in Computer Science and Technology from Sichuan University in 2019.
 
-<img src="../images/new.png" width="25" align=center> I am actively seeking highly motivated interns who share my research interests. Please feel free to direct message me.
+<img src="../images/new.png" width="25" align=center> I am actively seeking highly motivated interns who share my research interests. Please feel free to email me!
 
 <img src="../images/twitter.png" width="25" align=center> Check my latest post on [Twitter](https://twitter.com/wyu_nd)!
 
