@@ -8,22 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year (2019-now) Ph.D. candidate in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), and have the fortune to be advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). I also work closely with [Dr. Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/) from Microsoft Research. Before that, I received my bachelor degree of Computer Science and Technology at [Sichuan University](http://www.scu.edu.cn/) in 2019.
+I am a Senior Research Scientist in Tencent AI Seattle Lab. My primary research interest lies in natural language processing and machine learning. Specifically, I am working on using knowledge to enhance factuality and reasoning capibility of language models.
 
-My primary research interest lies in natural language processing and machine learning. Specifically, I am working on using structured (e.g., knowledge graph) and unstructured (e.g., retrieved rext) knowledge to enhance language representation learning for open-domain question answering, commonsense reasoning and natural language generation tasks. I am also interested in using knowledge for better domain adaptation and few-shot learning. 
+I earned my Ph.D. in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2023, advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). My research during Ph.D was generously supported by Bloomberg Fellowship. Prior to my Ph.D., I received my Bachelor's degree in Computer Science and Technology from Sichuan University in 2019.
 
-My research is generously supported by Bloomberg Ph.D. Fellowship, Notre Dame Grad School Select Fellowship, Microsoft Research and National Science Foundation. 
+<img src="../images/new.png" width="25" align=center> I am actively seeking highly motivated interns who share my research interests. Please feel free to direct message me.
 
 <img src="../images/twitter.png" width="25" align=center> Check my latest post on [Twitter](https://twitter.com/wyu_nd)!
 
-<!-- **I am seeking NLP research scientist roles in the job market, and I expect to graduate by the end of 2023.** -->
 
 What's New!
 ======
 
 * <img src="../images/new.png" width="25" align=center> \[2023.05\] Three papers (two main and one findings) are accepted at [ACL 2023](https://2023.acl.org/).
-* <img src="../images/new.png" width="25" align=center> \[2023.05\] One paper on open-domain QA is accepted at [TACL 2023](https://transacl.org/index.php/tacl).
-* <img src="../images/new.png" width="25" align=center> \[2023.01\] Two papers are accepted at [ICLR 2023](https://iclr.cc/), on large language model for open-domain QA and multi-task pre-training.
+* \[2023.05\] One paper on open-domain QA is accepted at [TACL 2023](https://transacl.org/index.php/tacl).
+* \[2023.01\] Two papers are accepted at [ICLR 2023](https://iclr.cc/), on large language model for open-domain QA and multi-task pre-training.
 * \[2023.01\] One survey paper is accepted at [EACL 2023](https://2023.eacl.org/) on multi-task learning in NLP.
 * <img src="../images/trophy.png" width="25" align=center> \[2022.11\] Our paper "Empowering Language Models with Knowledge Graph Reasoning for Question Answering" [\[link\]](https://arxiv.org/abs/2211.08380) won the <span style="color:red">**best paper award**</span> at [SoCal NLP Symposium 2022](https://socalnlp.github.io/symp22/index.html#award)! The paper is also accepted to EMNLP 2022!
 * \[2022.11\] Tutorial on **Knowledge-augmented Methods for Natural Language Processing** is accepted by [WSDM 2023](https://www.wsdm-conference.org/2023/) in Singapore!
