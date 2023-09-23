@@ -40,9 +40,14 @@ redirect_from:
 
 **Conference Papers (2023)**
 
+* (7) GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via Test-time Augmentation <br>
+  M. Ju, T. Zhao, **<u>W. Yu</u>**, N. Shah and Y. Ye <br>
+  [Neurips 2023] Conference on Neural Information Processing Systems <br>
+
 * (6) Large Language Models are Built-in Autoregressive Search Engines <br>
   N. Ziems, **<u>W. Yu</u>**, Z. Zhang and M. Jiang <br>
   [ACL 2023] Findings of Association for Computational Linguistics <br>
+  \[[pdf](https://arxiv.org/abs/2305.09612)\] \[[code](https://github.com/Ziems/llm-url)\]
 
 * (5) A Survey of Deep Learning for Mathematical Reasoning <br>
   P. Lu, L. Qiu, **<u>W. Yu</u>**, S. Welleck, K. Chang <br>

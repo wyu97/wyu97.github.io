@@ -9,19 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Please kindly find my [Curriculum Vitae](/files/Wenhao_CV.pdf).
-
+<!-- Please kindly find my [Curriculum Vitae](/files/Wenhao_CV.pdf). -->
 
 Education History
 ======
-* B.S. of Computer Science and Techonology, Sichuan Univerisity
-  * Aug. 2015 - Jun. 2019, GPA: 3.84/4.0
 
 * Ph.D. of Computer Science and Engineering, University of Notre Dame
   * Aug. 2019 - Jun. 2023, GPA: 3.95/4.0
 
+* B.S. of Computer Science and Techonology, Sichuan Univerisity
+  * Aug. 2015 - Jun. 2019, GPA: 3.84/4.0
 
-Industry Experience
+Working Experience
+======
+
+* Tencent AI Lab, Seattle, USA
+  * Senior Research Scientist, from Aug. 2023
+
+Internship Experience
 ======
 
 * Bloomberg CTO Office, New York, USA
@@ -56,7 +61,7 @@ Industry Experience
 
 Service
 ======
-* Conference PC / Reviewer: ACL 2020-2023 / EMNLP 2020-2023 / NAACL 2021-2022 / AAAI 2021-2023 / IJCAI 2020-2023 / ICML 2022-2023 / Neurips 2022-2023 / ARR (start from Oct 2021)
+* Conference PC / Reviewer: ICLR / Neurips / ICML / ACL / EMNLP / NAACL / ARR
 * Journal Reviewer: TKDD / IJIS / Big Data / TNNLS / WWWJ / KBS / TKDE / CSUR
 
 
