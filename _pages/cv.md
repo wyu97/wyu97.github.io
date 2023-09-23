@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Please kindly find my [Curriculum Vitae](/files/Wenhao_CV.pdf). -->
+Please kindly find my [Curriculum Vitae](/files/Wenhao_CV.pdf).
 
 Education History
 ======
