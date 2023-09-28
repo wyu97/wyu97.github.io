@@ -42,7 +42,7 @@ redirect_from:
 
 * (7) GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via Test-time Augmentation <br>
   M. Ju, T. Zhao, **<u>W. Yu</u>**, N. Shah and Y. Ye <br>
-  [Neurips 2023] Conference on Neural Information Processing Systems <br>
+  [NeurIPS 2023] Conference on Neural Information Processing Systems <br>
 
 * (6) Large Language Models are Built-in Autoregressive Search Engines <br>
   N. Ziems, **<u>W. Yu</u>**, Z. Zhang and M. Jiang <br>

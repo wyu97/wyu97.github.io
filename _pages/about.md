@@ -20,7 +20,7 @@ I earned my Ph.D. in Computer Science and Engineering from the [University of No
 What's New!
 ======
 
-* <img src="../images/new.png" width="25" align=center> \[2023.09\] One paper is accepted at [Neurips 2023](https://nips.cc/).
+* <img src="../images/new.png" width="25" align=center> \[2023.09\] One paper is accepted at [NeurIPS 2023](https://nips.cc/).
 * \[2023.05\] Three papers (two main and one findings) are accepted at [ACL 2023](https://2023.acl.org/).
 * \[2023.05\] One paper on open-domain QA is accepted at [TACL 2023](https://transacl.org/index.php/tacl).
 * \[2023.01\] Two papers are accepted at [ICLR 2023](https://iclr.cc/), on large language model for open-domain QA and multi-task pre-training.
