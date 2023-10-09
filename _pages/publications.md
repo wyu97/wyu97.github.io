@@ -40,9 +40,29 @@ redirect_from:
 
 **Conference Papers (2023)**
 
+* (11) IfQA: A Dataset for Open-domain Question Answering under Counterfactual Presuppositions <br>
+  **<u>W. Yu</u>**, M. Jiang, P. Clark, A. Sabharwal <br>
+  [EMNLP 2023] Conference on Empirical Methods on Natural Language Processing <br>
+  \[[pdf](https://arxiv.org/abs/2305.14010)\] 
+
+* (10) Let GPT be a Math Tutor: Teaching Math Word Problem Solvers with Customized Exercise Generation <br>
+  Z. Liang, **<u>W. Yu</u>**, T. Rajpurohit, P. Clark, X. Zhang, A. Kalyan <br>
+  [EMNLP 2023] Conference on Empirical Methods on Natural Language Processing <br>
+  \[[pdf](https://arxiv.org/abs/2305.14386)\] 
+
+* (9) Pre-training Language Models for Comparative Reasoning <br>
+  M. Yu, Z. Zhang, **<u>W. Yu</u>**, M. Jiang <br>
+  [EMNLP 2023] Conference on Empirical Methods on Natural Language Processing <br>
+  \[[pdf](https://arxiv.org/abs/2305.14457)\] 
+
+* (8) Auto-Instruct: Automatic Instruction Generation and Ranking for Black-Box Language Models <br>
+  Z. Zhang, S. Wang, **<u>W. Yu</u>**, Y. Xu, D. Iter, Q. Zeng, Y. Liu, C. Zhu, M. Jiang <br>
+  [EMNLP 2023] Findings of Empirical Methods on Natural Language Processing <br>
+
 * (7) GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via Test-time Augmentation <br>
   M. Ju, T. Zhao, **<u>W. Yu</u>**, N. Shah and Y. Ye <br>
   [NeurIPS 2023] Conference on Neural Information Processing Systems <br>
+  \[[pdf](https://arxiv.org/abs/2310.00800)\] 
 
 * (6) Large Language Models are Built-in Autoregressive Search Engines <br>
   N. Ziems, **<u>W. Yu</u>**, Z. Zhang and M. Jiang <br>
