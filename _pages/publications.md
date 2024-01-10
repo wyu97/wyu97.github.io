@@ -44,6 +44,7 @@ redirect_from:
   **<u>W. Yu</u>**, M. Jiang, P. Clark, A. Sabharwal <br>
   [EMNLP 2023] Conference on Empirical Methods on Natural Language Processing <br>
   \[[pdf](https://arxiv.org/abs/2305.14010)\] 
+  <img src="../images/trophy.png" width="25" align=center> <span style="color:red">Outstanding Paper Award at EMNLP 2023</span>
 
 * (10) Let GPT be a Math Tutor: Teaching Math Word Problem Solvers with Customized Exercise Generation <br>
   Z. Liang, **<u>W. Yu</u>**, T. Rajpurohit, P. Clark, X. Zhang, A. Kalyan <br>
