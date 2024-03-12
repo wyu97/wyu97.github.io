@@ -20,6 +20,9 @@ I earned my Ph.D. in Computer Science and Engineering from the [University of No
 What's New!
 ======
 
+
+* \[2023.09\] We are organizing the [Third Workshop on Knowledge Augmented Methods for NLP (KnowledgeNLP)](https://knowledge-nlp.github.io/acl2024/) at ACL in Bangkok in August. We look forward to your contributions!
+* \[2023.09\] I served as Area Chair for ACL 2024 and COLING 2024.
 * <img src="../images/trophy.png" width="25" align=center> \[2023.12\] Our paper "IfQA: A Dataset for Open-domain Question Answering under Counterfactual Presuppositions" [\[link\]](https://aclanthology.org/2023.emnlp-main.515/) won the <span style="color:red">**outstanding paper award**</span> at EMNLP 2023!
 * <img src="../images/new.png" width="25" align=center> \[2023.09\] Four papers are accepted at [EMNLP 2023](https://2023.emnlp.org/), on question answering, instruction tunning, math reasoning, and comparative reasoning. 
 * \[2023.09\] One paper is accepted at [NeurIPS 2023](https://nips.cc/).
