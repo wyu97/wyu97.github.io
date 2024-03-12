@@ -11,7 +11,7 @@ redirect_from:
 I am a Senior Research Scientist in Tencent AI Seattle Lab. My primary research interest lies in natural language processing and machine learning. My current focus include several key areas: information retrieval, retrieval-augmented generation, language model agent systems, and multi-modal learning. This specialization reflects my commitment to advancing the capabilities of AI in understanding and interacting with the world.
 
 
-I earned my Ph.D. in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2023, advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). My research during Ph.D was generously supported by [Bloomberg Ph.D Fellowship](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/). During my Ph.D, I mainly worked on using knowledge (i.e., text retrieval, knowledge graph and etc) to enhance factuality and reasoning capibility of (large) language models. Prior to my Ph.D., I received my Bachelor's degree in Computer Science and Technology from Sichuan University in 2019.
+I earned my Ph.D. in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2023, advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). My research during Ph.D was generously supported by [Bloomberg Ph.D Fellowship](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/). During my Ph.D, I mainly worked on using knowledge (i.e., text retrieval, knowledge graph and etc) to enhance factuality and reasoning capibility of (large) language models. Prior to my Ph.D, I received my Bachelor's degree in Computer Science and Technology from Sichuan University in 2019.
 
 <img src="../images/hiring.png" width="25" align=center> I am actively seeking highly motivated interns who share my research interests. Kindly reach out to me at wyu1@nd.edu with your resume!
 
@@ -22,10 +22,10 @@ What's New!
 ======
 
 
-* \[2023.09\] We are organizing the [Third Workshop on Knowledge Augmented Methods for NLP (KnowledgeNLP)](https://knowledge-nlp.github.io/acl2024/) at ACL in Bangkok in August. We look forward to your contributions!
-* \[2023.09\] I served as Area Chair for ACL 2024 and COLING 2024.
+* <img src="../images/new.png" width="25" align=center> \[2024.03\] We are organizing the [Third Workshop on Knowledge Augmented Methods for NLP (KnowledgeNLP)](https://knowledge-nlp.github.io/acl2024/) at ACL 2024 in Bangkok in August. We look forward to your contributions!
+* \[2024.02\] I served as Area Chair for ACL 2024 and COLING 2024.
 * <img src="../images/trophy.png" width="25" align=center> \[2023.12\] Our paper "IfQA: A Dataset for Open-domain Question Answering under Counterfactual Presuppositions" [\[link\]](https://aclanthology.org/2023.emnlp-main.515/) won the <span style="color:red">**outstanding paper award**</span> at EMNLP 2023!
-* <img src="../images/new.png" width="25" align=center> \[2023.09\] Four papers are accepted at [EMNLP 2023](https://2023.emnlp.org/), on question answering, instruction tunning, math reasoning, and comparative reasoning. 
+* \[2023.09\] Four papers are accepted at [EMNLP 2023](https://2023.emnlp.org/), on question answering, instruction tunning, math reasoning, and comparative reasoning. 
 * \[2023.09\] One paper is accepted at [NeurIPS 2023](https://nips.cc/).
 * \[2023.05\] Three papers (two main and one findings) are accepted at [ACL 2023](https://2023.acl.org/).
 * \[2023.05\] One paper on open-domain QA is accepted at [TACL 2023](https://transacl.org/index.php/tacl).
