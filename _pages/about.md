@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Research Scientist in Tencent AI Seattle Lab. My primary research interest lies in natural language processing and machine learning. Specifically, I am working on using knowledge (i.e., text retrieval, knowledge graph and etc) to enhance factuality and reasoning capibility of (large) language models.
+I am a Senior Research Scientist in Tencent AI Seattle Lab. My primary research interest lies in natural language processing and machine learning. My current focus include several key areas: information retrieval, retrieval-augmented generation, language model agent systems, and multi-modal learning. This specialization reflects my commitment to advancing the capabilities of AI in understanding and interacting with the world.
 
-I earned my Ph.D. in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2023, advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). My research during Ph.D was generously supported by [Bloomberg Ph.D Fellowship](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/). Prior to my Ph.D., I received my Bachelor's degree in Computer Science and Technology from Sichuan University in 2019.
+
+I earned my Ph.D. in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2023, advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). My research during Ph.D was generously supported by [Bloomberg Ph.D Fellowship](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/). During my Ph.D, I mainly worked on using knowledge (i.e., text retrieval, knowledge graph and etc) to enhance factuality and reasoning capibility of (large) language models. Prior to my Ph.D., I received my Bachelor's degree in Computer Science and Technology from Sichuan University in 2019.
 
 <img src="../images/hiring.png" width="25" align=center> I am actively seeking highly motivated interns who share my research interests. Kindly reach out to me at wyu1@nd.edu with your resume!
 
