@@ -38,6 +38,14 @@ redirect_from:
   [CSUR 2022] ACM Computing Surveys (IF: 10.28) <br>
   \[[pdf](https://arxiv.org/abs/2010.04389)\] \[[reading list](https://github.com/wyu97/KENLG-Reading)\]
 
+**Conference Papers (2024)**
+
+* (1) Sub-sentence encoder: Contrastive learning of propositional semantic representations <br>
+  Sihao Chen, Hongming Zhang, Tong Chen, Ben Zhou, <u>Wenhao Yu</u>, Dian Yu, Baolin Peng, Hongwei Wang, Dan Roth, Dong Yu <br>
+  [NAACL 2024] 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics <br>
+  \[[pdf](https://arxiv.org/abs/2311.04335)\] 
+
+
 **Conference Papers (2023)**
 
 * (11) IfQA: A Dataset for Open-domain Question Answering under Counterfactual Presuppositions <br>
