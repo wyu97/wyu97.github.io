@@ -40,8 +40,18 @@ redirect_from:
 
 **Conference Papers (2024)**
 
+* (3) PLUG: Leveraging Pivot Language in Cross-Lingual Instruction Tuning <br>
+  Zhihan Zhang, Dong-Ho Lee, Yuwei Fang, **<u>Wenhao Yu</u>**, Mengzhao Jia, Meng Jiang, Francesco Barbieri <br>
+  [ACL 2024] 2024 Annual Conference of Association for Computational Linguistics <br>
+  \[[pdf](https://arxiv.org/abs/2311.08711)\] 
+
+* (2) WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models <br>
+  Hongliang He, Wenlin Yao, Kaixin Ma, **<u>Wenhao Yu</u>**, Yong Dai, Hongming Zhang, Zhenzhong Lan, Dong Yu <br>
+  [ACL 2024] 2024 Annual Conference of Association for Computational Linguistics <br>
+  \[[pdf](https://arxiv.org/abs/2401.13919)\] 
+
 * (1) Sub-sentence encoder: Contrastive learning of propositional semantic representations <br>
-  Sihao Chen, Hongming Zhang, Tong Chen, Ben Zhou, <u>Wenhao Yu</u>, Dian Yu, Baolin Peng, Hongwei Wang, Dan Roth, Dong Yu <br>
+  Sihao Chen, Hongming Zhang, Tong Chen, Ben Zhou, **<u>Wenhao Yu</u>**, Dian Yu, Baolin Peng, Hongwei Wang, Dan Roth, Dong Yu <br>
   [NAACL 2024] 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics <br>
   \[[pdf](https://arxiv.org/abs/2311.04335)\] 
 
