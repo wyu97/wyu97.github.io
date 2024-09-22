@@ -13,7 +13,7 @@ I am a Senior Research Scientist in Tencent AI Seattle Lab. My primary research 
 
 I earned my Ph.D. in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2023, advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). My research during Ph.D was generously supported by [Bloomberg Ph.D Fellowship](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/). During my Ph.D, I mainly worked on using knowledge (i.e., text retrieval, knowledge graph and etc) to enhance factuality and reasoning capibility of (large) language models. Prior to my Ph.D, I received my Bachelor's degree in Computer Science and Technology from Sichuan University in 2019.
 
-<img src="../images/hiring.png" width="25" align=center> I am actively seeking highly motivated interns who share my research interests. Kindly reach out to me at wyu1@nd.edu with your resume!
+<img src="../images/hiring.png" width="25" align=center> I am actively seeking highly motivated interns who share my research interests. Kindly reach out to me at wenhaoyu97@gmail.com / wenhaowyu@global.tencent.com with your resume!
 
 <img src="../images/twitter.png" width="25" align=center> Check my latest post on [Twitter](https://twitter.com/wyu_nd)!
 
@@ -21,13 +21,14 @@ I earned my Ph.D. in Computer Science and Engineering from the [University of No
 What's New!
 ======
 
+* \[2024.09\] Three paper are accepted at [EMNLP 2024](https://2024.emnlp.org/) main conference on RAG and relective training.
 * \[2024.05\] Two paper are accepted at [ACL 2024](https://2024.aclweb.org/) main conference on web agent and cross-lingual instruction tuning.
 * <img src="../images/new.png" width="25" align=center> \[2024.03\] We are organizing the [Third Workshop on Knowledge Augmented Methods for NLP (KnowledgeNLP)](https://knowledge-nlp.github.io/acl2024/) at ACL 2024 in Bangkok in August. We look forward to your contributions!
 * \[2024.03\] One paper is accepted at [NAACL 2024](https://2024.naacl.org/). Congratulations to [Sihao](https://www.seas.upenn.edu/~sihaoc/)!
-* \[2024.02\] I served as Area Chair for ACL 2024 and COLING 2024.
+* \[2024.02\] I served as Area Chair for ACL 2024, COLING 2024 and EMNLP 2024.
 * <img src="../images/trophy.png" width="25" align=center> \[2023.12\] Our paper "IfQA: A Dataset for Open-domain Question Answering under Counterfactual Presuppositions" [\[link\]](https://aclanthology.org/2023.emnlp-main.515/) won the <span style="color:red">**outstanding paper award**</span> at EMNLP 2023!
-* \[2023.09\] Four papers are accepted at [EMNLP 2023](https://2023.emnlp.org/), on question answering, instruction tunning, math reasoning, and comparative reasoning. 
-* \[2023.09\] One paper is accepted at [NeurIPS 2023](https://nips.cc/).
+<!-- * \[2023.09\] Four papers are accepted at [EMNLP 2023](https://2023.emnlp.org/), on question answering, instruction tunning, math reasoning, and comparative reasoning.  -->
+<!-- * \[2023.09\] One paper is accepted at [NeurIPS 2023](https://nips.cc/). -->
 <!-- * \[2023.05\] Three papers (two main and one findings) are accepted at [ACL 2023](https://2023.acl.org/). -->
 <!-- * \[2023.05\] One paper on open-domain QA is accepted at [TACL 2023](https://transacl.org/index.php/tacl). -->
 <!-- * \[2023.01\] Two papers are accepted at [ICLR 2023](https://iclr.cc/), on large language model for open-domain QA and multi-task pre-training. -->
