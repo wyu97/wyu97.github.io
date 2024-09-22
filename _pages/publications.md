@@ -41,17 +41,17 @@ redirect_from:
 **Conference Papers (2024)**
 
 * (6) Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models <br>
-  **<u>Wenhao Yu</u>**, Hongming Zhang, Xiaoman Pan, Kaixin Ma, Hongwei Wang, Dong Yu
+  **<u>Wenhao Yu</u>**, Hongming Zhang, Xiaoman Pan, Kaixin Ma, Hongwei Wang, Dong Yu <br>
   [EMNLP 2024] The 2024 Conference on Empirical Methods in Natural Language Processing <br>
   \[[pdf](https://arxiv.org/abs/2311.09210)\] 
 
 * (5) Learn Beyond The Answer: Training Language Models with Reflection for Mathematical Reasoning <br>
-  Zhihan Zhang, Zhenwen Liang, **<u>Wenhao Yu</u>**, Dian Yu, Mengzhao Jia, Dong Yu, Meng Jiang
+  Zhihan Zhang, Zhenwen Liang, **<u>Wenhao Yu</u>**, Dian Yu, Mengzhao Jia, Dong Yu, Meng Jiang <br>
   [EMNLP 2024] The 2024 Conference on Empirical Methods in Natural Language Processing <br>
   \[[pdf](https://arxiv.org/abs/2406.12050)\] 
 
 * (4) Dense X retrieval: What Retrieval Granularity Should We Use? <br>
-  Tong Chen, Hongwei Wang, Sihao Chen, **<u>Wenhao Yu</u>**, Kaixin Ma, Xinran Zhao, Dong Yu, Hongming Zhang
+  Tong Chen, Hongwei Wang, Sihao Chen, **<u>Wenhao Yu</u>**, Kaixin Ma, Xinran Zhao, Dong Yu, Hongming Zhang <br>
   [EMNLP 2024] The 2024 Conference on Empirical Methods in Natural Language Processing <br>
   \[[pdf](https://arxiv.org/abs/2312.06648)\] 
 
