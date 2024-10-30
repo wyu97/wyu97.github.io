@@ -21,9 +21,9 @@ Internship with Me
 
 I’ve been fortunate to mentor and work alongside many talented students:\
 \- Siru Ouyang (2024), UIUC, advised by Prof. Jiawei Han. Topic: LLM agent \[[RepoGraph](https://arxiv.org/abs/2410.14684)\].\
-\- Mengzhao Jia (2024), Notre Dame, advised by Prof. Meng Jiang. Topic: Multi-modal \[[Leopard](https://arxiv.org/abs/2410.01744)\].\
-\- Di Wu (2024), UCLA, advised by Prof. Kai-Wei Chiang. Topic: LLM agent / RAG \[[LongMemEval](https://arxiv.org/abs/2410.10813)\].\
-\- Tong Chen (2023), UW, advised by Prof. Luke Zettlemoyer. Topic: RAG \[[Dense X retrieval](https://arxiv.org/abs/2312.06648)\].\
+\- Mengzhao Jia (2024), UND, advised by Prof. Meng Jiang. Topic: Multi-modal \[[Leopard](https://arxiv.org/abs/2410.01744)\].\
+\- Di Wu (2024), UCLA, advised by Prof. Kai-Wei Chiang. Topic: RAG / agent \[[LongMemEval](https://arxiv.org/abs/2410.10813)\].\
+\- Tong Chen (2023), UW, advised by Prof. Luke Zettlemoyer. Topic: RAG \[[Dense X retrieval](https://arxiv.org/abs/2312.06648)\].
 
 
 What's New!
