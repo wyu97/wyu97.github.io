@@ -8,19 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Research Scientist in Tencent AI Seattle Lab. My primary research interest lies in natural language processing and machine learning. My current focus include several key areas: information retrieval, retrieval-augmented generation, language model agent systems, and multi-modal learning. This specialization reflects my commitment to advancing the capabilities of AI in understanding and interacting with the world.
+I am a Senior Research Scientist in [Tencent AI](https://www.tencent.com/en-us/index.html) Seattle Lab. My primary research interest lies in natural language processing and machine learning. My current focus include several key areas: information retrieval, retrieval-augmented generation, language model agent systems, and multi-modal learning. This specialization reflects my commitment to advancing the capabilities of AI in understanding and interacting with the world.
 
 
-I earned my Ph.D. in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2023, advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). My research during Ph.D was generously supported by [Bloomberg Ph.D Fellowship](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/). During my Ph.D, I mainly worked on using knowledge (i.e., text retrieval, knowledge graph and etc) to enhance factuality and reasoning capibility of (large) language models. Prior to my Ph.D, I received my Bachelor's degree in Computer Science and Technology from Sichuan University in 2019.
+I earned my Ph.D. in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2023, advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). My research during Ph.D was generously supported by [Bloomberg Ph.D Fellowship](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/). I also enjoyed some amazing internship experiences at Microsoft Research, AI2, and Bloomberg along the way.
+ <!-- During my Ph.D, I mainly worked on using knowledge (i.e., text retrieval, knowledge graph and etc) to enhance factuality and reasoning capibility of (large) language models. Prior to my Ph.D, I received my Bachelor's degree in Computer Science and Technology from Sichuan University in 2019. -->
+
+Internship with Me
+======
 
 <img src="../images/hiring.png" width="25" align=center> I am actively seeking highly motivated interns who share my research interests. Kindly reach out to me at wenhaoyu97@gmail.com / wenhaowyu@global.tencent.com with your resume!
 
-<img src="../images/twitter.png" width="25" align=center> Check my latest post on [Twitter](https://twitter.com/wyu_nd)!
+I’ve been fortunate to mentor and work alongside many talented students:
+
+* Siru Ouyang (2024 summer), UIUC, advised by Prof. Jiawei Han. Topic: LLM agent \[[RepoGraph](https://arxiv.org/abs/2410.14684)\].
+* Mengzhao Jia (2024 summer), Notre Dame, advised by Prof. Meng Jiang. Topic: Multi-modal \[[Leopard](https://arxiv.org/abs/2410.01744)\].
+* Di Wu (2024 summer), UCLA, advised by Prof. Kai-Wei Chiang. Topic: LLM agent / RAG \[[LongMemEval](https://arxiv.org/abs/2410.10813)\].
+* Tong Chen (2023 summer), UW, advised by Prof. Luke Zettlemoyer. Topic: RAG \[[Dense X retrieval](https://arxiv.org/abs/2312.06648)\].
 
 
 What's New!
 ======
 
+<img src="../images/twitter.png" width="25" align=center> Check my latest post on [Twitter](https://twitter.com/wyu_nd)!
 * \[2024.09\] Three paper are accepted at [EMNLP 2024](https://2024.emnlp.org/) main conference on RAG and relective training.
 * \[2024.05\] Two paper are accepted at [ACL 2024](https://2024.aclweb.org/) main conference on web agent and cross-lingual instruction tuning.
 * <img src="../images/new.png" width="25" align=center> \[2024.03\] We are organizing the [Third Workshop on Knowledge Augmented Methods for NLP (KnowledgeNLP)](https://knowledge-nlp.github.io/acl2024/) at ACL 2024 in Bangkok in August. We look forward to your contributions!
