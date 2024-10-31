@@ -17,7 +17,7 @@ I earned my Ph.D. in Computer Science and Engineering from the [University of No
 Internship with Me
 ======
 
-<img src="../images/hiring.png" width="25" align=center> I am actively seeking highly motivated interns who share my research interests. Kindly reach out to me at *wenhaoyu97@gmail.com* / *wenhaowyu@global.tencent.com* with your resume!
+<img src="../images/hirings.png" width="25" align=center> I am actively seeking highly motivated interns who share my research interests. Kindly reach out to me at *wenhaoyu97@gmail.com* / *wenhaowyu@global.tencent.com* with your resume!
 
 I’ve been fortunate to mentor and work alongside many talented students:\
 \- [Siru Ouyang](https://ozyyshr.github.io/) (2024), UIUC, advised by Prof. Jiawei Han. Topic: LLM agent \[[RepoGraph](https://arxiv.org/abs/2410.14684)\].\
