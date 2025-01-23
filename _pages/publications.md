@@ -38,6 +38,29 @@ redirect_from:
   [CSUR 2022] ACM Computing Surveys (IF: 10.28) <br>
   \[[pdf](https://arxiv.org/abs/2010.04389)\] \[[reading list](https://github.com/wyu97/KENLG-Reading)\]
 
+**Conference Papers (2025)**
+
+* (4) RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph <br>
+  Siru Ouyang, **<u>Wenhao Yu</u>**, Kaixin Ma, Zilin Xiao, Zhihan Zhang, Mengzhao Jia, Jiawei Han, Hongming Zhang, Dong Yu <br>
+  [ICLR 2025] International Conference on Learning Representations<br>
+  \[[pdf](https://arxiv.org/abs/2410.14684)\] 
+
+* (3) LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory <br>
+  Di Wu, Hongwei Wang, **<u>Wenhao Yu</u>**, Yuwei Zhang, Kai-Wei Chang, Dong Yu <br>
+  [ICLR 2025] International Conference on Learning Representations<br>
+  \[[pdf](https://arxiv.org/abs/2410.10813)\] 
+
+* (2) DSBench: How Far Are Data Science Agents to Becoming Data Science Experts? <br>
+  Liqiang Jing, Zhehui Huang, Xiaoyang Wang, Wenlin Yao, **<u>Wenhao Yu</u>**, Kaixin Ma, Hongming Zhang, Xinya Du, Dong Yu <br>
+  [ICLR 2025] International Conference on Learning Representations<br>
+  \[[pdf](https://arxiv.org/abs/2409.07703)\] 
+
+* (1) BigCodebench: Benchmarking code generation with diverse function calls and complex instructions <br>
+  Terry Yue Zhuo, Minh Chien Vu, Jenny Chim, Han Hu, **<u>Wenhao Yu</u>** and 30 additional authors <br>
+  [ICLR 2025] International Conference on Learning Representations<br>
+  \[[pdf](https://arxiv.org/abs/2406.15877)\] 
+
+
 **Conference Papers (2024)**
 
 * (6) Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models <br>

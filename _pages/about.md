@@ -29,6 +29,7 @@ I’ve been fortunate to mentor and work alongside many talented students:\
 What's New!
 ======
 \- <img src="../images/x.png" width="25" align=center> Check my latest post on [X (Twitter)](https://x.com/wyu_nd)!\
+\- \[2025.01\] Four paper are accepted at [ICLR 2025](https://iclr.cc/) on LLM agents and code generation. \
 \- <img src="../images/new.png" width="25" align=center> \[2024.10\] Introducing [Leopard](https://arxiv.org/abs/2410.01744), a 7B multimodal LLM capable of processing multiple visual documents, charts, and snapshots as input, outperforming SoTA by a large margin.\
 \- \[2024.09\] Three paper are accepted at [EMNLP 2024](https://2024.emnlp.org/) main conference on information retrieval, retrieval-augmented generation and relective training.\
 \-  \[2024.05\] Two paper are accepted at [ACL 2024](https://2024.aclweb.org/) main conference on web agent and cross-lingual instruction tuning.\
