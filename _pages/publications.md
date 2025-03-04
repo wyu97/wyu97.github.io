@@ -40,25 +40,30 @@ redirect_from:
 
 **Conference Papers (2025)**
 
+* (5) Cognitive kernel: An open-source agent system towards generalist autopilots <br>
+  Hongming Zhang, Xiaoman Pan, Hongwei Wang, Kaixin Ma, **Wenhao Yu**, Dong Yu <br>
+  [NAACL 2025] Annual Conference of the North American Chapter of the Association for Computational Linguistics<br>
+  \[[pdf](https://arxiv.org/abs/2409.10277)\] \[[code](https://github.com/Tencent/CogKernel)\]
+
 * (4) RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph <br>
   Siru Ouyang, **<u>Wenhao Yu</u>**, Kaixin Ma, Zilin Xiao, Zhihan Zhang, Mengzhao Jia, Jiawei Han, Hongming Zhang, Dong Yu <br>
   [ICLR 2025] International Conference on Learning Representations<br>
-  \[[pdf](https://arxiv.org/abs/2410.14684)\] 
+  \[[pdf](https://arxiv.org/abs/2410.14684)\] \[[code](https://github.com/ozyyshr/RepoGraph)\]
 
 * (3) LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory <br>
   Di Wu, Hongwei Wang, **<u>Wenhao Yu</u>**, Yuwei Zhang, Kai-Wei Chang, Dong Yu <br>
   [ICLR 2025] International Conference on Learning Representations<br>
-  \[[pdf](https://arxiv.org/abs/2410.10813)\] 
+  \[[pdf](https://arxiv.org/abs/2410.10813)\] \[[code](https://github.com/xiaowu0162/LongMemEval)\]
 
 * (2) DSBench: How Far Are Data Science Agents to Becoming Data Science Experts? <br>
   Liqiang Jing, Zhehui Huang, Xiaoyang Wang, Wenlin Yao, **<u>Wenhao Yu</u>**, Kaixin Ma, Hongming Zhang, Xinya Du, Dong Yu <br>
   [ICLR 2025] International Conference on Learning Representations<br>
-  \[[pdf](https://arxiv.org/abs/2409.07703)\] 
+  \[[pdf](https://arxiv.org/abs/2409.07703)\] \[[code](https://github.com/LiqiangJing/DSBench)\]
 
 * (1) BigCodebench: Benchmarking code generation with diverse function calls and complex instructions <br>
   Terry Yue Zhuo, Minh Chien Vu, Jenny Chim, Han Hu, **<u>Wenhao Yu</u>** and 30 additional authors <br>
   [ICLR 2025] International Conference on Learning Representations<br>
-  \[[pdf](https://arxiv.org/abs/2406.15877)\] 
+  \[[pdf](https://arxiv.org/abs/2406.15877)\] \[[code](https://github.com/bigcode-project/bigcodebench)\]
 
 
 **Conference Papers (2024)**
@@ -71,7 +76,7 @@ redirect_from:
 * (5) Learn Beyond The Answer: Training Language Models with Reflection for Mathematical Reasoning <br>
   Zhihan Zhang, Zhenwen Liang, **<u>Wenhao Yu</u>**, Dian Yu, Mengzhao Jia, Dong Yu, Meng Jiang <br>
   [EMNLP 2024] The 2024 Conference on Empirical Methods in Natural Language Processing <br>
-  \[[pdf](https://arxiv.org/abs/2406.12050)\] 
+  \[[pdf](https://arxiv.org/abs/2406.12050)\] \[[code](https://github.com/ytyz1307zzh/RefAug)\]
 
 * (4) Dense X retrieval: What Retrieval Granularity Should We Use? <br>
   Tong Chen, Hongwei Wang, Sihao Chen, **<u>Wenhao Yu</u>**, Kaixin Ma, Xinran Zhao, Dong Yu, Hongming Zhang <br>
@@ -81,17 +86,17 @@ redirect_from:
 * (3) PLUG: Leveraging Pivot Language in Cross-Lingual Instruction Tuning <br>
   Zhihan Zhang, Dong-Ho Lee, Yuwei Fang, **<u>Wenhao Yu</u>**, Mengzhao Jia, Meng Jiang, Francesco Barbieri <br>
   [ACL 2024] 2024 Annual Conference of Association for Computational Linguistics <br>
-  \[[pdf](https://arxiv.org/abs/2311.08711)\] 
+  \[[pdf](https://arxiv.org/abs/2311.08711)\] \[[code](https://github.com/ytyz1307zzh/PLUG)\]
 
 * (2) WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models <br>
   Hongliang He, Wenlin Yao, Kaixin Ma, **<u>Wenhao Yu</u>**, Yong Dai, Hongming Zhang, Zhenzhong Lan, Dong Yu <br>
   [ACL 2024] 2024 Annual Conference of Association for Computational Linguistics <br>
-  \[[pdf](https://arxiv.org/abs/2401.13919)\] 
+  \[[pdf](https://arxiv.org/abs/2401.13919)\] \[[code](https://github.com/MinorJerry/WebVoyager)\]
 
 * (1) Sub-sentence encoder: Contrastive learning of propositional semantic representations <br>
   Sihao Chen, Hongming Zhang, Tong Chen, Ben Zhou, **<u>Wenhao Yu</u>**, Dian Yu, Baolin Peng, Hongwei Wang, Dan Roth, Dong Yu <br>
   [NAACL 2024] 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics <br>
-  \[[pdf](https://arxiv.org/abs/2311.04335)\] 
+  \[[pdf](https://arxiv.org/abs/2311.04335)\] \[[code](https://github.com/schen149/sub-sentence-encoder)\]
 
 
 **Conference Papers (2023)**
