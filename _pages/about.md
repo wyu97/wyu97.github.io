@@ -28,6 +28,7 @@ I’ve been fortunate to mentor and work alongside many talented students:\
 
 What's New!
 ======
+\- \[2025.01\] One paper is accepted at [ACL 2025](https://2025.aclweb.org/) on self-evolving web agent and one paper is accepted at [TMLR](https://jmlr.org/tmlr/) on multi-modal instruction tuning. \
 \- <img src="../images/x.png" width="25" align=center> Check my latest post on [X (Twitter)](https://x.com/wyu_nd)!\
 \- \[2025.01\] Four paper are accepted at [ICLR 2025](https://iclr.cc/) on LLM agents and code generation. \
 \- <img src="../images/new.png" width="25" align=center> \[2024.10\] Introducing [Leopard](https://arxiv.org/abs/2410.01744), a 7B multimodal LLM capable of processing multiple visual documents, charts, and snapshots as input, outperforming SoTA by a large margin.\

@@ -9,36 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-**Conference Tutorials**
+**2025**
 
-* (2) Knowledge-Augmented Methods for Natural Language Processing <br>
-  C. Zhu, Y. Xu, X. Ren, Y. Lin, M. Jiang, **<u>W. Yu</u>** <br>
-  [ACL 2022] Annual Meeting of the Association for Computational Linguistics <br>
-  \[[description](https://aclanthology.org/2022.acl-tutorials.3/)\] \[[website](https://github.com/zcgzcgzcg1/ACL2022_KnowledgeNLP_Tutorial)\]
+* (5) Leopard: A Vision Language Model For Text-Rich Multi-Image Tasks<br>
+  Mengzhao Jia, **<u>Wenhao Yu</u>**, Kaixin Ma, Tianqing Fang, Zhihan Zhang, Siru Ouyang, Hongming Zhang, Meng Jiang, Dong Yu <br>
+  [TMLR 2025] Transactions on Machine Learning Research<br>
+  \[[pdf](https://arxiv.org/abs/2410.01744)\] \[[code](https://github.com/tencent-ailab/Leopard)\]
 
-* (1) Knowledge-Enriched Natural Language Generation <br>
-  **<u>W. Yu</u>**, M. Jiang, Z. Hu, Q. Wang, H. Ji, N. Rajani <br>
-  [EMNLP 2021] Conference on Empirical Methods on Natural Language Processing <br>
-  \[[description](https://aclanthology.org/2021.emnlp-tutorials.3/)\] \[[website](https://kenlg-tutorial.github.io/)\] 
+* (5) OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization <br>
+  Hongliang He, Wenlin Yao, Kaixin Ma, **<u>Wenhao Yu</u>**, Hongming Zhang, Tianqing Fang, Zhenzhong Lan, Dong Yu <br>
+  [ACL 2025] Annual Meeting of the Association for Computational Linguistics<br>
+  \[[pdf](https://arxiv.org/abs/2410.19609)\] \[[code](https://github.com/MinorJerry/OpenWebVoyager)\]
 
-**Journal Papers**
-
-* (3) Exploring Contrast Consistency of Open-Domain Question Answering Systems on Minimally Edited Questions<br>
-  Z. Zhang, **<u>W. Yu</u>**, Z. Ning, M. Ju, M. Jiang <br>
-  [TACL 2023] Transactions of the Association for Computational Linguistics (IF: 9.19) <br>
-  <!-- \[[pdf](/papers/TNNLS_2022.pdf)\] \[[doi](https://ieeexplore.ieee.org/document/9758834)\]  -->
-
-* (2) Deep Multimodal Complementarity Learning<br>
-  D. Wang, T. Zhao, **<u>W. Yu</u>**, N. Chawla, M. Jiang <br>
-  [TNNLS 2022] IEEE Transactions on Neural Networks and Learning Systems  (IF: 10.45) <br>
-  \[[pdf](/papers/TNNLS_2022.pdf)\] \[[doi](https://ieeexplore.ieee.org/document/9758834)\] 
-
-* (1) A Survey of Knowledge-Enhanced Text Generation <br>
-  **<u>W. Yu</u>**, C. Zhu, Z. Li, Z. Hu, Q. Wang, H. Ji, M. Jiang <br>
-  [CSUR 2022] ACM Computing Surveys (IF: 10.28) <br>
-  \[[pdf](https://arxiv.org/abs/2010.04389)\] \[[reading list](https://github.com/wyu97/KENLG-Reading)\]
-
-**Conference Papers (2025)**
+* (6) Self-regularization with latent space explanations for controllable llm-based classification <br>
+  Xuansheng Wu, **<u>Wenhao Yu</u>**, Xiaoming Zhai, Ninghao Liu <br>
+  [SIGKDD 2025] ACM Conference on Knowledge Discovery & Data Mining<br>
+  \[[pdf](https://arxiv.org/abs/2502.14133)\] 
 
 * (5) Cognitive kernel: An open-source agent system towards generalist autopilots <br>
   Hongming Zhang, Xiaoman Pan, Hongwei Wang, Kaixin Ma, **Wenhao Yu**, Dong Yu <br>
@@ -66,7 +52,7 @@ redirect_from:
   \[[pdf](https://arxiv.org/abs/2406.15877)\] \[[code](https://github.com/bigcode-project/bigcodebench)\]
 
 
-**Conference Papers (2024)**
+**2024**
 
 * (6) Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models <br>
   **<u>Wenhao Yu</u>**, Hongming Zhang, Xiaoman Pan, Kaixin Ma, Hongwei Wang, Dong Yu <br>
@@ -99,7 +85,11 @@ redirect_from:
   \[[pdf](https://arxiv.org/abs/2311.04335)\] \[[code](https://github.com/schen149/sub-sentence-encoder)\]
 
 
-**Conference Papers (2023)**
+**2023**
+
+* (12) Exploring Contrast Consistency of Open-Domain Question Answering Systems on Minimally Edited Questions<br>
+  Z. Zhang, **<u>W. Yu</u>**, Z. Ning, M. Ju, M. Jiang <br>
+  [TACL 2023] Transactions of the Association for Computational Linguistics (IF: 9.19) <br>
 
 * (11) IfQA: A Dataset for Open-domain Question Answering under Counterfactual Presuppositions <br>
   **<u>W. Yu</u>**, M. Jiang, P. Clark, A. Sabharwal <br>
@@ -156,7 +146,13 @@ redirect_from:
   [ICLR 2023] International Conference on Learning Representations <br>
   \[[pdf](https://arxiv.org/abs/2209.10063)\] \[[code](https://github.com/wyu97/GenRead)\] \[[openreview](https://openreview.net/forum?id=fB0hRu9GZUS)\] 
   
-**Conference Papers (2022)**
+**2022**
+
+
+* (10) A Survey of Knowledge-Enhanced Text Generation <br>
+  **<u>W. Yu</u>**, C. Zhu, Z. Li, Z. Hu, Q. Wang, H. Ji, M. Jiang <br>
+  [CSUR 2022] ACM Computing Surveys (IF: 10.28) <br>
+  \[[pdf](https://arxiv.org/abs/2010.04389)\] \[[reading list](https://github.com/wyu97/KENLG-Reading)\]
 
 * (9) A Unified Encoder-Decoder Framework with Entity Memory<br>
   Z. Zhang, **<u>W. Yu</u>**, C. Zhu, and M. Jiang <br>
@@ -208,7 +204,7 @@ redirect_from:
   [ACL 2022] Findings of Association for Computational Linguistics <br>
   \[[pdf](https://arxiv.org/abs/2203.07285)\] \[[code](https://github.com/DM2-ND/MoKGE)\]
 
-**Conference Papers (2021)**
+**2021**
 
 * (4) Sentence-Permuted Paragraph Generation <br>
   **<u>W. Yu</u>**, C. Zhu, T. Zhao, Z. Guo, M. Jiang <br>
@@ -230,7 +226,7 @@ redirect_from:
   [NAACL 2021] Annual Conference of the North American Chapter of the Association for Computational Linguistics <br>
   \[[pdf](https://arxiv.org/abs/2010.09780)\] \[[code](https://github.com/wyu97/TransTD)\] \[[poster](/poster/NAACL-TransTD-poster.pdf)\]
 
-**Conference Papers (2020)**
+**2020**
 
 * (3) Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER <br>
   Q. Zeng, **<u>W. Yu</u>**, M. Yu, T. Jiang, T. Weninger, M. Jiang <br>
