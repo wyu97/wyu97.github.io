@@ -11,20 +11,20 @@ redirect_from:
 
 **2025**
 
-* (5) Leopard: A Vision Language Model For Text-Rich Multi-Image Tasks<br>
+* (8) WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model<br>
+  Tianqing Fang, Hongming Zhang, Zhisong Zhang, Kaixin Ma, **Wenhao Yu**, Haitao Mi, Dong Yu <br>
+  [EMNLP 2025] The 2025 Conference on Empirical Methods in Natural Language Processing <br>
+  \[[pdf](http://arxiv.org/abs/2504.21024)\] 
+
+* (7) Leopard: A Vision Language Model For Text-Rich Multi-Image Tasks<br>
   Mengzhao Jia, **<u>Wenhao Yu</u>**, Kaixin Ma, Tianqing Fang, Zhihan Zhang, Siru Ouyang, Hongming Zhang, Meng Jiang, Dong Yu <br>
   [TMLR 2025] Transactions on Machine Learning Research<br>
   \[[pdf](https://arxiv.org/abs/2410.01744)\] \[[code](https://github.com/tencent-ailab/Leopard)\]
 
-* (5) OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization <br>
+* (6) OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization <br>
   Hongliang He, Wenlin Yao, Kaixin Ma, **<u>Wenhao Yu</u>**, Hongming Zhang, Tianqing Fang, Zhenzhong Lan, Dong Yu <br>
   [ACL 2025] Annual Meeting of the Association for Computational Linguistics<br>
   \[[pdf](https://arxiv.org/abs/2410.19609)\] \[[code](https://github.com/MinorJerry/OpenWebVoyager)\]
-
-* (6) Self-regularization with latent space explanations for controllable llm-based classification <br>
-  Xuansheng Wu, **<u>Wenhao Yu</u>**, Xiaoming Zhai, Ninghao Liu <br>
-  [SIGKDD 2025] ACM Conference on Knowledge Discovery & Data Mining<br>
-  \[[pdf](https://arxiv.org/abs/2502.14133)\] 
 
 * (5) Cognitive kernel: An open-source agent system towards generalist autopilots <br>
   Hongming Zhang, Xiaoman Pan, Hongwei Wang, Kaixin Ma, **Wenhao Yu**, Dong Yu <br>
