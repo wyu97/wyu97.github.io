@@ -11,25 +11,43 @@ redirect_from:
 
 **2025**
 
-* (8) WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model<br>
+* (4) R-Zero: Self-Evolving Reasoning LLM from Zero Data <br>
+  Chengsong Huang, **<u>Wenhao Yu</u>**, Xiaoyang Wang, Hongming Zhang, Zongxia Li, Ruosen Li, Jiaxin Huang, Haitao Mi, Dong Yu <br>
+  [ICLR 2026] International Conference on Learning Representations<br>
+  \[[pdf](https://arxiv.org/abs/2508.05004)\] \[[code](https://github.com/Chengsong-Huang/R-Zero)\]
+
+* (3) Parallel-r1: Towards parallel thinking via reinforcement learning <br>
+  Tong Zheng, Hongming Zhang, **<u>Wenhao Yu</u>**, Xiaoyang Wang, Runpeng Dai, Rui Liu, Huiwen Bao, Chengsong Huang, Heng Huang, Dong Yu
+  [ICLR 2026] International Conference on Learning Representations<br>
+  \[[pdf](https://arxiv.org/abs/2509.07980)\] \[[code](https://github.com/zhengkid/Parallel-R1)\]
+
+* (2) Self-rewarding vision-language model via reasoning decomposition <br>
+  Zongxia Li, **<u>Wenhao Yu</u>**, Chengsong Huang, Rui Liu, Zhenwen Liang, Fuxiao Liu, Jingxi Che, Dian Yu, Jordan Boyd-Graber, Haitao Mi, Dong Yu <br>
+  [ICLR 2026] International Conference on Learning Representations<br>
+  \[[pdf](https://arxiv.org/abs/2508.19652)\] \[[code](https://github.com/zli12321/Vision-SR1)\]
+
+* (1) Don't Throw Away Your Pretrained Model: Collaborative Inference with Aligned Models <br>
+  Shangbin Feng, **<u>Wenhao Yu</u>**, Yike Wang, Hongming Zhang, Yulia Tsvetkov, Dong Yu <br>
+  [ICLR 2026] International Conference on Learning Representations<br>
+  \[[pdf](https://arxiv.org/abs/2510.09913)\] \[[code](https://github.com/BunsenFeng/switch_generation)\]
+
+
+**2025**
+
+* (7) MMLongBench: Benchmarking Long-Context Vision-Language Models Effectively and Thoroughly<br>
+  TZhaowei Wang, **Wenhao Yu**, Xiyu Ren, Jipeng Zhang, Yu Zhao, Rohit Saxena, Liang Cheng, Ginny Wong, Simon See, Pasquale Minervini, Yangqiu Song, Mark Steedman <br>
+  [NeurIPS 2025] Conference on Neural Information Processing Systems<br>
+  \[[pdf](https://arxiv.org/abs/2505.10610)\] \[[code](https://github.com/EdinburghNLP/MMLongBench)\] 
+
+* (6) WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model<br>
   Tianqing Fang, Hongming Zhang, Zhisong Zhang, Kaixin Ma, **Wenhao Yu**, Haitao Mi, Dong Yu <br>
   [EMNLP 2025] The 2025 Conference on Empirical Methods in Natural Language Processing <br>
   \[[pdf](http://arxiv.org/abs/2504.21024)\] 
 
-* (7) Leopard: A Vision Language Model For Text-Rich Multi-Image Tasks<br>
-  Mengzhao Jia, **<u>Wenhao Yu</u>**, Kaixin Ma, Tianqing Fang, Zhihan Zhang, Siru Ouyang, Hongming Zhang, Meng Jiang, Dong Yu <br>
-  [TMLR 2025] Transactions on Machine Learning Research<br>
-  \[[pdf](https://arxiv.org/abs/2410.01744)\] \[[code](https://github.com/tencent-ailab/Leopard)\]
-
-* (6) OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization <br>
+* (5) OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization <br>
   Hongliang He, Wenlin Yao, Kaixin Ma, **<u>Wenhao Yu</u>**, Hongming Zhang, Tianqing Fang, Zhenzhong Lan, Dong Yu <br>
   [ACL 2025] Annual Meeting of the Association for Computational Linguistics<br>
   \[[pdf](https://arxiv.org/abs/2410.19609)\] \[[code](https://github.com/MinorJerry/OpenWebVoyager)\]
-
-* (5) Cognitive kernel: An open-source agent system towards generalist autopilots <br>
-  Hongming Zhang, Xiaoman Pan, Hongwei Wang, Kaixin Ma, **Wenhao Yu**, Dong Yu <br>
-  [NAACL 2025] Annual Conference of the North American Chapter of the Association for Computational Linguistics<br>
-  \[[pdf](https://arxiv.org/abs/2409.10277)\] \[[code](https://github.com/Tencent/CogKernel)\]
 
 * (4) RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph <br>
   Siru Ouyang, **<u>Wenhao Yu</u>**, Kaixin Ma, Zilin Xiao, Zhihan Zhang, Mengzhao Jia, Jiawei Han, Hongming Zhang, Dong Yu <br>

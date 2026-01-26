@@ -8,37 +8,47 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Research Scientist in [Tencent AI](https://www.tencent.com/en-us/index.html), Seattle Lab. My primary research interest lies in natural language processing and machine learning. My current focus include several key areas: information retrieval, retrieval-augmented generation, large language model agent systems, and multi-modal learning. This specialization reflects my commitment to advancing artifical intelligence capabilities in understanding, reasoning, and interacting with the world.
+I am a Senior Researcher in [Tencent AI](https://www.tencent.com/en-us/index.html) (Seattle). My primary research interest lies in natural language processing and machine learning. My current focus is building self-improving LLMs that can continuously learn from interaction, feedback, and experience. To support this goal, I have extensively studied and applied reinforcement learning (RL) for post-training, reasoning, and agentic behaviors in large-scale models.
 
 
 I earned my Ph.D. in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2023, advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). My research during Ph.D was generously supported by [Bloomberg Ph.D Fellowship](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/). I also enjoyed some amazing internship experiences at Microsoft Research, Allen Institute for Artificial Intelligence (AI2), and Bloomberg along the way.
  <!-- During my Ph.D, I mainly worked on using knowledge (i.e., text retrieval, knowledge graph and etc) to enhance factuality and reasoning capibility of (large) language models. Prior to my Ph.D, I received my Bachelor's degree in Computer Science and Technology from Sichuan University in 2019. -->
 
-Internship with Me
-======
-
-<img src="../images/hirings.png" width="25" align=center> I am actively seeking highly motivated interns who share my research interests. Kindly reach out to me at *wenhaoyu97@gmail.com* / *wenhaowyu@global.tencent.com* with your resume!
-
-I’ve been fortunate to mentor and work alongside many talented students:\
-\- [Siru Ouyang](https://ozyyshr.github.io/) (2024), UIUC, advised by Prof. Jiawei Han. Topic: LLM agent \[[RepoGraph](https://arxiv.org/abs/2410.14684)\].\
-\- [Mengzhao Jia](https://mengzhaojia.notion.site/Mengzhao-JIA-664cb411f0d341f992ee2a40dc4e00af) (2024), UND, advised by Prof. Meng Jiang. Topic: Multi-modal \[[Leopard](https://arxiv.org/abs/2410.01744)\].\
-\- [Di Wu](https://xiaowu0162.github.io/) (2024), UCLA, advised by Prof. Kai-Wei Chang. Topic: RAG / agent \[[LongMemEval](https://arxiv.org/abs/2410.10813)\].\
-\- [Tong Chen](https://scholar.google.com/citations?user=fOcXofAAAAAJ&hl=en) (2023), UW at Seattle, advised by Prof. Luke Zettlemoyer and Prof. Hannaneh Hajishirzi. Topic: RAG \[[Dense X Retrieval](https://arxiv.org/abs/2312.06648)\].
-
 
 What's New!
 ======
-\- \[2025.08\] Two papers are accepted at [EMNLP 2025](https://2025.emnlp.org/) on self-evolving web agent and RAG for GUI agent. \
-\- \[2025.03\] One paper is accepted at [ACL 2025](https://2025.aclweb.org/) on self-evolving web agent and one paper is accepted at [TMLR](https://jmlr.org/tmlr/) on multi-modal instruction tuning. \
+
 \- <img src="../images/x.png" width="25" align=center> Check my latest post on [X (Twitter)](https://x.com/wyu_nd)!\
-\- \[2025.01\] Four paper are accepted at [ICLR 2025](https://iclr.cc/) on LLM agents and code generation. \
-\- <img src="../images/new.png" width="25" align=center> \[2024.10\] Introducing [Leopard](https://arxiv.org/abs/2410.01744), a 7B multimodal LLM capable of processing multiple visual documents, charts, and snapshots as input, outperforming SoTA by a large margin.\
+\- \[2025.08\] Four papers have been accepted at [ICLR 2026](https://2025.emnlp.org/), covering topics of self-improving LLMs and parallel reasoning. \
+\- \[2025.08\] One paper has been accepted at [EMNLP 2025](https://2025.emnlp.org/) on self-evolving agent. \
+<!-- \- \[2025.08\] One paper is accepted at [EMNLP 2025](https://2025.emnlp.org/) on self-evolving agent. \ -->
+<!-- \- \[2025.03\] One paper is accepted at [ACL 2025](https://2025.aclweb.org/) on self-evolving web agent. \ -->
+<!-- \- \[2025.01\] Four paper are accepted at [ICLR 2025](https://iclr.cc/) on LLM agents and code generation. \ -->
+<!-- \- <img src="../images/new.png" width="25" align=center> \[2024.10\] Introducing [Leopard](https://arxiv.org/abs/2410.01744), a 7B multimodal LLM capable of processing multiple visual documents, charts, and snapshots as input, outperforming SoTA by a large margin.\
 \- \[2024.09\] Three paper are accepted at [EMNLP 2024](https://2024.emnlp.org/) main conference on information retrieval, retrieval-augmented generation and relective training.\
 \-  \[2024.05\] Two paper are accepted at [ACL 2024](https://2024.aclweb.org/) main conference on web agent and cross-lingual instruction tuning.\
 \-  \[2024.03\] We are organizing the [Third Workshop on Knowledge Augmented Methods for NLP (KnowledgeNLP)](https://knowledge-nlp.github.io/acl2024/) at ACL 2024 in Bangkok in August.\
 \-  \[2024.03\] One paper is accepted at [NAACL 2024](https://2024.naacl.org/). Congratulations to [Sihao](https://www.seas.upenn.edu/~sihaoc/)!\
 \-  \[2024.02\] I served as Area Chair for ACL 2024, COLING 2024 and EMNLP 2024.\
 \-  <img src="../images/trophy.png" width="25" align=center> \[2023.12\] Our paper "IfQA: A Dataset for Open-domain Question Answering under Counterfactual Presuppositions" [\[link\]](https://aclanthology.org/2023.emnlp-main.515/) won the <span style="color:red">**outstanding paper award**</span> at EMNLP 2023!
+ -->
+
+Internship with Me
+======
+
+<img src="../images/hirings.png" width="25" align=center> I am actively seeking highly motivated interns who share my research interests. Kindly reach out to me at *wenhaoyu97@gmail.com* / *wenhaowyu@global.tencent.com* with your resume!
+
+
+I’ve been fortunate to mentor and work alongside many talented students:\
+\- [Chengsong Huang](https://chengsong-huang.github.io/) (2024), WUSTL, advised by Prof. Jiaxin Huang. Topic: Self-improving LLM \[[R-Zero](https://arxiv.org/abs/2508.05004)\].\
+\- [Shangbin Feng](https://bunsenfeng.github.io/) (2024), UW at Seattle, advised by Prof. Yulia Tsvetkov. Topic: Multi-Agent \[[SwitcherLM](https://arxiv.org/abs/2510.09913)\].\
+\- [Zongxia Li](https://zli12321.github.io/) (2025), UMD, advised by Prof. Jordan Boyd-Graber. Topic: Self-improving LLM \[[Vision-SR1](https://arxiv.org/abs/2508.19652)\].\
+\- [Siru Ouyang](https://ozyyshr.github.io/) (2024), UIUC, advised by Prof. Jiawei Han. Topic: LLM agent \[[RepoGraph](https://arxiv.org/abs/2410.14684)\].\
+\- [Mengzhao Jia](https://mengzhaojia.notion.site/Mengzhao-JIA-664cb411f0d341f992ee2a40dc4e00af) (2024), UND, advised by Prof. Meng Jiang. Topic: Multi-modal \[[Leopard](https://arxiv.org/abs/2410.01744)\].\
+\- [Tong Chen](https://scholar.google.com/citations?user=fOcXofAAAAAJ&hl=en) (2023), UW at Seattle, advised by Prof. Luke Zettlemoyer and Prof. Hannaneh Hajishirzi. Topic: RAG \[[Dense X Retrieval](https://arxiv.org/abs/2312.06648)\].
+
+
+
 <!-- * \[2023.09\] Four papers are accepted at [EMNLP 2023](https://2023.emnlp.org/), on question answering, instruction tunning, math reasoning, and comparative reasoning.  -->
 <!-- * \[2023.09\] One paper is accepted at [NeurIPS 2023](https://nips.cc/). -->
 <!-- * \[2023.05\] Three papers (two main and one findings) are accepted at [ACL 2023](https://2023.acl.org/). -->
