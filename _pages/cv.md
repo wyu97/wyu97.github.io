@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-Please kindly find my [Curriculum Vitae](/files/Wenhao_CV.pdf).
 
 Education History
 ======

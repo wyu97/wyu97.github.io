@@ -19,7 +19,7 @@ What's New!
 ======
 
 \- <img src="../images/x.png" width="25" align=center> Check my latest post on [X (Twitter)](https://x.com/wyu_nd)!\
-\- \[2025.08\] Four papers have been accepted at [ICLR 2026](https://2025.emnlp.org/), covering topics of self-improving LLMs and parallel reasoning. \
+\- \[2026.01\] Four papers have been accepted at [ICLR 2026](https://2025.emnlp.org/), covering topics of self-improving LLMs and parallel reasoning. \
 \- \[2025.08\] One paper has been accepted at [EMNLP 2025](https://2025.emnlp.org/) on self-evolving agent. \
 <!-- \- \[2025.08\] One paper is accepted at [EMNLP 2025](https://2025.emnlp.org/) on self-evolving agent. \ -->
 <!-- \- \[2025.03\] One paper is accepted at [ACL 2025](https://2025.aclweb.org/) on self-evolving web agent. \ -->
