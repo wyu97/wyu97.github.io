@@ -40,8 +40,8 @@ Internship with Me
 
 
 I’ve been fortunate to mentor and work alongside many talented students:\
-\- [Chengsong Huang](https://chengsong-huang.github.io/) (2024), WUSTL, advised by Prof. Jiaxin Huang. Topic: Self-improving LLM \[[R-Zero](https://arxiv.org/abs/2508.05004)\].\
-\- [Shangbin Feng](https://bunsenfeng.github.io/) (2024), UW at Seattle, advised by Prof. Yulia Tsvetkov. Topic: Multi-Agent \[[SwitcherLM](https://arxiv.org/abs/2510.09913)\].\
+\- [Chengsong Huang](https://chengsong-huang.github.io/) (2025), WUSTL, advised by Prof. Jiaxin Huang. Topic: Self-improving LLM \[[R-Zero](https://arxiv.org/abs/2508.05004)\].\
+\- [Shangbin Feng](https://bunsenfeng.github.io/) (2025), UW at Seattle, advised by Prof. Yulia Tsvetkov. Topic: Multi-Agent \[[SwitcherLM](https://arxiv.org/abs/2510.09913)\].\
 \- [Zongxia Li](https://zli12321.github.io/) (2025), UMD, advised by Prof. Jordan Boyd-Graber. Topic: Self-improving LLM \[[Vision-SR1](https://arxiv.org/abs/2508.19652)\].\
 \- [Siru Ouyang](https://ozyyshr.github.io/) (2024), UIUC, advised by Prof. Jiawei Han. Topic: LLM agent \[[RepoGraph](https://arxiv.org/abs/2410.14684)\].\
 \- [Mengzhao Jia](https://mengzhaojia.notion.site/Mengzhao-JIA-664cb411f0d341f992ee2a40dc4e00af) (2024), UND, advised by Prof. Meng Jiang. Topic: Multi-modal \[[Leopard](https://arxiv.org/abs/2410.01744)\].\

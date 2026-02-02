@@ -16,21 +16,22 @@ redirect_from:
   [ICLR 2026] International Conference on Learning Representations<br>
   \[[pdf](https://arxiv.org/abs/2508.05004)\] \[[code](https://github.com/Chengsong-Huang/R-Zero)\]
 
-* (3) Parallel-r1: Towards parallel thinking via reinforcement learning <br>
-  Tong Zheng, Hongming Zhang, **<u>Wenhao Yu</u>**, Xiaoyang Wang, Runpeng Dai, Rui Liu, Huiwen Bao, Chengsong Huang, Heng Huang, Dong Yu
-  [ICLR 2026] International Conference on Learning Representations<br>
-  \[[pdf](https://arxiv.org/abs/2509.07980)\] \[[code](https://github.com/zhengkid/Parallel-R1)\]
 
-* (2) Self-rewarding vision-language model via reasoning decomposition <br>
+* (3) Self-rewarding vision-language model via reasoning decomposition <br>
   Zongxia Li, **<u>Wenhao Yu</u>**, Chengsong Huang, Rui Liu, Zhenwen Liang, Fuxiao Liu, Jingxi Che, Dian Yu, Jordan Boyd-Graber, Haitao Mi, Dong Yu <br>
   [ICLR 2026] International Conference on Learning Representations<br>
   \[[pdf](https://arxiv.org/abs/2508.19652)\] \[[code](https://github.com/zli12321/Vision-SR1)\]
 
-* (1) Don't Throw Away Your Pretrained Model: Collaborative Inference with Aligned Models <br>
+* (2) Don't Throw Away Your Pretrained Model: Collaborative Inference with Aligned Models <br>
   Shangbin Feng, **<u>Wenhao Yu</u>**, Yike Wang, Hongming Zhang, Yulia Tsvetkov, Dong Yu <br>
   [ICLR 2026] International Conference on Learning Representations<br>
   \[[pdf](https://arxiv.org/abs/2510.09913)\] \[[code](https://github.com/BunsenFeng/switch_generation)\]
 
+
+* (1) Parallel-r1: Towards parallel thinking via reinforcement learning <br>
+  Tong Zheng, Hongming Zhang, **<u>Wenhao Yu</u>**, Xiaoyang Wang, Runpeng Dai, Rui Liu, Huiwen Bao, Chengsong Huang, Heng Huang, Dong Yu
+  [ICLR 2026] International Conference on Learning Representations<br>
+  \[[pdf](https://arxiv.org/abs/2509.07980)\] \[[code](https://github.com/zhengkid/Parallel-R1)\]
 
 **2025**
 
